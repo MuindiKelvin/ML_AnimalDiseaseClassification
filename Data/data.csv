@@ -1,0 +1,1072 @@
+AnimalName,symptoms1,symptoms2,symptoms3,symptoms4,symptoms5,Dangerous,Type_of_Disease
+Dog,Fever,Diarrhea,Vomiting,Weight loss,Dehydration,Yes,Respiratory
+Dog,Fever,Diarrhea,Coughing,Tiredness,Pains,Yes,Gastrointestinal
+Dog,Fever,Diarrhea,Coughing,Vomiting,Anorexia,Yes,Respiratory
+Dog,Fever,Difficulty breathing,Coughing,Lethargy,Sneezing,Yes,Respiratory
+Dog,Fever,Diarrhea,Coughing,Lethargy,Blue Eye,Yes,Respiratory
+Dog,Fever,Respiratory distress,Seizuers,Hyperesthesia,Sudden death,Yes,Respiratory
+Dog,Ulcers,Diarrhea,Poor Appetite,Tarry Stool,Enlarged lymph nodes,Yes,Respiratory
+Dog,Facial Swelling,Bloody Drool,Foul Breath,Unable To Eat,Lossened Teeth,Yes,Respiratory
+Dog,Fever,Difficulty breathing,Thrist and urination,Weight loss,Enlarged lymph nodes or Swelling,Yes,Respiratory
+Dog,Swelling on leg,Painfull,Nasal Discharge,Broken Bones,Nasal Discharge,Yes,Respiratory
+Dog,Short term lethargy,Loss of  appetite,Weekness in the back legs,Rapid Heart Rate,Week pulse,Yes,Respiratory
+Dog,Swollen lymph nodes,Difficulty walking,Back Pain,Lethargy,Vaginal Discharge,Yes,Respiratory
+Dog,Fever,Diarrhea,Abdominal pain,Stiffness,Severe weekness and depression,Yes,Respiratory
+Dog,Fever,Loss of  appetite,Reduce Energy,Lameness,Swelling of joints,Yes,Gastrointestinal
+Dog,Fever,Chronic eye inflamation,Poor Appetite,Lethargy,Neurologic abnormalities,Yes,Respiratory
+Dog,Fever,Swelling of face or leg,Poor Appetite,Depression,Pains,Yes,Respiratory
+Dog,Diarrhea with muscus,Tensemus,Watery Stool,Flatulence,Pains,Yes,Respiratory
+Dog,Strong cough,Runny nose,Sneezing,Lethargy,Loss of appettite,Yes,Respiratory
+Dog,Fever,Inflammed eye,Coughing,Depression,Limping,Yes,Respiratory
+Dog,Fever,Difficulty breathing,Coughing,Eye and Skin change,Unable to exercise,Yes,Gastrointestinal
+Dog,Fever,Loss of  appetite,Coughing,Lethargy,Joint Pain,Yes,Respiratory
+Dog,Lesions in the nasal cavity,Lesions on nose,Nose Bleeds,Noisy Breathing,Lesions on nose,Yes,Respiratory
+Dog,Hair loss,Dandruff,Darkened skin,Crusting of the skin,Ulcerated skin,Yes,Respiratory
+Dog,Greenish-yellow nasal discharge,Lack of pigmentation,Sneezing,Lethargy,Pain on face,Yes,Gastrointestinal
+Dog,Fever,Diarrhea,Poor Appetite,Weight loss,Vomitting,Yes,Gastrointestinal
+Dog,Jaundice,Pneumonia ,Lession on the skin,pain ,Vomitting,Yes,Gastrointestinal
+Dog,Poor coat apperence ,Diarrhea,Vomiting,Weight loss,Dehydration,Yes,Respiratory
+Dog,Watering,No appp,Vomiting,Lethargy,Dehydration,Yes,Respiratory
+Dog,Straining,Diarrhea,Vomiting,Weight loss,Blindness,Yes,Respiratory
+Dog,Upset stomach,Diarrhea,Vomiting,Muscle pain,Muscle stiffness,Yes,Respiratory
+Dog,Upset stomach,Diarrhea,Coughing,Weight loss,Anaemia,Yes,Respiratory
+Dog,Allergic Reaction,Poor appetite,Coughing,Weight loss,Distended chest,Yes,Respiratory
+Dog,Fever,Anoxeria,Weight loss,Lethargy,Pain,Yes,Respiratory
+Dog,Limping,Willnot run to jump,Swelling ,Week legs,Pain on leg,Yes,Gastrointestinal
+cat,Fever,Eye ulcer,Congestion,Depression,Pink eye,Yes,Gastrointestinal
+cat,Pnemonia,Loss of  appetite,Eye disharge,Lameness,Arthritis,Yes,Respiratory
+cat,Fever,Seizures,Hydrophobia,Jaw is dropped,Shyness or aggression,Yes,Respiratory
+cat,Bloody Urine,Diffculty breathing,Vomiting,Weight loss,Anorexia,Yes,Gastrointestinal
+cat,Loss of eat,Difficulty in breathing,Swelling ,Lameness,Neurologic abnormalities,Yes,Respiratory
+cat,Dark or black face,Diarrhea,Vomiting,Blood in faces,Pain,Yes,Respiratory
+cat,Jaundice,Difficulty in breathing,Seizuers,Lethargy,Pale gums,Yes,Respiratory
+cat,Appetite varies,Diarrhea,Vomiting,Weight loss,Pain,Yes,Respiratory
+cat,Loss of eat,Fell unwell,Lethargy,Weight loss,Skin issue,Yes,Respiratory
+cat,Sickness,Loss of  appetite,Vomiting,Weight loss,Raised growth or bump,Yes,Respiratory
+cat,Nasal Bleeding,Diffulty chewing,Swelling ,Weight loss,Anorexia,Yes,Respiratory
+cat,Ulcers,Lesions ,Scabs,Lumps,"Bumps(black,grey or red)",Yes,Respiratory
+cat,Gasc,Loss of  appetite,Blood in stool,Stomach growling,Black stool,Yes,Respiratory
+cat,Shaking head,Scartching ear,Black on ear,Bad smell,Red and inflammation ear,Yes,Respiratory
+cat,Attacks,Loss of  appetite,Coughing,Weight loss,Periodic vommiting,Yes,Respiratory
+cat,Blood stool,Diarrhea,Coughing,Weight loss,Anemia,Yes,Respiratory
+cat,Nasal discharge,Nosebleeds,inflamed nostrils,Sneezing,Lound breathing,Yes,Gastrointestinal
+cat,Polyuria,Loss of  appetite,Vomiting,Weight loss,Polydipsa,Yes,Respiratory
+cat,Exessive Urination,Change in gait,Vomiting,Weight loss,Inability to jump,Yes,Digestive
+cat,Convulsion,Loss of consciousness,chewing,Twitching,Salivating,Yes,Respiratory
+cat,Wheezing,Rapid Breathing,Coughing,Swallowing,Effort to breath,Yes,Respiratory
+cat,Jaundice,Weekness,Lethargy,Weight loss,Anorexia,Yes,Respiratory
+cat,Lession on cat skin,Dandruff in cat coat,Red patches,Hair loss,Skin issue,Yes,Respiratory
+cat,Lethargy,Diarrhea,Vomiting,Discharge from eye,Anorexia,Yes,Respiratory
+cat,Skin irritation,Scartching,Lethargy,Hair loss,Excessive grooming,Yes,Respiratory
+cat,Floopy muscle,Speech delay,Intellectual disability,Walking problem,Eye movements,Yes,Respiratory
+cat,Sensitivity to bright light,Disharge from affected eye,Inflammation,Clouded cornea,Rubbing eye,Yes,Respiratory
+cat,Fever,Diarrhea,Vomiting,Cramps,Dehydration,Yes,Gastrointestinal
+cat,Tenderness,Erythema,Swelling ,Scartch,Pain,Yes,Respiratory
+cat,Fever,Diarrhea,Vomiting,Salivation,Decrease appetite,Yes,Respiratory
+cat,Scaly patches of skin,Sore,Scabs,Scartch,Hair loss,Yes,Respiratory
+cat,Fatty stool,Diarrhea,Vomiting,Weight loss,Pain,Yes,Respiratory
+cat,Nausea,Loss of appetite,Vomiting,Firm,Distended stomach,Yes,Respiratory
+cat,Fever,Swelling  in the bite area,Lethargy,Limp,Pain,Yes,Respiratory
+cat,Fever,Loss of appetite,Eyeproblem,Liver disease,Nuerological,Yes,Respiratory
+cat,Fever,Mild sneezing,Coughing,Nasal,Ocular discharge,Yes,Respiratory
+Rabbit,Most often none,Sneezing,Nasal Discharge,Dyspnea,Pain,Yes,Gastrointestinal
+Rabbit,Fever,Diarrhea,Vomiting,Blood from mouth,Shock,Yes,Respiratory
+Rabbit,Discomfort,Diarrhea,Dry or dull hair,Grinding teeth,Pain,Yes,Respiratory
+Rabbit,Loss of appetite,Swelling,Nasal Discharge,Blindness,Lethargy,Yes,Gastrointestinal
+Rabbit,Rhinitis,Pneumonia ,abscessess,Torticollis,Septicemia,Yes,Respiratory
+Rabbit,Fever,Diarrhea,Enteritis,Weight loss,Stomach  cramps,Yes,Respiratory
+Rabbit,Immediate death,Difficulty in breathing,Blue colored lip,Bloody discharge,Neurologic abnormalities,Yes,Respiratory
+Rabbit,Fever,Pox lession on skin,Skin reashes,Nasal discharge,Mortality varies,Yes,Gastrointestinal
+Rabbit,Red on affected area,Horny growth,Wart-like growth,Red skin,Lesions on ear,Yes,Respiratory
+Rabbit,Fever,Chills,Skin ulcer,Exhaustion,Swollen and painfull,Yes,Gastrointestinal
+Rabbit,Watering Diarrhea,Depression,Emaciation,Ruffled Coat,Lethargy,Yes,Respiratory
+cow,loss in weight,emaciation,loss of appetite,Weakness,diarrhoea,Yes,Respiratory
+chicken,loss of appetite,diarrhea,swollen purple wattle,Swollen comb,Lameness,Yes,Respiratory
+chicken,loss of appetite,diarrhea,ruffled feathers,Weight loss,Inability to absorb nutrients,Yes,Respiratory
+chicken,egg production decreases,stunted growth,Blindness,Distinctive bumps,Facial swelling,Yes,Respiratory
+chicken,loss of appetite,thirst,ruffled feathers,Closed eyes,Diarrhea,Yes,Respiratory
+cow,Fever,weakened legs,los of the ability to walk,Mammary glads,Fluif filled blisters,Yes,Gastrointestinal
+cow,Fever,weakened legs,los of the ability to walk,Weight loss,Lameness,Yes,Respiratory
+cattle, abortion at the end of gestation,Fatigue,weak calves,Join pains,Swelling of internal organs,Yes,Respiratory
+mammal,swollen,red-colored ,hot udder,Milk getting out more watery,Milk getting out more thick,Yes,Gastrointestinal
+Cattle,Fever,Distress,Trembling,Staggering,Convulsion,Yes,Respiratory
+Cattle,Fever,Animal become lame,Prostrat,Painfull Swalling,Lameness,Yes,Gastrointestinal
+Cattle,Fever,Difficulty in breathing,Dribbling of saliva,Inability of Swalllon Feeding,Moist and painfull,Yes,Respiratory
+Cattle,Fluif Faeces on blood and muscle,Sudden Death,Blooody Fluid,Red Diarrhea,Faeces are streake with blood,Yes,Respiratory
+Cattle,Fever,Pneumonia ,Stand with head droping,Weight loss,Abnormal behaviour,Yes,Respiratory
+Cattle,Fever,Slightly Swollen,Lession on the skin,Milky Hard,Papules appear on teats anad udder,Yes,Gastrointestinal
+Cattle,Fever,Dull,Hind quarted soil,Animal stop feed,Decrease in milk production,Yes,Respiratory
+Cattle,Severe,Diarrhea,Blood on faces,Appetite,Milk reduce,Yes,Respiratory
+Cattle,Fever,Depression,Relunctance to move,Salivation,Nasal Discharge,Yes,Respiratory
+Cattle,Normal appetite,Diarrhea,Swelling may occur under jaw,Weight loss,Drop in milk production,Yes,Respiratory
+Cattle,Swelling on leg,Heat,Hardness,Redness,Pain,Yes,Respiratory
+Cattle,Inability to stand ,Diarrhea,Bottle Jaw,Pot belly,Dry Hair coat,Yes,Gastrointestinal
+Cattle,Excitability,Nervousness,loss of appetite,Hyper sensitivity,Weakness,Yes,Respiratory
+Cattle,Fever,Depression,Attack,Bite other animals,Pain,Yes,Respiratory
+Cattle,Fever,Difficulty in breathing,Coughing,Painfull,Eye become dull,Yes,Respiratory
+Cattle,Fever,Ulcer on gum,Red eye,Yellowish Discharge,Bloody Diarrhea,Yes,Gastrointestinal
+Cattle,Fever,Diarrhea,Coughing,Consistency of milk,Pain,Yes,Gastrointestinal
+Cattle,Animal gets uneasy,Difficulty in breathing,Difficult in respiration,Excessive production,Stamping And pedding of hind eye,Yes,Respiratory
+Horse,Fever,Chills,Severe colic,Weakness,Anorexia,Yes,Digestive
+Horse,Fever,Body stiffness,Lethargy,Severe inflammation,Pain,Yes,Respiratory
+Horse,Sickness,Diarrhea,Weight loss,Nausea,Dehydration,Yes,Gastrointestinal
+Horse,Sudden death,Trouble walking,Paralysis,Depression,Convulsion,Yes,Respiratory
+Horse,Fever,Abortion,Kidney failure,Inflammation of eye,Eye redness,Yes,Respiratory
+Horse,Small red bumps,Pneumonia ,Septic Arthritis,Skin infection,Pain,Yes,Digestive
+Horse,Fever,Ataxia,Aggressiveness,Depression,Obscure Lameness,Yes,Gastrointestinal
+Horse,Ring shaped Lesion,Round patches,Dry skin,Size of lesions vary,Pain,Yes,Gastrointestinal
+Horse,Fever,Diarrhea,loss of appetite,Colic,Weakness,Yes,Respiratory
+Horse,Fever,Depression,loss of appetite,Stumbling,Ataxia,Yes,Gastrointestinal
+Turtle,Bubbles in the mouth,Wheezing,loss of appetite,Lethargy,Nasal Discharge,Yes,Respiratory
+Turtle,Changes in outer layer skin,Swelling of eye,loss of appetite,Lethargy,Respiratory infection,Yes,Respiratory
+Turtle,Red Tinge,Slim over the shell,Bad smell,Easily damage shell,Flaking of the Scutes,Yes,Respiratory
+Turtle,Passing of undigested food,Diarrhea,Vomiting,Gas or bloating,Dehydration,Yes,Gastrointestinal
+Hamster,Smell,Diarrhea,loss of appetite,Excess sleeping,Folded Ears,Yes,Respiratory
+Hamster,Loss of activity,Rough coat,loss of appetite,Weight loss,Eventually death,Yes,Respiratory
+Hamster,Fever,Diarrhea,Vomiting,Dehydration,Pain,Yes,Respiratory
+Hamster,Bald patches,Hair loss,Crusty,Flaky,Red lesion from bald patches,Yes,Gastrointestinal
+Hamster,Poor condition,Enlarged lymph nodes,Diarrhea,Weight loss,Pain,Yes,Gastrointestinal
+Hamster,Fever,Chills,Coughing,Progressive weakness,Joint Pain,Yes,Gastrointestinal
+Hamster,Heavy infection,Diarrhea,Vitamin and minerals defiency,Weight loss,Pain,Yes,Respiratory
+Lion,Fever,Diarrhea,Muscle weakness,Muscle pain,Abdonormal discomfort,Yes,Respiratory
+Lion,Fever,Chills,Headache,Nausea,Pain,Yes,Respiratory
+Lion,Thicked skin,Hair tining,Hair loss,Scabbing,Itchiness,Yes,Respiratory
+Lion,Facial edema,Loss of earing,Vomiting,Head ache,Throat and Ear pain,Yes,Gastrointestinal
+Lion,General malaise,Hepatic failure,Vomiting,Weight loss,Abdonormal pain,Yes,Gastrointestinal
+Lion,Upset stomach,Loss of appetite,Nause,Weight loss,Abdonormal pain,Yes,Respiratory
+Lion,Fever,Muscle Loss,Skeleten pain,Weight loss,Wasting,Yes,Digestive
+Lion,Oedema,Swelling of face or leg,Swelling of neck,Weight loss,Pain,Yes,Respiratory
+Lion,Poor growth,Short stature,Enlargement of bones,Lameness,Weigth bearing long bones,Yes,Gastrointestinal
+Lion,Fever,Chills,Sweat,Head ache,Fatique,Yes,Gastrointestinal
+Lion,Fever,Loss of appetite,Weakness,Weight loss,Vomitting,Yes,Respiratory
+Lion,Dullness,Lacrimation,Coughing,Diarrhea,Seizures,Yes,Respiratory
+Lion,Vomiting,Bloody diarrhea,Lethargy,Dehydration,Anorexia,Yes,Respiratory
+Lion,Fever,Uncharacteristic hiding,Depression,Dehydration,Stopped eat,Yes,Respiratory
+Lion,Fever,Poor coat condition,Infection of the skin,Weight loss,Fatique,Yes,Respiratory
+Lion,Weakness,Stiffness,Trembling,White mark on the muscle,Loss of vitamin E,Yes,Respiratory
+Fox,Partial Paralysis,Staggering as drunk,Self Mutilation,Acting aggressive,Acting unnaturally tame,Yes,Respiratory
+Fox,Fever,Tiredness,Headache,Skin rashes,Pain,Yes,Respiratory
+Fox,Thick Crusting,Itchiness,Hair loss,Watery eye,Pain,Yes,Respiratory
+Fox ,Constant pacing,Facial muscle twitching,abnormalalities,Blindness,Muscle pain,Yes,Respiratory
+Fox,Loss od appetite,Wheezing,Seizuers,Skin rashes,Fatique,Yes,Respiratory
+Fox,Indigestion,Abdminal pain,Constipation,Diarrhea,Nausea,Yes,Respiratory
+Fox,Blood in urine,Diarrhea,Vomiting,Lethargy,Bleeding in eye and skin,Yes,Digestive
+Goat,Fever,Malaise,Weakness,Weight loss,Pain,Yes,Respiratory
+Goat,Fever,Diarrhea,Vomiting,Stomach cramps,Nausea,Yes,Respiratory
+Goat,Fever,Lack of coordination,Depression,Salivation,Facial paralysis,Yes,Respiratory
+Goat,Sores on lip,Infection,Sores on lower leg and teats,Lesion,Pain,Yes,Respiratory
+Goat,Abortion on late pregancy,Stillbirth,Retained Placenda,Endomeritis,Decrease appetite,Yes,Respiratory
+Goat,paresis,paralysis,Weakness,Stomach cramps,Diarrhea,Yes,Respiratory
+Goat,Fever,Diarrhea,Swelling,Weight loss,Pain,Yes,Gastrointestinal
+Goat,Fever,Hemolytic anemia,Hemoglobinuria,pulmonary congestion,Jaundice,Yes,Respiratory
+Goat,Abortion ,Mummification,Stillbirth,Weak kids,Pain,Yes,Respiratory
+Goat,Runny nose,Difficulty in breathing,Coughing,Weakness,Loss of appettite,Yes,Respiratory
+Goat,Fever,Nasal discharge,Respiratory distress,Pox lesion,Pain,Yes,Respiratory
+Goat,Fever,Dark colored bloody,Incoordination,Difficulty in breathing,Terminal convulsion,Yes,Respiratory
+Goat,Fever,Dysentery,Swelling,Immediate death,Pain,Yes,Respiratory
+Goat,Fever,Respiratory distress,Mucous discharge,Reduce feed,Weight gain,Yes,Respiratory
+Goat,Decreased milk,Holding limbs off the ground,Weight loss,Lameness,Wool production,Yes,Respiratory
+Goat,Swelling of udder,change in milk,Swollen,Tender to touch,Pain,Yes,Gastrointestinal
+Goat,Fever,Respiratory distress,Occular discharge,Mouth lesion,Nasal Discharge,Yes,Respiratory
+Goat,Fever,Wound lesion,Excess salivary,Difficult in walking,Pain,Yes,Gastrointestinal
+Goat,Emaciation,Edema in lower jaw,Coughing,Shivering,Anemia,Yes,Respiratory
+Goat,Fever,Reduce growth,Kid moratality,Weakness,Dullness,Yes,Respiratory
+Goat,Fever,Reduce growth,Edema in lower jaw,Weight loss,Anemia,Yes,Respiratory
+Goat,Emaciation,Diarrhea,Kid moratality,Weakness,Anemia,Yes,Respiratory
+Goat,SkinAllergy,Reduce growth,Wound,Head ache,Dizziness,Yes,Respiratory
+Goat,Watering of eyes,Redness of white of the eye,Swelling of eyelid,Cornea become cloudy,Tear production,Yes,Respiratory
+Goat,Berberi,Wasting,Nervous,Weight loss,Anorexia,Yes,Digestive
+Goat,Gastritis,morbidity,Bloody,Mortality,Anemia,Yes,Gastrointestinal
+Deer,Fever,Severe headache,Vomiting,Coughing,Fatique,Yes,Respiratory
+Deer,Fever,Tiredness,Swollen kidney,Hematuria,Muscle aches,Yes,Respiratory
+Deer,Fever,Diarrhea,Decreased appetite,Vomiting,Bloody,Yes,Respiratory
+Deer,Gas,Diarrhea,Abdominal discomfort,Vomiting,Nausea,Yes,Respiratory
+Deer,Drooping ears,Lack of coordination,Drooling,Wasting,Listlessness,Yes,Respiratory
+Chicken,Edema,diarrhea,Nasal Discharge,Decresed egg production,Sneezing,Yes,Respiratory
+Chicken,Drooping wings,Depression,Nasal Discharge,Coughing,Greenish diarrhea,No,Respiratory
+Chicken,Weakness,Yellow or green dropping,Purplish combs,Wattles,Drop on egg production,No,Respiratory
+Chicken,Neck paralysis,Diarrhea,ruffled feathers,Labored breathing,Weakness,No,Respiratory
+Chicken,Facial Swelling,Lacrimation,Diarrhea,Anorexia,Nasal Discharge,No,Respiratory
+Chicken,loss of appetite,Depression,Paralyzed leg,Weight loss,Anemia,No,Respiratory
+Chicken,Dejection,Loss of appetite,Slow growth,Diarrhea,Lesion,No,Respiratory
+Chicken,Severe swellimg,Heavy Breathing,Diarrhea,Weight loss,Pain,No,Respiratory
+Chicken,Weakness,Diarrhea,High moratality,Dehydration,Anorexia,No,Respiratory
+Monkey,Fever,Hepatitis,Skin rashes,Weight loss,Pain,No,Respiratory
+Monkey,Sneezing,Epistaxis,Coughing,Difficulty in breathing,Nasal Discharge,No,Respiratory
+Monkey,Sneezing,Unilateral Nasal discharge,Gagging,Retching,Weight loss,Yes,Respiratory
+Monkey,Fever,Depression,Coughing,Weight loss,Anorexia,Yes,Respiratory
+Monkey,Shallow breathing,Halitosis,Coughing,Lethargy,Nasal Discharge,Yes,Respiratory
+Monkey,Dyspnea,Sneezing,Coughing,Difficulty in breathing,Infection,Yes,Respiratory
+Monkey,Dyspnea,Sneezing,Coughing,Difficulty in breathing,Pain,Yes,Respiratory
+Monkey,Fever,Rhinorrhea,Coughing,Sneezing,Dehydration,Yes,Respiratory
+Monkey,Fever,Rhinorrhea,Coughing,Facial edema,Dyspnea,Yes,Respiratory
+Monkey,Fever,Rhinorrhea,Coughing,Sneezing,Nasal Discharge,Yes,Respiratory
+Monkey,Mortality,Painfull,Coughing,Weight loss,Nasal Discharge,Yes,Respiratory
+Monkey,Skin rashes,Diarrhea,Death,Facial edema,Pain,Yes,Respiratory
+Monkey,Fever,Dyspnea,Coughing,Lethargy,Weightloss,Yes,Respiratory
+Monkey,Fever,Dyspnea,Coughing,weakness,Anorexia,Yes,Respiratory
+Monkey,Facial edema,Dyspnea,Conjuctivtis,Weakness,Pharyngitis,Yes,Respiratory
+Monkey,Fever,Pneumonia ,Congestion,Lethargy,Nasal Discharge,Yes,Respiratory
+Monkey,Fever,Death,Coughing,Weight loss,Nasal Discharge,Yes,Respiratory
+Monkey,Sneezing,Convulsion,Seizuers,Weight loss,Nasal Discharge,Yes,Respiratory
+Monkey,Fever,Death,Coughing,Dyspnea,Anorexia,Yes,Respiratory
+Monkey,Dyspnea,Difficulty in breathing,Coughing,Lethargy,Nasal Discharge,Yes,Respiratory
+Monkey,Air sacculitis,Halitosis,Coughing,Enteritis,Weight loss,Yes,Gastrointestinal
+Monkey,Fever,Convulsion,Sudden death,Urine retention,Weight loss,Yes,Respiratory
+Monkey,Dyspnea,Neurologic sign,Coughing,Depression,Anorexia,Yes,Gastrointestinal
+Monkey,Fever,Dyspnea,Coughing,Lethargy,Anorexia,Yes,Respiratory
+Monkey,Labored breathing,Dyspnea,Coughing,Depression,Anorexia,Yes,Respiratory
+Monkey,Blood from mouth,Diarrhea,Coughing,Lethargy,Weight loss,Yes,Respiratory
+Monkey,Hemopytsis,Diarrhea,Asymptomatic,Death,Epistaxis,Yes,Respiratory
+Monkey,Restlessness,Weakness,Blue straws,Death,Pain,Yes,Respiratory
+Birds,Stripped remiges,Less Feather growth,Ruffled feathers,Defienciency in vitamin,Diarrhea,Yes,Respiratory
+Birds,Apathy,Depression,Dilation of duodenum,Cloacal pasting,Congestion,Yes,Respiratory
+Birds,Lepatomegaly,Splenomegaly,Vomiting,Swollen,Shaking oh head,Yes,Respiratory
+Birds,Balance problem,Abdominal destention,Neck Paralysis,Weight loss,Pains,Yes,Respiratory
+Birds,Legness,Paresis,Coughing,Weight loss,Shortness of breath,Yes,Gastrointestinal
+Birds,Fever,Sour Throat,Mortality,Muscle aches,Abnormalities,Yes,Gastrointestinal
+Birds,Difficulty in feeding,Preening,Weakness,Beak overgrowth,Anemia,Yes,Respiratory
+Birds,Fever,Loss of appetite,Ear infection,Depression,Nasal Discharge,Yes,Respiratory
+Birds,Forthy eye,Torticollis,Weakness,Swelling,Emaciation,Yes,Respiratory
+Birds,Inappentence,Diarrhea,Tremors of the head,Dehydration,Weight loss,Yes,Respiratory
+Birds,Lack of walking,Lack of flying,Roughened,Dehydration,Pains,Yes,Respiratory
+Birds,Skin rashes,Small and yellow bumps,Swelling,Dry Scabs,Lameness,Yes,Respiratory
+Birds,Scabs On feet,Redness ,Trachea,Thickening of skin,Pains,Yes,Gastrointestinal
+Birds,Enlarged Thymus,Obstructed Lungs,Lethargy,Skin rashes,Weight loss,Yes,Respiratory
+Birds,Fluffed Feather,Loss of appetite,Coughing,Vomiting,Snoring,Yes,Respiratory
+Birds,Fever,Difficultty in Breathing,Yellow Eye,Sneezing,Diphtherictic,Yes,Respiratory
+Birds,Heavy Breathing,Yellow in beak,Tail_Bobbing,Weakness,Sleeping Excessively,Yes,Respiratory
+Birds,Puffed_up Feather,Less Eat,Headache,Half-closed eye,Seizures,Yes,Respiratory
+Birds,Fever,Diarrhea,Swollen Abdomen,Vomiting,Difficulty in Breathing,Yes,Respiratory
+Birds,Tail Wagging,Straining,Lethargy,Weakness,Diarrhea,Yes,Gastrointestinal
+Birds,Overweight,Loss of Appetite,Ruffled feathers,Depression,Diarrhea,Yes,Respiratory
+Birds,Dejection,Loss of Appetite,Stress,Coughing,Pains,Yes,Respiratory
+Birds,Skin infection,Secondary Infection,Coughing,Depression,Shaking oh head,Yes,Gastrointestinal
+Birds,Discharge From eyes,Lethargy,Coughing,Sneezing,Fatique,Yes,Respiratory
+Birds,Fever,Chills,Retarded Growth,Chest Pain,Chest Pain,Yes,Respiratory
+Birds,Pale comb,Lame,Death,Swolling of joint,Eye closed,Yes,Respiratory
+Birds,Lethargy,Loss of appetite,Difficulty in Swallowing,Weakness,Vision Problem,Yes,Respiratory
+Birds,Emaciation,Difficulty in breathing,Vomiting,Weakness,Diarrhea,Yes,Respiratory
+Birds,Liquid Dropping,Exhaustion,Ataxia,Lethargy,Seizures,Yes,Respiratory
+Birds,Undigested in their feces,Loss of Appetite,Loss of pigment,Weakness,Bloody in feather,Yes,Respiratory
+Birds,Sharp Feather,Clubbed Feather,Eye disharge,Loss of powder down,Diarrhea,Yes,Respiratory
+Birds,Ruffled Appearance,Loss of Appetite,Vomiting,Green Dropping,Nasal Discharge,Yes,Respiratory
+Birds,Sinuses,Swollen Eyelids,Skin rashes,Sneezing,Misshapen Beak,Yes,Respiratory
+Birds,Feather Loss,Feather Plucking,Coughing,Itching,Nasal Discharge,Yes,Respiratory
+Birds,Watery Eyes,Eye closed,Weight loss,Sneezing,Nervous Issue,Yes,Respiratory
+Birds,Bony Lesion,Skin Rashes,Ataxia,Anorexia,Weakness,Yes,Respiratory
+Birds,Tremor of head and neck,Blindness,Kicking at the belly,Exercise in tolerance,Pains,Yes,Gastrointestinal
+Sheep,Swollen Belly,Dullness,Discharge,Urination,Lying down,Yes,Respiratory
+Sheep,Fever,Dullness,Depression,Weight loss,Anorexia,Yes,Respiratory
+Sheep,Fever,Succumb,Spread of infection,Weight loss,Anorexia,Yes,Respiratory
+Sheep,Signs in rams,Signs in ewe,Underdeveloped muscles,Semen Examination,Reduce Lamp marking,Yes,Respiratory
+Sheep,Spines,Unusally thin,Weakness,Enlarged skulls,Weakness,Yes,Respiratory
+Sheep,Discharge ,Sudden Abortion,Hemoglobinuria,Death of lamb,Weight Loss,Yes,Respiratory
+Sheep,Fever,Hemolytic anemia,Sweats,congestion,Jaundice,Yes,Respiratory
+Sheep,Fever,Tiredness,loss of appetite,Muscle aches,Chest Pain,Yes,Respiratory
+Sheep,Excess salivation,Diarrhea,Depression,Nasal discharge,Weakness,Yes,Respiratory
+Sheep,Fever,Diarrhea,Incoordination,Abortion,Blood Poisioning ,Yes,Respiratory
+Sheep,Fever,Wasting,Dehydration,Deability,Weakness,Yes,Respiratory
+Sheep,Fever,Diarrhea,Muscle twiching,Lameness,Weight loss,Yes,Respiratory
+Sheep,Teeth griding,Apathy,Dehydration,Ruminal stasis,Watery faeces,,Respiratory
+Sheep,Fever,Depression,Lying down,Weak Pulse,Colic,Yes,Gastrointestinal
+Sheep,Swelling,Lameness,Hyperaestesia,Hock joint,Weight loss,Yes,Respiratory
+Sheep,Head tilt,Circling,Muscles ache,Blindness,Seizures,Yes,Respiratory
+Sheep,Decreased growth of bone,Depression,Grunting,Lameness,Weight loss,Yes,Respiratory
+Sheep,Swollen left abdomen,Lying Down,Staggering,Urination,Extension of neck,Yes,Respiratory
+Sheep,Cessation of eructation,Difficulty in breathing,Depression,Anorexia,Colic,Yes,Respiratory
+Sheep,Fever,Excession Salivation,Abnormal conformation,Ulcerated muscle,Ulcerated ear,Yes,Respiratory
+Sheep,Barren ewes,Abortion,Poor conformation,Hairy Fleeces,Weight loss,Yes,Respiratory
+Sheep,Tremor ,Viability,Coughing,Anorexia,Weight Loss,Yes,Respiratory
+Sheep,Fever,Tachypea,Swelling of head and neck,Anorexia,Nasal Discharge,Yes,Respiratory
+Sheep,lllthrift,Skin Lesion,Lameness,Swelling on theBody,Weight loss,Yes,Respiratory
+Sheep,Swelling,Heat,Flank,Pain,Nasal Discharge,Yes,Respiratory
+Sheep,Fever,Loss of appetite,Lameness,Rump,Weight Loss,Yes,Gastrointestinal
+Sheep,Fever,Swelling,loss of appetite,Anorexia,Weight Loss,Yes,Respiratory
+Sheep,Fever,Diarrhea,Bloody droping,Abdominal discomfort,Lethargy,Yes,Respiratory
+Sheep,Fever,Depression,Small intestines,Death,Flock Moratality,Yes,Respiratory
+Sheep,haemorrhage,Straw colored,Abdominal pain,Death,Carcass decomposes,Yes,Respiratory
+Sheep,Bloody Diarhhea,Depression,Dullness,Death,Weakness,Yes,Respiratory
+Sheep,Reluctant Move,Loss of Appetite,Lameness,Death,Weakness,Yes,Respiratory
+Sheep,Fever,Depression,loss of appetite,Loss of appetite,Pains,Yes,Respiratory
+Sheep,Fever,Difficulty in breathing,Lethargy,Death,Pains,Yes,Respiratory
+Sheep,Poor wool,Loss of Appetite,Lameness,Small size,Poor Body condition,Yes,Respiratory
+Sheep,Poor immune function,Achomotrica,Dehydration,Death,Pains,Yes,Respiratory
+Sheep,Abdominal pain,Diarrhea,Malpresentation,Shock,Anorexia,Yes,Respiratory
+Sheep,Fetopelvic dispropotion,Uteria inertia,Despression,Death,Pains,Yes,Respiratory
+Sheep,Watery Diarrhea dispropotion,Sick,Corneal Ulceration,Loss of appetite,Death,Yes,Gastrointestinal
+Sheep,Severe kerititis,Conjunctive,Discharge,Iris prolapse,Loss of eye,Yes,Respiratory
+Sheep,Swollen,Testical Pain,Itches,Bloody discharge,Tenderness,Yes,Digestive
+Sheep,Fever,Diarrhea,Depression,Scratches,Weight Loss,Yes,Respiratory
+Sheep,Foul Smelling,Dullness,Dirty,Stained Wool,Tail shaking,Yes,Respiratory
+Sheep,Sheep often bites,Fleece become thin,Loss of wool,Death,Pains,Yes,Gastrointestinal
+Sheep,Fever,Dullness,Dullness,Skin Rashes,Pains,Yes,Respiratory
+Sheep,Fever,Difficulty in breathing,Rub,Coughing,Sneezing,Yes,Respiratory
+Sheep,Restlessness,Kick,Lethargy,Nible at their wool,Scratching,Yes,Respiratory
+Sheep,Jaundice,Loss of appetite,Rough Hair coat,Coughing,Death,Yes,Respiratory
+Sheep,Fever,Reduce Reproductive potential,Agalactia,Loss of milk production,Sloughing of the tail,Yes,Gastrointestinal
+Sheep,Pyrexia,Oral lesion,Swelling,Lameness,Death,Yes,Respiratory
+Sheep,Red skin,Loss of appetite,Moist,Lameness,Pains,Yes,Gastrointestinal
+Sheep,Limping,Skin colour change,Flabby,Raw,Sensitive to touch,Yes,Respiratory
+Sheep,Groosly enlarged,Skin may thicken,Convulsion,Edematous,Pains,Yes,Respiratory
+Sheep,Hyperexcitability,Muscular Spasms,Gums,Death,Pains,Yes,Respiratory
+Sheep,Decreased eyelid,Very cold skin,Lethargy,Lip,Fever,Yes,Respiratory
+Sheep,Fever,Diarrhea,Muscus,Weight loss,Death,Yes,Respiratory
+Sheep,Foul Smelling,Diarrhea,Colic,Bloody discharge,Blood Clots,Yes,Gastrointestinal
+Sheep,Inability to digest,Diarrhea,Dehydration,Weight loss,Anemia,Yes,Respiratory
+Sheep,Fever,Diarrhea,Pot belly,Death,Loss of appettite,Yes,Gastrointestinal
+Sheep,Emaciation,Diarrhea,Coughing,Weight loss,Death,Yes,Gastrointestinal
+Sheep,Respiratory distress,Diarrhea,Death,Reduce milk ,Weight loss,Yes,Respiratory
+Sheep,lllthrift,Bottle jaw,Strange behaviour,Aneamia,Jaundice,Yes,Respiratory
+Sheep,Fever,Lameness,Wasting,Blindness,Staggering,Yes,Respiratory
+Sheep,Fever,Diarrhea,Clearly unthrifty,Weight loss,Good appetite,Yes,Respiratory
+Sheep,Fever,Dullness,Relunctance to walk,Infected navels,Pains,Yes,Respiratory
+Sheep,Tenderness,Foot Hot,Facial Paralysis,Weight loss,Pains,Yes,Respiratory
+Sheep,Fever,Lack of coordination,Painfull to touch,Circling,Depression,Yes,Respiratory
+Sheep,Swollen,Warm,Constipation,Depression,Bloody,Yes,Gastrointestinal
+Sheep,Fever,Loss of appetite,Stumbling,Restlessness,Pains,Yes,Gastrointestinal
+Sheep,Unsteady Gait,Twitching,Blindness,Swelling on joints,Pains,Yes,Respiratory
+Sheep,Fever,Ulcer,Scabs,Discharge from eye,Pains,Yes,Respiratory
+Sheep,Smell of ammonia,Ulcer,Depression,Swelling,Pains,Yes,Gastrointestinal
+Sheep,Fever,Lethargy,Blindness,Inappentence,Increased in breathing,Yes,Respiratory
+Sheep,Wandering,Circling,Blindness,Head Pressing,Recumbency,Yes,Respiratory
+Sheep,Tremors,Lying on the side,Difficulty in Swallowing,Death,Not eating,Yes,Respiratory
+Sheep,Fever,Difficulty in breathing,Coughing,Sneezing,Seizures,Yes,Gastrointestinal
+Sheep,Swelling,Loss of appetite,Wool loss,Tears,Death,Yes,Respiratory
+Sheep,Wool is clumped,Feels stiff,Staggering,Skin Rashes,Pains,Yes,Respiratory
+Sheep,Swaying,Behaviour change,Tremor,Jerky limb movements,Pains,Yes,Respiratory
+Sheep,Cell Damage,Behaviour change,Weight loss,Pruritis,Death,Yes,Respiratory
+Sheep,Swelling,Discomfort,Difficulty in rising,Death,Pains,Yes,Respiratory
+Sheep,Swollen,Hot joints,Pustulses,Difficulty in Walk,Pains,Yes,Respiratory
+Sheep,Formation of vesicles,Nostrils,Abnormally long leg,Scabs on lip,Pains,Yes,Respiratory
+Sheep,Skeleten abnormalities,Facial defects,Hair loss,Flat ribs,Underdeveloped muscles,Yes,Respiratory
+Sheep,Wether restless,Kicking,Normal appetite,Attempt to urinate,Pains,Yes,Respiratory
+Sheep,Inability to stand ,Pains to Walk,Depression,Weakness,Stiffness,Yes,Respiratory
+Sheep,Fever,Succumb,Sluggish,Anorexia,Pains,Yes,Respiratory
+Sheep,Listless,Bottle jaw,Malpresentation,Death,Oxygen defiency,Yes,Respiratory
+Sheep,Fever,Swelling,Bloody,Death,Anemia,Yes,Gastrointestinal
+Sheep,Thivk skin,Crusty,Scaly skin,Lesion,Pains,Yes,Respiratory
+Sheep,Fever,Abortion,Vomiting,Weight loss,Anorexia,Yes,Respiratory
+Sheep,Dizzines,Anemia,Vomiting,Head ache,Nausea,Yes,Gastrointestinal
+Sheep,Fever,Wool loss,Swelling,Weight loss,Pains,Yes,Respiratory
+Sheep,Tear production,Anversion to light,Bluish white opacity,Blindness,Pains,Yes,Respiratory
+Sheep,Fever,Swelling,Lameness,Heat,Pains,Yes,Respiratory
+Sheep,Skin color change,Crusty,Scaly skin,Irritation,Blister,Yes,Respiratory
+Sheep,Radip onset,Stiff,Muscle Trembling,Weakness,Death,Yes,Respiratory
+Sheep,Head Shking,Discharge from ear,Scartching ear,Odor to Ear,Redness on ear,Yes,Respiratory
+Sheep,Discharge From eyes,Redness of eye,Blindness,Scartches,Pains,Yes,Respiratory
+Sheep,Fever,Loss of Appetite,Scartches,Death,Pains,Yes,Gastrointestinal
+Sheep,Discomfort,Loss of Appetite,Bloody Diarrhea,Profuse,Pains,Yes,Respiratory
+Sheep,Swelling,Larynx,Swelling on jaw,Hoarseness,Neck Vein Swelling,Yes,Respiratory
+Sheep,Inflammation ,Discomfort,Kicking at the belly,Urine infection,Pains,Yes,Respiratory
+Sheep,Isolation from flock,Stealing ,Nesting behaviour,Pawing at bedding,Pains,Yes,Respiratory
+Sheep,Listless,Difficulty in walking,Grinding of teeth,Blindness,Ataxia,Yes,Respiratory
+Sheep,Bluish white opacity,Aversion to light,Tear produce,Blindness,weakness,Yes,Respiratory
+Sheep,Head tossing,Wool loss,Fast breathing,Bleeding wounds,Skin issue,Yes,Respiratory
+Pigs,Coughing ,panting,"facial swelling,",Production of mucus,Fatigue,Yes,Respiratory
+Fowl,cough,sneeze,droopy wings,twisted neck,droopy wings,Yes,Respiratory
+Duck,Shortness of breath.,Fatigue,chirping,loss of appetite,swollen abdomen,Yes,Respiratory
+Other Birds,Gasping,coughing ,mild weakness,droopy wings,twisted neck,Yes,Respiratory
+Pigs,Excessive blood loss,dizziness and fainting,Blurry vision,watery eyes,slow growth,Yes,Respiratory
+Fowl,Nosebleed ,Trauma,mild weakness,Nose picking,Dry air,Yes,Respiratory
+Duck,Bleeding from other parts of the body,confusion,Nasal discharge,loss of alertness, dizziness and fainting,Yes,Respiratory
+Other Birds,Bad breath,Pawing at the face or nose,cough ,Sneezing,Bleeding from the nose,Yes,Gastrointestinal
+Fowl,extending its neck,gasping for air,gasping for breath,difficulty swallowing,gasping for breath,Yes,Respiratory
+Duck,difficulty swallowing,cough ,difficulty swallowing,gasping for air,extending its neck,Yes,Respiratory
+Other Birds,cough ,gasping for air,Weight loss,gasping for breath,extending its neck,Yes,Respiratory
+Pigs,weakness,decreased stool production,distended stomach,heavy breathing,restless movement,Yes,Respiratory
+Fowl,Eye redness,Frequent eye Infections,Crusty eye lashes and matting of eyelashes,foul smelling stools, increased passing gas,Yes,Respiratory
+Duck,Excessive eye watering,Eye redness,weakness,Mucus discharge from the eye,Frequent eye Infections,Yes,Respiratory
+Other Birds,Sudden death,loss of appetite, rapid heartbeats,fluffed feathers,lack of vocalizations,Yes,Gastrointestinal
+Fowl,unable to urinate,Lightheadedness ,droopiness,rectal bleeding,swollen abdomen,Yes,Respiratory
+Duck,Extreme thirst,bloody discharge,Loss of appetite,inability to fly,loss of wariness,Yes,Respiratory
+Other Birds,Egg production stops,Broody behavior,loss of appetite,Weight loss,Constipation,Yes,Gastrointestinal
+Fowl,nausea,vomiting,loss of appetite,experiencing changes in weight, pain and bloating,Yes,Respiratory
+Duck,burning ache or pain,vomiting,loss of appetite,experiencing changes in weight, pain and bloating,Yes,Respiratory
+Other Birds,Continuous loss of weight,Regurgitation of food,wheezing,Excessive food intake,Undigested seeds,Yes,Respiratory
+snake,loss of appetite,lathargy,abortion,gurgling sound,Depression,Yes,Respiratory
+horse,fever,mild colic,loss of tail tone,loss of appetite,depression,Yes,Gastrointestinal
+horse,head tilt,lathargy,lathargy,urine dribbling,inability to rise,Yes,Respiratory
+horse,fever,loss of appetite,respiratory noise,Weight loss,depression,Yes,Respiratory
+horse,fever,nasal discharge,muscular stiffness,swollen lymph nodes,depression,Yes,Respiratory
+horse,sweating,muscular spasms,thirst,Weight loss,difficulty moving and eating,Yes,Gastrointestinal
+duck,loss of appetite,high body temperaure,lack of appetite,diarrhea,sudden death,Yes,Gastrointestinal
+donkey,sweating,dry or tacky gums,reduced appetite,lying down,dull ness,Yes,Gastrointestinal
+donkey,outstretched neck,dull ness,inappetence,noisy breathing,coughing,Yes,Gastrointestinal
+Donkey,weight loss,dull ness,inappetence,self-isolation,recumbency,Yes,Respiratory
+mules,weight loss,dull ness,muscles problem,self-isolation,recumbency,Yes,Respiratory
+Elephant,changed gait,dull ness,muscles problem,Pain,Pains,Yes,Respiratory
+Elephant,changed gait,dull ness,diffuse,difficulty diagnosis,Anemia,Yes,Respiratory
+Elephant,Difficulty in breathing,swelling problem,bleeding from wounds,frequent yawning,anorexia,Yes,Respiratory
+Elephant,undernutrition,drinking polluted water,listlessness,Staggering,anorexia,Yes,Respiratory
+Deer,wasting,stumbling,listlessness,drooling,drooping ears,Yes,Respiratory
+Elk,wasting,stumbling,listlessness,drooling,urination problem,Yes,Respiratory
+Wapiti,wasting,stumbling,listlessness,drooling,urination problem,Yes,Respiratory
+Deer,wasting,stumbling,listlessness,drooling,urination problem,Yes,Gastrointestinal
+Mule deer,wasting,stumbling,listlessness,drooling,urination problem,Yes,Respiratory
+Black-tailed deer,wasting,stumbling,listlessness,drooling,urination problem,Yes,Gastrointestinal
+Sika deer,wasting,stumbling,listlessness,drooling,urination problem,Yes,Respiratory
+White-tailed deer,wasting,stumbling,listlessness,drooling,drooping ears,Yes,Respiratory
+Reindeer,wasting,stumbling,listlessness,drooling,drooping ears,Yes,Respiratory
+Moos,wasting,stumbling,Fever,drooling,drooping ears,Yes,Respiratory
+Tiger,feline infections,lymphosarcoma,difficulty breating,stomatitis,anaemia,Yes,Respiratory
+Deer,sudden death,high temperature,difficulty breating,Weight loss,trembling,Yes,Respiratory
+Cattle,sudden death,high temperature,difficulty breating,Aneamia,trembling,Yes,Respiratory
+Goats,sudden death,high temperature,difficulty breating,Staggering,trembling,Yes,Respiratory
+Sheep,sudden death,high temperature,rapid pulse and heart rates,Depression,trembling,Yes,Respiratory
+Buffaloes,fever,loss of appetite,rapid pulse and heart rates,lameness in affected leg,depression,Yes,Respiratory
+Sheep,fever,loss of appetite,rapid pulse and heart rates,lameness in affected leg,depression,Yes,Respiratory
+Goats,fever,loss of appetite,rapid pulse and heart rates,lameness in affected leg,depression,Yes,Respiratory
+Cattle,fever,loss of appetite,swollen teats,lameness in affected leg,depression,Yes,Respiratory
+Cattle,swelling,nasal discharge,drooling,tiredness,fever,Yes,Respiratory
+Sheep,eye discharges,nasal discharge,change their normal behaviour,high body temperature,lameness,Yes,Respiratory
+Dogs,stop eating,stop drinking,change their normal behaviour,Lameness,Pains,Yes,Respiratory
+Fox,stop eating,stop drinking,change their normal behaviour,Weight loss,Pains,Yes,Respiratory
+Wolves,stop eating,stop drinking,change their normal behaviour,Depression,Pains,Yes,Respiratory
+Hyaenas,stop eating,stop drinking,change their normal behaviour,diarrhea,Pains,Yes,Respiratory
+Duck,Fever,Diffulty Swallowing,Excessive drooling,Staggering,Seizures,Yes,Respiratory
+Duck,Fever,Diarrhea,Vomiting,Weight loss,Dehydration,Yes,Respiratory
+Duck,Fever,Diarrhea,Coughing,Tiredness,Pains,Yes,Respiratory
+Duck,Fever,Diarrhea,Coughing,Vomiting,Anorexia,Yes,Respiratory
+Duck,Fever,Difficulty breathing,Coughing,Lethargy,Sneezing,Yes,Respiratory
+Duck,Fever,Diarrhea,Coughing,Lethargy,Blue Eye,Yes,Respiratory
+Duck,Fever,Respiratory distress,Seizuers,Hyperesthesia,Sudden death,Yes,Gastrointestinal
+Duck,Ulcers,Diarrhea,Poor Appetite,Tarry Stool,Enlarged lymph nodes,Yes,Respiratory
+Duck,Facial Swelling,Bloody Drool,Foul Breath,Unable To Eat,Lossened Teeth,Yes,Gastrointestinal
+Duck,Fever,Difficulty breathing,Thrist and urination,Weight loss,Enlarged lymph nodes or Swelling,Yes,Respiratory
+Duck,Swelling on leg,Painfull,Nasal Discharge,Broken Bones,Nasal Discharge,Yes,Respiratory
+Duck,Short term lethargy,Loss of  appetite,Weekness in the back legs,Rapid Heart Rate,Week pulse,Yes,Respiratory
+Duck,Swollen lymph nodes,Difficulty walking,Back Pain,Lethargy,Vaginal Discharge,Yes,Respiratory
+Duck,Fever,Diarrhea,Abdominal pain,Stiffness,Severe weekness and depression,Yes,Respiratory
+Duck,Fever,Loss of  appetite,Reduce Energy,Lameness,Swelling of joints,Yes,Respiratory
+Duck,Fever,Chronic eye inflamation,Poor Appetite,Lethargy,Neurologic abnormalities,Yes,Respiratory
+Duck,Fever,Swelling of face or leg,Poor Appetite,Depression,Pains,Yes,Respiratory
+Duck,Diarrhea with muscus,Tensemus,Watery Stool,Flatulence,Pains,Yes,Respiratory
+Duck,Strong cough,Runny nose,Sneezing,Lethargy,Loss of appettite,Yes,Respiratory
+Duck,Fever,Inflammed eye,Coughing,Depression,Limping,Yes,Respiratory
+Duck,Fever,Difficulty breathing,Coughing,Eye and Skin change,Unable to exercise,Yes,Gastrointestinal
+Duck,Fever,Loss of  appetite,Coughing,Lethargy,Joint Pain,Yes,Gastrointestinal
+Duck,Lesions in the nasal cavity,Lesions on nose,Nose Bleeds,Noisy Breathing,Lesions on nose,Yes,Respiratory
+Duck,Hair loss,Dandruff,Darkened skin,Crusting of the skin,Ulcerated skin,Yes,Respiratory
+Duck,Greenish-yellow nasal discharge,Lack of pigmentation,Sneezing,Lethargy,Pain on face,Yes,Respiratory
+Duck,Fever,Diarrhea,Poor Appetite,Weight loss,Vomitting,Yes,Respiratory
+Duck,Jaundice,Pneumonia ,Lession on the skin,pain ,Vomitting,Yes,Respiratory
+Duck,Poor coat apperence ,Diarrhea,Vomiting,Weight loss,Dehydration,Yes,Respiratory
+Duck,Watering,No appp,Vomiting,Lethargy,Dehydration,Yes,Respiratory
+Duck,Straining,Diarrhea,Vomiting,Weight loss,Blindness,Yes,Gastrointestinal
+Duck,Upset stomach,Diarrhea,Vomiting,Muscle pain,Muscle stiffness,Yes,Respiratory
+Duck,Upset stomach,Diarrhea,Coughing,Weight loss,Anaemia,Yes,Respiratory
+Duck,Allergic Reaction,Poor appetite,Coughing,Weight loss,Distended chest,Yes,Respiratory
+Duck,Fever,Anoxeria,Weight loss,Lethargy,Pain,Yes,Respiratory
+Duck,Limping,Willnot run to jump,Swelling ,Week legs,Pain on leg,Yes,Respiratory
+Duck,Fever,Eye ulcer,Congestion,Depression,Pink eye,Yes,Respiratory
+Duck,Pnemonia,Loss of  appetite,Eye disharge,Lameness,Arthritis,Yes,Respiratory
+Duck,Fever,Seizures,Hydrophobia,Jaw is dropped,Shyness or aggression,Yes,Respiratory
+Duck,Bloody Urine,Diffculty breathing,Vomiting,Weight loss,Anorexia,Yes,Gastrointestinal
+Duck,Loss of eat,Difficulty in breathing,Swelling ,Lameness,Neurologic abnormalities,Yes,Respiratory
+Duck,Dark or black face,Diarrhea,Vomiting,Blood in faces,Pain,Yes,Respiratory
+Duck,Jaundice,Difficulty in breathing,Seizuers,Lethargy,Pale gums,Yes,Respiratory
+Duck,Appetite varies,Diarrhea,Vomiting,Weight loss,Pain,Yes,Respiratory
+Duck,Loss of eat,Fell unwell,Lethargy,Weight loss,Skin issue,Yes,Respiratory
+Duck,Sickness,Loss of  appetite,Vomiting,Weight loss,Raised growth or bump,Yes,Respiratory
+Duck,Nasal Bleeding,Diffulty chewing,Swelling ,Weight loss,Anorexia,Yes,Gastrointestinal
+Duck,Ulcers,Lesions ,Scabs,Lumps,"Bumps(black,grey or red)",Yes,Gastrointestinal
+Duck,Gasc,Loss of  appetite,Blood in stool,Stomach growling,Black stool,Yes,Respiratory
+Duck,Shaking head,Scartching ear,Black on ear,Bad smell,Red and inflammation ear,Yes,Respiratory
+Duck,Attacks,Loss of  appetite,Coughing,Weight loss,Periodic vommiting,Yes,Respiratory
+Elephant,Blood stool,Diarrhea,Coughing,Weight loss,Anemia,Yes,Respiratory
+Elephant,Nasal discharge,Nosebleeds,inflamed nostrils,Sneezing,Lound breathing,Yes,Respiratory
+Elephant,Polyuria,Loss of  appetite,Vomiting,Weight loss,Polydipsa,Yes,Respiratory
+Elephant,Exessive Urination,Change in gait,Vomiting,Weight loss,Inability to jump,Yes,Respiratory
+Elephant,Convulsion,Loss of consciousness,chewing,Twitching,Salivating,Yes,Respiratory
+Elephant,Wheezing,Rapid Breathing,Coughing,Swallowing,Effort to breath,Yes,Respiratory
+Elephant,Jaundice,Weekness,Lethargy,Weight loss,Anorexia,Yes,Respiratory
+Elephant,Lession on cat skin,Dandruff in cat coat,Red patches,Hair loss,Skin issue,Yes,Respiratory
+Elephant,Lethargy,Diarrhea,Vomiting,Discharge from eye,Anorexia,Yes,Respiratory
+Elephant,Skin irritation,Scartching,Lethargy,Hair loss,Excessive grooming,Yes,Respiratory
+Elephant,Floopy muscle,Speech delay,Intellectual disability,Walking problem,Eye movements,Yes,Respiratory
+Elephant,Sensitivity to bright light,Disharge from affected eye,Inflammation,Clouded cornea,Rubbing eye,Yes,Respiratory
+Elephant,Fever,Diarrhea,Vomiting,Cramps,Dehydration,Yes,Respiratory
+Elephant,Tenderness,Erythema,Swelling ,Scartch,Pain,Yes,Respiratory
+Elephant,Fever,Diarrhea,Vomiting,Salivation,Decrease appetite,Yes,Respiratory
+Elephant,Scaly patches of skin,Sore,Scabs,Scartch,Hair loss,Yes,Respiratory
+Elephant,Fatty stool,Diarrhea,Vomiting,Weight loss,Pain,Yes,Respiratory
+Elephant,Nausea,Loss of appetite,Vomiting,Firm,Distended stomach,Yes,Respiratory
+Elephant,Fever,Swelling  in the bite area,Lethargy,Limp,Pain,Yes,Respiratory
+Elephant,Fever,Loss of appetite,Eyeproblem,Liver disease,Nuerological,Yes,Respiratory
+Elephant,Fever,Mild sneezing,Coughing,Nasal,Ocular discharge,Yes,Gastrointestinal
+Elephant,Most often none,Sneezing,Nasal Discharge,Dyspnea,Pain,Yes,Gastrointestinal
+Elephant,Fever,Diarrhea,Vomiting,Blood from mouth,Shock,Yes,Respiratory
+Elephant,Discomfort,Diarrhea,Dry or dull hair,Grinding teeth,Pain,Yes,Gastrointestinal
+Elephant,Loss of appetite,Swelling,Nasal Discharge,Blindness,Lethargy,Yes,Respiratory
+Elephant,Rhinitis,Pneumonia ,abscessess,Torticollis,Septicemia,Yes,Gastrointestinal
+Elephant,Fever,Diarrhea,Enteritis,Weight loss,Stomach  cramps,Yes,Respiratory
+Elephant,Immediate death,Difficulty in breathing,Blue colored lip,Bloody discharge,Neurologic abnormalities,Yes,Respiratory
+Elephant,Fever,Pox lession on skin,Skin reashes,Nasal discharge,Mortality varies,Yes,Respiratory
+Elephant,Red on affected area,Horny growth,Wart-like growth,Red skin,Lesions on ear,Yes,Gastrointestinal
+Elephant,Fever,Chills,Skin ulcer,Exhaustion,Swollen and painfull,Yes,Gastrointestinal
+Elephant,Watering Diarrhea,Depression,Emaciation,Ruffled Coat,Lethargy,Yes,Respiratory
+Elephant,loss in weight,emaciation,loss of appetite,Weakness,diarrhoea,Yes,Respiratory
+Elephant,loss of appetite,diarrhea,swollen purple wattle,Swollen comb,Lameness,Yes,Gastrointestinal
+Elephant,loss of appetite,diarrhea,ruffled feathers,Weight loss,Inability to absorb nutrients,Yes,Respiratory
+Elephant,egg production decreases,stunted growth,Blindness,Distinctive bumps,Facial swelling,Yes,Gastrointestinal
+Elephant,loss of appetite,thirst,ruffled feathers,Closed eyes,Diarrhea,Yes,Respiratory
+Elephant,Fever,weakened legs,los of the ability to walk,Mammary glads,Fluif filled blisters,Yes,Respiratory
+Elephant,Fever,weakened legs,los of the ability to walk,Weight loss,Lameness,Yes,Respiratory
+Elephant, abortion at the end of gestation,Fatigue,weak calves,Join pains,Swelling of internal organs,Yes,Respiratory
+Elephant,swollen,red-colored ,hot udder,Milk getting out more watery,Milk getting out more thick,Yes,Respiratory
+Elephant,Fever,Distress,Trembling,Staggering,Convulsion,Yes,Respiratory
+Elephant,Fever,Animal become lame,Prostrat,Painfull Swalling,Lameness,Yes,Gastrointestinal
+Elephant,Fever,Difficulty in breathing,Dribbling of saliva,Inability of Swalllon Feeding,Moist and painfull,Yes,Respiratory
+Elephant,Fluif Faeces on blood and muscle,Sudden Death,Blooody Fluid,Red Diarrhea,Faeces are streake with blood,Yes,Gastrointestinal
+Elephant,Fever,Pneumonia ,Stand with head droping,Weight loss,Abnormal behaviour,Yes,Gastrointestinal
+Elephant,Fever,Slightly Swollen,Lession on the skin,Milky Hard,Papules appear on teats anad udder,Yes,Respiratory
+Elephant,Fever,Dull,Hind quarted soil,Animal stop feed,Decrease in milk production,Yes,Respiratory
+Elephant,Severe,Diarrhea,Blood on faces,Appetite,Milk reduce,Yes,Respiratory
+Elephant,Fever,Depression,Relunctance to move,Salivation,Nasal Discharge,Yes,Respiratory
+Elephant,Normal appetite,Diarrhea,Swelling may occur under jaw,Weight loss,Drop in milk production,Yes,Respiratory
+Elephant,Swelling on leg,Heat,Hardness,Redness,Pain,Yes,Respiratory
+Elephant,Inability to stand ,Diarrhea,Bottle Jaw,Pot belly,Dry Hair coat,Yes,Respiratory
+Elephant,Excitability,Nervousness,loss of appetite,Hyper sensitivity,Weakness,Yes,Respiratory
+Elephant,Fever,Depression,Attack,Bite other animals,Pain,Yes,Respiratory
+Hamster,Fever,Difficulty in breathing,Coughing,Painfull,Eye become dull,Yes,Respiratory
+Hamster,Fever,Ulcer on gum,Red eye,Yellowish Discharge,Bloody Diarrhea,Yes,Respiratory
+Hamster,Fever,Diarrhea,Coughing,Consistency of milk,Pain,Yes,Respiratory
+Hamster,Animal gets uneasy,Difficulty in breathing,Difficult in respiration,Excessive production,Stamping And pedding of hind eye,Yes,Respiratory
+Hamster,Fever,Chills,Severe colic,Weakness,Anorexia,Yes,Respiratory
+Hamster,Fever,Body stiffness,Lethargy,Severe inflammation,Pain,Yes,Respiratory
+Hamster,Sickness,Diarrhea,Weight loss,Nausea,Dehydration,Yes,Respiratory
+Hamster,Sudden death,Trouble walking,Paralysis,Depression,Convulsion,Yes,Respiratory
+Hamster,Fever,Abortion,Kidney failure,Inflammation of eye,Eye redness,Yes,Respiratory
+Hamster,Small red bumps,Pneumonia ,Septic Arthritis,Skin infection,Pain,Yes,Respiratory
+Hamster,Fever,Ataxia,Aggressiveness,Depression,Obscure Lameness,Yes,Respiratory
+Fowl,Ring shaped Lesion,Round patches,Dry skin,Size of lesions vary,Pain,Yes,Respiratory
+Fowl,Fever,Diarrhea,loss of appetite,Colic,Weakness,Yes,Respiratory
+Fowl,Fever,Depression,loss of appetite,Stumbling,Ataxia,Yes,Respiratory
+Fowl,Bubbles in the mouth,Wheezing,loss of appetite,Lethargy,Nasal Discharge,Yes,Gastrointestinal
+Fowl,Changes in outer layer skin,Swelling of eye,loss of appetite,Lethargy,Respiratory infection,Yes,Respiratory
+Fowl,Red Tinge,Slim over the shell,Bad smell,Easily damage shell,Flaking of the Scutes,Yes,Respiratory
+Fowl,Passing of undigested food,Diarrhea,Vomiting,Gas or bloating,Dehydration,Yes,Respiratory
+Fowl,Smell,Diarrhea,loss of appetite,Excess sleeping,Folded Ears,Yes,Respiratory
+Fowl,Loss of activity,Rough coat,loss of appetite,Weight loss,Eventually death,Yes,Respiratory
+Fowl,Fever,Diarrhea,Vomiting,Dehydration,Pain,Yes,Respiratory
+Fowl,Bald patches,Hair loss,Crusty,Flaky,Red lesion from bald patches,Yes,Gastrointestinal
+Fowl,Poor condition,Enlarged lymph nodes,Diarrhea,Weight loss,Pain,Yes,Digestive
+Fowl,Fever,Chills,Coughing,Progressive weakness,Joint Pain,Yes,Digestive
+Fowl,Heavy infection,Diarrhea,Vitamin and minerals defiency,Weight loss,Pain,Yes,Respiratory
+Fowl,Fever,Diarrhea,Muscle weakness,Muscle pain,Abdonormal discomfort,Yes,Respiratory
+Fowl,Fever,Chills,Headache,Nausea,Pain,Yes,Gastrointestinal
+Fowl,Thicked skin,Hair tining,Hair loss,Scabbing,Itchiness,Yes,Gastrointestinal
+Fowl,Facial edema,Loss of earing,Vomiting,Head ache,Throat and Ear pain,Yes,Gastrointestinal
+Fowl,General malaise,Hepatic failure,Vomiting,Weight loss,Abdonormal pain,Yes,Gastrointestinal
+Fowl,Upset stomach,Loss of appetite,Nause,Weight loss,Abdonormal pain,Yes,Respiratory
+Fowl,Fever,Muscle Loss,Skeleten pain,Weight loss,Wasting,Yes,Respiratory
+Fowl,Oedema,Swelling of face or leg,Swelling of neck,Weight loss,Pain,Yes,Respiratory
+Fowl,Poor growth,Short stature,Enlargement of bones,Lameness,Weigth bearing long bones,Yes,Respiratory
+Fowl,Fever,Chills,Sweat,Head ache,Fatique,Yes,Respiratory
+Fowl,Fever,Loss of appetite,Weakness,Weight loss,Vomitting,Yes,Respiratory
+Fowl,Dullness,Lacrimation,Coughing,Diarrhea,Seizures,Yes,Respiratory
+Fowl,Vomiting,Bloody diarrhea,Lethargy,Dehydration,Anorexia,Yes,Respiratory
+Fowl,Fever,Uncharacteristic hiding,Depression,Dehydration,Stopped eat,Yes,Respiratory
+Fowl,Fever,Poor coat condition,Infection of the skin,Weight loss,Fatique,Yes,Respiratory
+Fowl,Weakness,Stiffness,Trembling,White mark on the muscle,Loss of vitamin E,Yes,Respiratory
+Fowl,Partial Paralysis,Staggering as drunk,Self Mutilation,Acting aggressive,Acting unnaturally tame,Yes,Respiratory
+Fowl,Fever,Tiredness,Headache,Skin rashes,Pain,Yes,Gastrointestinal
+Fowl,Thick Crusting,Itchiness,Hair loss,Watery eye,Pain,Yes,Respiratory
+Fowl,Constant pacing,Facial muscle twitching,abnormalalities,Blindness,Muscle pain,Yes,Gastrointestinal
+Fowl,Loss od appetite,Wheezing,Seizuers,Skin rashes,Fatique,Yes,Gastrointestinal
+Fowl,Indigestion,Abdminal pain,Constipation,Diarrhea,Nausea,Yes,Respiratory
+Fowl,Blood in urine,Diarrhea,Vomiting,Lethargy,Bleeding in eye and skin,Yes,Respiratory
+Fowl,Fever,Malaise,Weakness,Weight loss,Pain,Yes,Respiratory
+Fowl,Fever,Diarrhea,Vomiting,Stomach cramps,Nausea,Yes,Respiratory
+Fowl,Fever,Lack of coordination,Depression,Salivation,Facial paralysis,Yes,Respiratory
+Fowl,Sores on lip,Infection,Sores on lower leg and teats,Lesion,Pain,Yes,Respiratory
+Fowl,Abortion on late pregancy,Stillbirth,Retained Placenda,Endomeritis,Decrease appetite,Yes,Respiratory
+Fowl,paresis,paralysis,Weakness,Stomach cramps,Diarrhea,Yes,Respiratory
+Fowl,Fever,Diarrhea,Swelling,Weight loss,Pain,Yes,Respiratory
+Fowl,Fever,Hemolytic anemia,Hemoglobinuria,pulmonary congestion,Jaundice,Yes,Respiratory
+Fowl,Abortion ,Mummification,Stillbirth,Weak kids,Pain,Yes,Respiratory
+Fowl,Runny nose,Difficulty in breathing,Coughing,Weakness,Loss of appettite,Yes,Respiratory
+Fowl,Fever,Nasal discharge,Respiratory distress,Pox lesion,Pain,Yes,Respiratory
+Fowl,Fever,Dark colored bloody,Incoordination,Difficulty in breathing,Terminal convulsion,Yes,Respiratory
+Fowl,Fever,Dysentery,Swelling,Immediate death,Pain,Yes,Respiratory
+Fowl,Fever,Respiratory distress,Mucous discharge,Reduce feed,Weight gain,Yes,Respiratory
+Fowl,Decreased milk,Holding limbs off the ground,Weight loss,Lameness,Wool production,Yes,Respiratory
+Fowl,Swelling of udder,change in milk,Swollen,Tender to touch,Pain,Yes,Respiratory
+Fowl,Fever,Respiratory distress,Occular discharge,Mouth lesion,Nasal Discharge,Yes,Respiratory
+Fowl,Fever,Wound lesion,Excess salivary,Difficult in walking,Pain,Yes,Respiratory
+Fowl,Emaciation,Edema in lower jaw,Coughing,Shivering,Anemia,Yes,Respiratory
+Buffaloes,Fever,Reduce growth,Kid moratality,Weakness,Dullness,Yes,Digestive
+Buffaloes,Fever,Reduce growth,Edema in lower jaw,Weight loss,Anemia,Yes,Respiratory
+Buffaloes,Emaciation,Diarrhea,Kid moratality,Weakness,Anemia,Yes,Respiratory
+Buffaloes,SkinAllergy,Reduce growth,Wound,Head ache,Dizziness,Yes,Respiratory
+Buffaloes,Watering of eyes,Redness of white of the eye,Swelling of eyelid,Cornea become cloudy,Tear production,Yes,Respiratory
+Buffaloes,Berberi,Wasting,Nervous,Weight loss,Anorexia,Yes,Respiratory
+Buffaloes,Gastritis,morbidity,Bloody,Mortality,Anemia,Yes,Respiratory
+Buffaloes,Fever,Severe headache,Vomiting,Coughing,Fatique,Yes,Respiratory
+Buffaloes,Fever,Tiredness,Swollen kidney,Hematuria,Muscle aches,Yes,Respiratory
+Buffaloes,Fever,Diarrhea,Decreased appetite,Vomiting,Bloody,Yes,Respiratory
+Buffaloes,Gas,Diarrhea,Abdominal discomfort,Vomiting,Nausea,Yes,Respiratory
+Buffaloes,Drooping ears,Lack of coordination,Drooling,Wasting,Listlessness,Yes,Respiratory
+Buffaloes,Edema,diarrhea,Nasal Discharge,Decresed egg production,Sneezing,Yes,Respiratory
+Buffaloes,Drooping wings,Depression,Nasal Discharge,Coughing,Greenish diarrhea,No,Respiratory
+Buffaloes,Weakness,Yellow or green dropping,Purplish combs,Wattles,Drop on egg production,No,Respiratory
+Buffaloes,Neck paralysis,Diarrhea,ruffled feathers,Labored breathing,Weakness,No,Respiratory
+Buffaloes,Facial Swelling,Lacrimation,Diarrhea,Anorexia,Nasal Discharge,No,Respiratory
+Buffaloes,loss of appetite,Depression,Paralyzed leg,Weight loss,Anemia,No,Respiratory
+Buffaloes,Dejection,Loss of appetite,Slow growth,Diarrhea,Lesion,No,Respiratory
+Buffaloes,Severe swellimg,Heavy Breathing,Diarrhea,Weight loss,Pain,No,Respiratory
+Buffaloes,Weakness,Diarrhea,High moratality,Dehydration,Anorexia,No,Respiratory
+Buffaloes,Fever,Hepatitis,Skin rashes,Weight loss,Pain,No,Respiratory
+Buffaloes,Sneezing,Epistaxis,Coughing,Difficulty in breathing,Nasal Discharge,No,Respiratory
+Buffaloes,Sneezing,Unilateral Nasal discharge,Gagging,Retching,Weight loss,Yes,Gastrointestinal
+Buffaloes,Fever,Depression,Coughing,Weight loss,Anorexia,Yes,Respiratory
+Buffaloes,Shallow breathing,Halitosis,Coughing,Lethargy,Nasal Discharge,Yes,Respiratory
+Buffaloes,Dyspnea,Sneezing,Coughing,Difficulty in breathing,Infection,Yes,Respiratory
+Buffaloes,Dyspnea,Sneezing,Coughing,Difficulty in breathing,Pain,Yes,Respiratory
+Buffaloes,Fever,Rhinorrhea,Coughing,Sneezing,Dehydration,Yes,Respiratory
+Buffaloes,Fever,Rhinorrhea,Coughing,Facial edema,Dyspnea,Yes,Respiratory
+Buffaloes,Fever,Rhinorrhea,Coughing,Sneezing,Nasal Discharge,Yes,Respiratory
+Buffaloes,Mortality,Painfull,Coughing,Weight loss,Nasal Discharge,Yes,Respiratory
+Buffaloes,Skin rashes,Diarrhea,Death,Facial edema,Pain,Yes,Respiratory
+Buffaloes,Fever,Dyspnea,Coughing,Lethargy,Weightloss,Yes,Respiratory
+Buffaloes,Fever,Dyspnea,Coughing,weakness,Anorexia,Yes,Gastrointestinal
+Buffaloes,Facial edema,Dyspnea,Conjuctivtis,Weakness,Pharyngitis,Yes,Respiratory
+Buffaloes,Fever,Pneumonia ,Congestion,Lethargy,Nasal Discharge,Yes,Respiratory
+Buffaloes,Fever,Death,Coughing,Weight loss,Nasal Discharge,Yes,Respiratory
+Buffaloes,Sneezing,Convulsion,Seizuers,Weight loss,Nasal Discharge,Yes,Respiratory
+Buffaloes,Fever,Death,Coughing,Dyspnea,Anorexia,Yes,Gastrointestinal
+Buffaloes,Dyspnea,Difficulty in breathing,Coughing,Lethargy,Nasal Discharge,Yes,Respiratory
+Buffaloes,Air sacculitis,Halitosis,Coughing,Enteritis,Weight loss,Yes,Respiratory
+Buffaloes,Fever,Convulsion,Sudden death,Urine retention,Weight loss,Yes,Respiratory
+Buffaloes,Dyspnea,Neurologic sign,Coughing,Depression,Anorexia,Yes,Respiratory
+Buffaloes,Fever,Dyspnea,Coughing,Lethargy,Anorexia,Yes,Respiratory
+Buffaloes,Labored breathing,Dyspnea,Coughing,Depression,Anorexia,Yes,Respiratory
+Buffaloes,Blood from mouth,Diarrhea,Coughing,Lethargy,Weight loss,Yes,Respiratory
+Buffaloes,Hemopytsis,Diarrhea,Asymptomatic,Death,Epistaxis,Yes,Respiratory
+Buffaloes,Restlessness,Weakness,Blue straws,Death,Pain,Yes,Respiratory
+Buffaloes,Stripped remiges,Less Feather growth,Ruffled feathers,Defienciency in vitamin,Diarrhea,Yes,Respiratory
+Buffaloes,Apathy,Depression,Dilation of duodenum,Cloacal pasting,Congestion,Yes,Respiratory
+Buffaloes,Lepatomegaly,Splenomegaly,Vomiting,Swollen,Shaking oh head,Yes,Respiratory
+Buffaloes,Balance problem,Abdominal destention,Neck Paralysis,Weight loss,Pains,Yes,Respiratory
+Buffaloes,Legness,Paresis,Coughing,Weight loss,Shortness of breath,Yes,Respiratory
+Buffaloes,Fever,Sour Throat,Mortality,Muscle aches,Abnormalities,Yes,Respiratory
+Buffaloes,Difficulty in feeding,Preening,Weakness,Beak overgrowth,Anemia,Yes,Digestive
+Buffaloes,Fever,Loss of appetite,Ear infection,Depression,Nasal Discharge,Yes,Respiratory
+Buffaloes,Forthy eye,Torticollis,Weakness,Swelling,Emaciation,Yes,Gastrointestinal
+Buffaloes,Inappentence,Diarrhea,Tremors of the head,Dehydration,Weight loss,Yes,Gastrointestinal
+Buffaloes,Lack of walking,Lack of flying,Roughened,Dehydration,Pains,Yes,Respiratory
+Buffaloes,Skin rashes,Small and yellow bumps,Swelling,Dry Scabs,Lameness,Yes,Gastrointestinal
+Buffaloes,Scabs On feet,Redness ,Trachea,Thickening of skin,Pains,Yes,Respiratory
+Buffaloes,Enlarged Thymus,Obstructed Lungs,Lethargy,Skin rashes,Weight loss,Yes,Respiratory
+Buffaloes,Fluffed Feather,Loss of appetite,Coughing,Vomiting,Snoring,Yes,Respiratory
+Buffaloes,Fever,Difficultty in Breathing,Yellow Eye,Sneezing,Diphtherictic,Yes,Respiratory
+Buffaloes,Heavy Breathing,Yellow in beak,Tail_Bobbing,Weakness,Sleeping Excessively,Yes,Respiratory
+Buffaloes,Puffed_up Feather,Less Eat,Headache,Half-closed eye,Seizures,Yes,Gastrointestinal
+Buffaloes,Fever,Diarrhea,Swollen Abdomen,Vomiting,Difficulty in Breathing,Yes,Gastrointestinal
+Buffaloes,Tail Wagging,Straining,Lethargy,Weakness,Diarrhea,Yes,Respiratory
+Buffaloes,Overweight,Loss of Appetite,Ruffled feathers,Depression,Diarrhea,Yes,Respiratory
+Buffaloes,Dejection,Loss of Appetite,Stress,Coughing,Pains,Yes,Respiratory
+Buffaloes,Skin infection,Secondary Infection,Coughing,Depression,Shaking oh head,Yes,Respiratory
+Buffaloes,Discharge From eyes,Lethargy,Coughing,Sneezing,Fatique,Yes,Respiratory
+Buffaloes,Fever,Chills,Retarded Growth,Chest Pain,Chest Pain,Yes,Respiratory
+Buffaloes,Pale comb,Lame,Death,Swolling of joint,Eye closed,Yes,Gastrointestinal
+Buffaloes,Lethargy,Loss of appetite,Difficulty in Swallowing,Weakness,Vision Problem,Yes,Respiratory
+Buffaloes,Emaciation,Difficulty in breathing,Vomiting,Weakness,Diarrhea,Yes,Respiratory
+Buffaloes,Liquid Dropping,Exhaustion,Ataxia,Lethargy,Seizures,Yes,Respiratory
+Buffaloes,Undigested in their feces,Loss of Appetite,Loss of pigment,Weakness,Bloody in feather,Yes,Respiratory
+Buffaloes,Sharp Feather,Clubbed Feather,Eye disharge,Loss of powder down,Diarrhea,Yes,Respiratory
+Buffaloes,Ruffled Appearance,Loss of Appetite,Vomiting,Green Dropping,Nasal Discharge,Yes,Respiratory
+Buffaloes,Sinuses,Swollen Eyelids,Skin rashes,Sneezing,Misshapen Beak,Yes,Respiratory
+Buffaloes,Feather Loss,Feather Plucking,Coughing,Itching,Nasal Discharge,Yes,Gastrointestinal
+Buffaloes,Watery Eyes,Eye closed,Weight loss,Sneezing,Nervous Issue,Yes,Respiratory
+Buffaloes,Bony Lesion,Skin Rashes,Ataxia,Anorexia,Weakness,Yes,Respiratory
+Buffaloes,Tremor of head and neck,Blindness,Kicking at the belly,Exercise in tolerance,Pains,Yes,Respiratory
+Buffaloes,Swollen Belly,Dullness,Discharge,Urination,Lying down,Yes,Respiratory
+Buffaloes,Fever,Dullness,Depression,Weight loss,Anorexia,Yes,Gastrointestinal
+Buffaloes,Fever,Succumb,Spread of infection,Weight loss,Anorexia,Yes,Respiratory
+Buffaloes,Signs in rams,Signs in ewe,Underdeveloped muscles,Semen Examination,Reduce Lamp marking,Yes,Respiratory
+Buffaloes,Spines,Unusally thin,Weakness,Enlarged skulls,Weakness,Yes,Respiratory
+Buffaloes,Discharge ,Sudden Abortion,Hemoglobinuria,Death of lamb,Weight Loss,Yes,Respiratory
+Buffaloes,Fever,Hemolytic anemia,Sweats,congestion,Jaundice,Yes,Gastrointestinal
+Buffaloes,Fever,Tiredness,loss of appetite,Muscle aches,Chest Pain,Yes,Gastrointestinal
+Buffaloes,Excess salivation,Diarrhea,Depression,Nasal discharge,Weakness,Yes,Gastrointestinal
+Buffaloes,Fever,Diarrhea,Incoordination,Abortion,Blood Poisioning ,Yes,Respiratory
+Buffaloes,Fever,Wasting,Dehydration,Deability,Weakness,Yes,Respiratory
+Buffaloes,Fever,Diarrhea,Muscle twiching,Lameness,Weight loss,Yes,Respiratory
+Buffaloes,Teeth griding,Apathy,Dehydration,Ruminal stasis,Watery faeces,,Gastrointestinal
+Buffaloes,Fever,Depression,Lying down,Weak Pulse,Colic,Yes,Respiratory
+Buffaloes,Swelling,Lameness,Hyperaestesia,Hock joint,Weight loss,Yes,Gastrointestinal
+Buffaloes,Head tilt,Circling,Muscles ache,Blindness,Seizures,Yes,Respiratory
+Buffaloes,Decreased growth of bone,Depression,Grunting,Lameness,Weight loss,Yes,Respiratory
+Buffaloes,Swollen left abdomen,Lying Down,Staggering,Urination,Extension of neck,Yes,Respiratory
+Buffaloes,Cessation of eructation,Difficulty in breathing,Depression,Anorexia,Colic,Yes,Respiratory
+Buffaloes,Fever,Excession Salivation,Abnormal conformation,Ulcerated muscle,Ulcerated ear,Yes,Respiratory
+Buffaloes,Barren ewes,Abortion,Poor conformation,Hairy Fleeces,Weight loss,Yes,Respiratory
+Pig,Tremor ,Viability,Coughing,Anorexia,Weight Loss,Yes,Respiratory
+Pig,Fever,Tachypea,Swelling of head and neck,Anorexia,Nasal Discharge,Yes,Gastrointestinal
+Pig,lllthrift,Skin Lesion,Lameness,Swelling on theBody,Weight loss,Yes,Respiratory
+Pig,Swelling,Heat,Flank,Pain,Nasal Discharge,Yes,Respiratory
+Pig,Fever,Loss of appetite,Lameness,Rump,Weight Loss,Yes,Respiratory
+Pig,Fever,Swelling,loss of appetite,Anorexia,Weight Loss,Yes,Respiratory
+Pig,Fever,Diarrhea,Bloody droping,Abdominal discomfort,Lethargy,Yes,Respiratory
+Pig,Fever,Depression,Small intestines,Death,Flock Moratality,Yes,Respiratory
+Pig,haemorrhage,Straw colored,Abdominal pain,Death,Carcass decomposes,Yes,Respiratory
+Pig,Bloody Diarhhea,Depression,Dullness,Death,Weakness,Yes,Respiratory
+Pig,Reluctant Move,Loss of Appetite,Lameness,Death,Weakness,Yes,Respiratory
+Pig,Fever,Depression,loss of appetite,Loss of appetite,Pains,Yes,Gastrointestinal
+Pig,Fever,Difficulty in breathing,Lethargy,Death,Pains,Yes,Gastrointestinal
+Pig,Poor wool,Loss of Appetite,Lameness,Small size,Poor Body condition,Yes,Gastrointestinal
+Pig,Poor immune function,Achomotrica,Dehydration,Death,Pains,Yes,Respiratory
+Pig,Abdominal pain,Diarrhea,Malpresentation,Shock,Anorexia,Yes,Respiratory
+Pig,Fetopelvic dispropotion,Uteria inertia,Despression,Death,Pains,Yes,Respiratory
+Pig,Watery Diarrhea dispropotion,Sick,Corneal Ulceration,Loss of appetite,Death,Yes,Respiratory
+Pig,Severe kerititis,Conjunctive,Discharge,Iris prolapse,Loss of eye,Yes,Respiratory
+Pig,Swollen,Testical Pain,Itches,Bloody discharge,Tenderness,Yes,Gastrointestinal
+Pig,Fever,Diarrhea,Depression,Scratches,Weight Loss,Yes,Respiratory
+Pig,Foul Smelling,Dullness,Dirty,Stained Wool,Tail shaking,Yes,Respiratory
+Pig,Sheep often bites,Fleece become thin,Loss of wool,Death,Pains,Yes,Respiratory
+Pig,Fever,Dullness,Dullness,Skin Rashes,Pains,Yes,Gastrointestinal
+Pig,Fever,Difficulty in breathing,Rub,Coughing,Sneezing,Yes,Respiratory
+Pig,Restlessness,Kick,Lethargy,Nible at their wool,Scratching,Yes,Respiratory
+Pig,Jaundice,Loss of appetite,Rough Hair coat,Coughing,Death,Yes,Respiratory
+Pig,Fever,Reduce Reproductive potential,Agalactia,Loss of milk production,Sloughing of the tail,Yes,Gastrointestinal
+Pig,Pyrexia,Oral lesion,Swelling,Lameness,Death,Yes,Respiratory
+Pig,Red skin,Loss of appetite,Moist,Lameness,Pains,Yes,Respiratory
+Pig,Limping,Skin colour change,Flabby,Raw,Sensitive to touch,Yes,Respiratory
+Pig,Groosly enlarged,Skin may thicken,Convulsion,Edematous,Pains,Yes,Respiratory
+Pig,Hyperexcitability,Muscular Spasms,Gums,Death,Pains,Yes,Respiratory
+Pig,Decreased eyelid,Very cold skin,Lethargy,Lip,Fever,Yes,Respiratory
+Pig,Fever,Diarrhea,Muscus,Weight loss,Death,Yes,Respiratory
+Pig,Foul Smelling,Diarrhea,Colic,Bloody discharge,Blood Clots,Yes,Respiratory
+Pig,Inability to digest,Diarrhea,Dehydration,Weight loss,Anemia,Yes,Respiratory
+Pig,Fever,Diarrhea,Pot belly,Death,Loss of appettite,Yes,Gastrointestinal
+Pig,Emaciation,Diarrhea,Coughing,Weight loss,Death,Yes,Respiratory
+Pig,Respiratory distress,Diarrhea,Death,Reduce milk ,Weight loss,Yes,Respiratory
+Pig,lllthrift,Bottle jaw,Strange behaviour,Aneamia,Jaundice,Yes,Respiratory
+Pig,Fever,Lameness,Wasting,Blindness,Staggering,Yes,Respiratory
+Pig,Fever,Diarrhea,Clearly unthrifty,Weight loss,Good appetite,Yes,Respiratory
+Pig,Fever,Dullness,Relunctance to walk,Infected navels,Pains,Yes,Respiratory
+Pig,Tenderness,Foot Hot,Facial Paralysis,Weight loss,Pains,Yes,Respiratory
+Pig,Fever,Lack of coordination,Painfull to touch,Circling,Depression,Yes,Respiratory
+Pig,Swollen,Warm,Constipation,Depression,Bloody,Yes,Respiratory
+Pig,Fever,Loss of appetite,Stumbling,Restlessness,Pains,Yes,Gastrointestinal
+Pig,Unsteady Gait,Twitching,Blindness,Swelling on joints,Pains,Yes,Gastrointestinal
+Pig,Fever,Ulcer,Scabs,Discharge from eye,Pains,Yes,Respiratory
+Pig,Smell of ammonia,Ulcer,Depression,Swelling,Pains,Yes,Respiratory
+Pig,Fever,Lethargy,Blindness,Inappentence,Increased in breathing,Yes,Gastrointestinal
+Pig,Wandering,Circling,Blindness,Head Pressing,Recumbency,Yes,Gastrointestinal
+Pig,Tremors,Lying on the side,Difficulty in Swallowing,Death,Not eating,Yes,Respiratory
+Pig,Fever,Difficulty in breathing,Coughing,Sneezing,Seizures,Yes,Respiratory
+Pig,Swelling,Loss of appetite,Wool loss,Tears,Death,Yes,Respiratory
+Pig,Wool is clumped,Feels stiff,Staggering,Skin Rashes,Pains,Yes,Respiratory
+Pig,Swaying,Behaviour change,Tremor,Jerky limb movements,Pains,Yes,Respiratory
+Pig,Cell Damage,Behaviour change,Weight loss,Pruritis,Death,Yes,Respiratory
+Pig,Swelling,Discomfort,Difficulty in rising,Death,Pains,Yes,Respiratory
+Pig,Swollen,Hot joints,Pustulses,Difficulty in Walk,Pains,Yes,Respiratory
+Pig,Formation of vesicles,Nostrils,Abnormally long leg,Scabs on lip,Pains,Yes,Respiratory
+Pig,Skeleten abnormalities,Facial defects,Hair loss,Flat ribs,Underdeveloped muscles,Yes,Respiratory
+Tiger,Wether restless,Kicking,Normal appetite,Attempt to urinate,Pains,Yes,Respiratory
+Tiger,Inability to stand ,Pains to Walk,Depression,Weakness,Stiffness,Yes,Respiratory
+Tiger,Fever,Succumb,Sluggish,Anorexia,Pains,Yes,Respiratory
+Tiger,Listless,Bottle jaw,Malpresentation,Death,Oxygen defiency,Yes,Gastrointestinal
+Tiger,Fetopelvic dispropotion,Uteria inertia,Malpresentation,Death,Pains,Yes,Respiratory
+Tiger,Fetopelvic dispropotion,Uteria inertia,Malpresentation,Death,Pains,Yes,Respiratory
+Tiger,Fetopelvic dispropotion,Uteria inertia,Malpresentation,Death,Pains,Yes,Respiratory
+Tiger,Fetopelvic dispropotion,Uteria inertia,Malpresentation,Death,Pains,Yes,Respiratory
+Tiger,Fetopelvic dispropotion,Uteria inertia,Malpresentation,Death,Pains,Yes,Respiratory
+Tiger,Fetopelvic dispropotion,Uteria inertia,Malpresentation,Death,Pains,Yes,Respiratory
+Tiger,Fetopelvic dispropotion,Uteria inertia,Malpresentation,Death,Pains,Yes,Respiratory
+Tiger,Fetopelvic dispropotion,Uteria inertia,Malpresentation,Death,Pains,Yes,Respiratory
+Tiger,Fetopelvic dispropotion,Uteria inertia,Malpresentation,Death,Pains,Yes,Respiratory
+Tiger,Fetopelvic dispropotion,Uteria inertia,Malpresentation,Death,Pains,Yes,Respiratory
+Tiger,Fetopelvic dispropotion,Uteria inertia,Malpresentation,Death,Pains,Yes,Respiratory
+Tiger,Fetopelvic dispropotion,Uteria inertia,Malpresentation,Death,Pains,Yes,Respiratory
+Donkey,Fetopelvic dispropotion,Uteria inertia,Malpresentation,Death,Pains,Yes,Gastrointestinal
+Donkey,Fetopelvic dispropotion,Uteria inertia,Malpresentation,Death,Pains,Yes,Respiratory
+Donkey,Fetopelvic dispropotion,Uteria inertia,Malpresentation,Death,Pains,Yes,Respiratory
+Donkey,Fetopelvic dispropotion,Uteria inertia,Malpresentation,Death,Pains,Yes,Respiratory
+Donkey,Fetopelvic dispropotion,Uteria inertia,Malpresentation,Death,Pains,Yes,Gastrointestinal
+Donkey,Fetopelvic dispropotion,Uteria inertia,Malpresentation,Death,Pains,Yes,Respiratory
+Donkey,Fetopelvic dispropotion,Uteria inertia,Fast breathing,Death,Pains,Yes,Respiratory
+Donkey,Coughing ,panting,"facial swelling,",Production of mucus,Fatigue,Yes,Respiratory
+Donkey,cough,sneeze,droopy wings,twisted neck,droopy wings,Yes,Respiratory
+Donkey,Shortness of breath.,Fatigue,chirping,loss of appetite,swollen abdomen,Yes,Respiratory
+Donkey,Gasping,coughing ,mild weakness,droopy wings,twisted neck,Yes,Respiratory
+Donkey,Excessive blood loss,dizziness and fainting,Blurry vision,watery eyes,slow growth,Yes,Respiratory
+Donkey,Nosebleed ,Trauma,mild weakness,Nose picking,Dry air,Yes,Respiratory
+Donkey,Bleeding from other parts of the body,confusion,Nasal discharge,loss of alertness, dizziness and fainting,Yes,Respiratory
+Donkey,Bad breath,Pawing at the face or nose,cough ,Sneezing,Bleeding from the nose,Yes,Gastrointestinal
+Donkey,extending its neck,gasping for air,gasping for breath,difficulty swallowing,gasping for breath,Yes,Respiratory
+Donkey,difficulty swallowing,cough ,difficulty swallowing,gasping for air,extending its neck,Yes,Respiratory
+Donkey,cough ,gasping for air,Weight loss,gasping for breath,extending its neck,Yes,Respiratory
+Donkey,weakness,decreased stool production,distended stomach,heavy breathing,restless movement,Yes,Respiratory
+Donkey,Eye redness,Frequent eye Infections,Crusty eye lashes and matting of eyelashes,foul smelling stools, increased passing gas,Yes,Respiratory
+Donkey,Excessive eye watering,Eye redness,weakness,Mucus discharge from the eye,Frequent eye Infections,Yes,Gastrointestinal
+Donkey,Sudden death,loss of appetite, rapid heartbeats,fluffed feathers,lack of vocalizations,Yes,Respiratory
+Donkey,unable to urinate,Lightheadedness ,droopiness,rectal bleeding,swollen abdomen,Yes,Gastrointestinal
+Donkey,Extreme thirst,bloody discharge,Loss of appetite,inability to fly,loss of wariness,Yes,Respiratory
+Donkey,Egg production stops,Broody behavior,loss of appetite,Weight loss,Constipation,Yes,Respiratory
+Donkey,nausea,vomiting,loss of appetite,experiencing changes in weight, pain and bloating,Yes,Respiratory
+Donkey,burning ache or pain,vomiting,loss of appetite,experiencing changes in weight, pain and bloating,Yes,Respiratory
+Donkey,Continuous loss of weight,Regurgitation of food,wheezing,Excessive food intake,Undigested seeds,Yes,Respiratory
+Donkey,loss of appetite,lathargy,abortion,gurgling sound,Depression,Yes,Respiratory
+Donkey,fever,mild colic,loss of tail tone,loss of appetite,depression,Yes,Respiratory
+Donkey,head tilt,lathargy,lathargy,urine dribbling,inability to rise,Yes,Respiratory
+Donkey,fever,loss of appetite,respiratory noise,Weight loss,depression,Yes,Respiratory
+Donkey,fever,nasal discharge,muscular stiffness,swollen lymph nodes,depression,Yes,Respiratory
+Donkey,sweating,muscular spasms,thirst,Weight loss,difficulty moving and eating,Yes,Gastrointestinal
+Donkey,loss of appetite,high body temperaure,lack of appetite,diarrhea,sudden death,Yes,Respiratory
+Donkey,sweating,dry or tacky gums,reduced appetite,lying down,dull ness,Yes,Respiratory
+Donkey,outstretched neck,dull ness,inappetence,noisy breathing,coughing,Yes,Respiratory
+Deer,weight loss,dull ness,inappetence,self-isolation,recumbency,Yes,Respiratory
+Deer,weight loss,dull ness,muscles problem,self-isolation,recumbency,Yes,Respiratory
+Deer,changed gait,dull ness,muscles problem,Pain,Pains,Yes,Respiratory
+Deer,changed gait,dull ness,diffuse,difficulty diagnosis,Anemia,Yes,Respiratory
+Deer,Difficulty in breathing,swelling problem,bleeding from wounds,frequent yawning,anorexia,Yes,Gastrointestinal
+Deer,undernutrition,drinking polluted water,listlessness,Staggering,anorexia,Yes,Respiratory
+Deer,wasting,stumbling,listlessness,drooling,drooping ears,Yes,Gastrointestinal
+Deer,wasting,stumbling,listlessness,drooling,urination problem,Yes,Gastrointestinal
+Deer,wasting,stumbling,listlessness,drooling,urination problem,Yes,Respiratory
+Deer,wasting,stumbling,listlessness,drooling,urination problem,Yes,Respiratory
+Deer,wasting,stumbling,listlessness,drooling,urination problem,Yes,Respiratory
+Deer,wasting,stumbling,listlessness,drooling,urination problem,Yes,Respiratory
+Deer,wasting,stumbling,listlessness,drooling,urination problem,Yes,Respiratory
+Deer,wasting,stumbling,listlessness,drooling,drooping ears,Yes,Respiratory
+Deer,wasting,stumbling,listlessness,drooling,drooping ears,Yes,Gastrointestinal
+Deer,wasting,stumbling,Fever,drooling,drooping ears,Yes,Respiratory
+Deer,feline infections,lymphosarcoma,difficulty breating,stomatitis,anaemia,Yes,Respiratory
+Deer,sudden death,high temperature,difficulty breating,Weight loss,trembling,Yes,Respiratory
+Deer,sudden death,high temperature,difficulty breating,Aneamia,trembling,Yes,Respiratory
+Deer,sudden death,high temperature,difficulty breating,Staggering,trembling,Yes,Respiratory
+Deer,sudden death,high temperature,rapid pulse and heart rates,Depression,trembling,Yes,Respiratory
+Deer,fever,loss of appetite,rapid pulse and heart rates,lameness in affected leg,depression,Yes,Respiratory
+Deer,fever,loss of appetite,rapid pulse and heart rates,lameness in affected leg,depression,Yes,Respiratory
+Deer,fever,loss of appetite,rapid pulse and heart rates,lameness in affected leg,depression,Yes,Respiratory
+Deer,fever,loss of appetite,swollen teats,lameness in affected leg,depression,Yes,Respiratory
+Deer,swelling,nasal discharge,drooling,tiredness,fever,Yes,Respiratory
+Deer,eye discharges,nasal discharge,change their normal behaviour,high body temperature,lameness,Yes,Respiratory
+Deer,stop eating,stop drinking,change their normal behaviour,Lameness,Pains,Yes,Respiratory
+Deer,stop eating,stop drinking,change their normal behaviour,Weight loss,Pains,Yes,Respiratory
+Deer,stop eating,stop drinking,change their normal behaviour,Depression,Pains,Yes,Respiratory
+Buffaloes,Fever,Difficulty breathing,Thrist and urination,Lethargy,Sneezing,Yes,Gastrointestinal
+Buffaloes,Fever,Diarrhea,Nasal Discharge,Lethargy,Blue Eye,Yes,Respiratory
+Buffaloes,Fever,Respiratory distress,Weekness in the back legs,Hyperesthesia,Sudden death,Yes,Respiratory
+Buffaloes,Ulcers,Diarrhea,Back Pain,Tarry Stool,Enlarged lymph nodes,Yes,Respiratory
+Buffaloes,Facial Swelling,Bloody Drool,Abdominal pain,Unable To Eat,Lossened Teeth,Yes,Respiratory
+Buffaloes,Fever,Difficulty breathing,Reduce Energy,Weight loss,Enlarged lymph nodes or Swelling,Yes,Respiratory
+Buffaloes,Swelling on leg,Painfull,Poor Appetite,Broken Bones,Nasal Discharge,Yes,Gastrointestinal
+Buffaloes,Short term lethargy,Loss of  appetite,Poor Appetite,Rapid Heart Rate,Week pulse,Yes,Gastrointestinal
+Buffaloes,Swollen lymph nodes,Difficulty walking,Watery Stool,Lethargy,Vaginal Discharge,Yes,Respiratory
+Buffaloes,Fever,Diarrhea,Sneezing,Stiffness,Severe weekness and depression,Yes,Respiratory
+Buffaloes,Fever,Loss of  appetite,Coughing,Lameness,Swelling of joints,Yes,Respiratory
+Buffaloes,Fever,Chronic eye inflamation,Coughing,Lethargy,Neurologic abnormalities,Yes,Respiratory
+Buffaloes,Fever,Swelling of face or leg,Coughing,Depression,Pains,Yes,Respiratory
+Buffaloes,Diarrhea with muscus,Tensemus,Nose Bleeds,Flatulence,Pains,Yes,Respiratory
+Buffaloes,Strong cough,Runny nose,Darkened skin,Lethargy,Loss of appettite,Yes,Respiratory
+Buffaloes,Fever,Inflammed eye,Sneezing,Depression,Limping,Yes,Respiratory
+Buffaloes,Fever,Difficulty breathing,Poor Appetite,Eye and Skin change,Unable to exercise,Yes,Respiratory
+Buffaloes,Fever,Loss of  appetite,Lession on the skin,Lethargy,Joint Pain,Yes,Respiratory
+Buffaloes,Lesions in the nasal cavity,Lesions on nose,Vomiting,Noisy Breathing,Lesions on nose,Yes,Respiratory
+Buffaloes,Hair loss,Dandruff,Vomiting,Crusting of the skin,Ulcerated skin,Yes,Gastrointestinal
+Buffaloes,Greenish-yellow nasal discharge,Lack of pigmentation,Vomiting,Lethargy,Pain on face,Yes,Respiratory
+Tiger,Nasal discharge,Skin infections,Digestion issues,Cough,Absorption problems,Yes,Respiratory
+Pig,Nasal discharge,Itching,Teeth problems,Cough,Absorption problems,Yes,Respiratory
+Fish,Itching,Absorption problems,Nasal discharge,Digestion issues,Cough,Yes,Respiratory
+Fish,Cough,Absorption problems,Hair loss,Nasal discharge,Digestion issues,No,Respiratory
+Tiger,Itching,Fever,Absorption problems,Digestion issues,Vomiting,No,Gastrointestinal
+Sheep,Hair loss,Digestion issues,Itching,Vomiting,Weight loss,No,Gastrointestinal
+Rabbit,Teeth problems,Weight loss,Sneezing,Skin infections,Diarrhea,No,Respiratory
+Guinea Pig,Skin infections,Fever,Hair loss,Teeth problems,Digestion issues,No,Digestive
+Pig,Hair loss,Sneezing,Absorption problems,Teeth problems,Diarrhea,No,Respiratory
+Pig,Teeth problems,Hair loss,Diarrhea,Weight loss,Fever,No,Gastrointestinal
+Hamster,Diarrhea,Fever,Weight loss,Digestion issues,Hair loss,No,Gastrointestinal
+Turtle,Weight loss,Nasal discharge,Fever,Diarrhea,Vomiting,Yes,Respiratory
+Sheep,Fever,Itching,Cough,Vomiting,Digestion issues,Yes,Respiratory
+Chicken,Skin infections,Sneezing,Weight loss,Hair loss,Teeth problems,Yes,Respiratory
+Elephant,Diarrhea,Weight loss,Nasal discharge,Teeth problems,Sneezing,Yes,Respiratory
+Turtle,Nasal discharge,Vomiting,Fever,Skin infections,Diarrhea,Yes,Respiratory
+Lion,Diarrhea,Nasal discharge,Cough,Vomiting,Sneezing,Yes,Respiratory
+Sheep,Vomiting,Hair loss,Nasal discharge,Cough,Weight loss,Yes,Respiratory
+Tiger,Vomiting,Cough,Sneezing,Weight loss,Nasal discharge,Yes,Respiratory
+Lion,Hair loss,Cough,Sneezing,Fever,Skin infections,Yes,Respiratory
+Goat,Teeth problems,Absorption problems,Skin infections,Nasal discharge,Vomiting,Yes,Respiratory
+Goat,Nasal discharge,Fever,Digestion issues,Teeth problems,Weight loss,Yes,Respiratory
+Sheep,Absorption problems,Digestion issues,Cough,Teeth problems,Weight loss,Yes,Respiratory
+Pig,Digestion issues,Itching,Fever,Hair loss,Skin infections,Yes,Digestive
+Turtle,Nasal discharge,Itching,Sneezing,Fever,Weight loss,Yes,Respiratory
+Rabbit,Cough,Vomiting,Nasal discharge,Fever,Skin infections,Yes,Respiratory
+Monkey,Teeth problems,Itching,Absorption problems,Nasal discharge,Diarrhea,Yes,Respiratory
+Cow,Skin infections,Nasal discharge,Sneezing,Teeth problems,Cough,Yes,Respiratory
+Guinea Pig,Absorption problems,Weight loss,Sneezing,Diarrhea,Fever,Yes,Respiratory
+Cow,Digestion issues,Nasal discharge,Hair loss,Fever,Skin infections,Yes,Respiratory
+Turtle,Teeth problems,Vomiting,Skin infections,Weight loss,Hair loss,Yes,Gastrointestinal
+Fish,Skin infections,Sneezing,Fever,Cough,Digestion issues,Yes,Respiratory
+Sheep,Diarrhea,Nasal discharge,Fever,Cough,Absorption problems,Yes,Respiratory
+Pig,Diarrhea,Sneezing,Fever,Nasal discharge,Skin infections,Yes,Respiratory
+Hamster,Nasal discharge,Skin infections,Weight loss,Sneezing,Cough,Yes,Respiratory
+Tiger,Hair loss,Nasal discharge,Cough,Skin infections,Sneezing,Yes,Respiratory
+Duck,Sneezing,Digestion issues,Skin infections,Diarrhea,Weight loss,Yes,Respiratory
+Monkey,Nasal discharge,Itching,Diarrhea,Absorption problems,Weight loss,Yes,Respiratory
+Turtle,Skin infections,Absorption problems,Teeth problems,Diarrhea,Cough,Yes,Respiratory
+Elephant,Diarrhea,Fever,Itching,Vomiting,Weight loss,Yes,Gastrointestinal
+Lion,Teeth problems,Hair loss,Vomiting,Nasal discharge,Skin infections,Yes,Respiratory
+Cow,Teeth problems,Digestion issues,Fever,Weight loss,Hair loss,Yes,Gastrointestinal
+Duck,Itching,Cough,Skin infections,Hair loss,Digestion issues,No,Respiratory
+Parrot,Nasal discharge,Itching,Diarrhea,Cough,Hair loss,No,Respiratory
+Fish,Fever,Diarrhea,Itching,Nasal discharge,Hair loss,No,Respiratory
+Horse,Diarrhea,Itching,Fever,Vomiting,Sneezing,No,Respiratory
+Hamster,Cough,Teeth problems,Fever,Weight loss,Nasal discharge,No,Respiratory
+Dog,Weight loss,Nasal discharge,Digestion issues,Fever,Vomiting,No,Respiratory
+Chicken,Digestion issues,Teeth problems,Skin infections,Absorption problems,Hair loss,No,Digestive
+Elephant,Weight loss,Vomiting,Skin infections,Digestion issues,Itching,No,Gastrointestinal
+Chicken,Diarrhea,Weight loss,Cough,Digestion issues,Nasal discharge,No,Respiratory
+Rabbit,Teeth problems,Weight loss,Vomiting,Sneezing,Hair loss,No,Respiratory
+Pig,Nasal discharge,Vomiting,Diarrhea,Digestion issues,Sneezing,No,Respiratory
+Sheep,Cough,Diarrhea,Absorption problems,Itching,Weight loss,No,Respiratory
+Guinea Pig,Cough,Absorption problems,Vomiting,Itching,Teeth problems,No,Respiratory
+Horse,Diarrhea,Digestion issues,Absorption problems,Nasal discharge,Fever,No,Respiratory
+Monkey,Weight loss,Nasal discharge,Teeth problems,Sneezing,Itching,No,Respiratory
+Dog,Fever,Diarrhea,Sneezing,Weight loss,Hair loss,No,Respiratory
+Horse,Teeth problems,Sneezing,Hair loss,Nasal discharge,Skin infections,No,Respiratory
+Horse,Hair loss,Diarrhea,Cough,Skin infections,Fever,No,Respiratory
+Cat,Digestion issues,Sneezing,Teeth problems,Skin infections,Nasal discharge,No,Respiratory
+Cat,Teeth problems,Sneezing,Skin infections,Fever,Weight loss,No,Respiratory
+Sheep,Skin infections,Vomiting,Digestion issues,Nasal discharge,Weight loss,No,Respiratory
+Cat,Itching,Diarrhea,Fever,Teeth problems,Sneezing,Yes,Respiratory
+Turtle,Skin infections,Weight loss,Digestion issues,Nasal discharge,Vomiting,Yes,Respiratory
+Fish,Skin infections,Absorption problems,Digestion issues,Fever,Sneezing,Yes,Respiratory
+Tiger,Itching,Hair loss,Cough,Vomiting,Nasal discharge,Yes,Respiratory
+Hamster,Sneezing,Fever,Itching,Teeth problems,Weight loss,Yes,Respiratory
+Fish,Digestion issues,Vomiting,Hair loss,Absorption problems,Sneezing,Yes,Respiratory
+Monkey,Teeth problems,Cough,Sneezing,Weight loss,Skin infections,Yes,Respiratory
+Pig,Cough,Itching,Weight loss,Fever,Sneezing,Yes,Respiratory
+Dog,Absorption problems,Diarrhea,Nasal discharge,Cough,Itching,Yes,Respiratory
+Chicken,Absorption problems,Itching,Diarrhea,Hair loss,Weight loss,Yes,Gastrointestinal
+Monkey,Itching,Teeth problems,Vomiting,Nasal discharge,Skin infections,Yes,Respiratory
+Goat,Cough,Digestion issues,Diarrhea,Teeth problems,Itching,Yes,Respiratory
+Turtle,Diarrhea,Nasal discharge,Teeth problems,Fever,Cough,Yes,Respiratory
+Pig,Cough,Diarrhea,Itching,Nasal discharge,Sneezing,Yes,Respiratory
+Chicken,Vomiting,Teeth problems,Weight loss,Absorption problems,Nasal discharge,Yes,Respiratory
+Guinea Pig,Weight loss,Absorption problems,Cough,Nasal discharge,Hair loss,Yes,Respiratory
+Parrot,Digestion issues,Hair loss,Sneezing,Absorption problems,Fever,Yes,Respiratory
+Chicken,Vomiting,Hair loss,Skin infections,Nasal discharge,Cough,No,Respiratory
+Elephant,Absorption problems,Weight loss,Sneezing,Diarrhea,Teeth problems,No,Respiratory
+Cow,Sneezing,Nasal discharge,Digestion issues,Fever,Vomiting,No,Respiratory
+Cat,Nasal discharge,Teeth problems,Cough,Weight loss,Vomiting,No,Respiratory
+Horse,Fever,Absorption problems,Skin infections,Diarrhea,Weight loss,No,Gastrointestinal
+Duck,Weight loss,Fever,Nasal discharge,Cough,Digestion issues,No,Respiratory
+Cow,Absorption problems,Diarrhea,Sneezing,Vomiting,Digestion issues,No,Respiratory
+Guinea Pig,Vomiting,Weight loss,Hair loss,Skin infections,Cough,No,Respiratory
+Goat,Absorption problems,Sneezing,Diarrhea,Teeth problems,Itching,No,Respiratory
+Cat,Hair loss,Teeth problems,Diarrhea,Nasal discharge,Fever,No,Respiratory
+Lion,Diarrhea,Skin infections,Digestion issues,Weight loss,Teeth problems,No,Gastrointestinal
+Hamster,Digestion issues,Nasal discharge,Weight loss,Vomiting,Cough,No,Respiratory
+Chicken,Diarrhea,Nasal discharge,Absorption problems,Sneezing,Teeth problems,No,Respiratory
+Sheep,Skin infections,Weight loss,Teeth problems,Cough,Fever,No,Respiratory
+Elephant,Fever,Hair loss,Skin infections,Diarrhea,Digestion issues,No,Gastrointestinal
+Tiger,Itching,Weight loss,Teeth problems,Diarrhea,Hair loss,No,Gastrointestinal
+Monkey,Teeth problems,Vomiting,Skin infections,Diarrhea,Digestion issues,No,Gastrointestinal
+Pig,Hair loss,Itching,Nasal discharge,Digestion issues,Weight loss,No,Respiratory
+Lion,Diarrhea,Cough,Fever,Digestion issues,Absorption problems,No,Respiratory
+Sheep,Weight loss,Sneezing,Skin infections,Teeth problems,Absorption problems,No,Respiratory
+Guinea Pig,Nasal discharge,Hair loss,Itching,Fever,Absorption problems,No,Respiratory
+Tiger,Diarrhea,Hair loss,Nasal discharge,Weight loss,Teeth problems,No,Respiratory
+Goat,Absorption problems,Sneezing,Vomiting,Weight loss,Itching,No,Respiratory
+Chicken,Absorption problems,Sneezing,Teeth problems,Diarrhea,Digestion issues,No,Respiratory
+Parrot,Fever,Itching,Diarrhea,Skin infections,Weight loss,No,Gastrointestinal
+Rabbit,Skin infections,Vomiting,Fever,Hair loss,Diarrhea,No,Gastrointestinal
+Goat,Absorption problems,Digestion issues,Diarrhea,Nasal discharge,Vomiting,No,Respiratory
+Cow,Teeth problems,Skin infections,Sneezing,Fever,Hair loss,No,Respiratory
+Sheep,Digestion issues,Fever,Vomiting,Teeth problems,Itching,No,Gastrointestinal
+Pig,Nasal discharge,Vomiting,Fever,Hair loss,Teeth problems,No,Respiratory
+Sheep,Sneezing,Cough,Digestion issues,Diarrhea,Itching,No,Respiratory
+Chicken,Absorption problems,Hair loss,Nasal discharge,Cough,Teeth problems,Yes,Respiratory
+Pig,Weight loss,Fever,Sneezing,Skin infections,Itching,Yes,Respiratory
+Elephant,Vomiting,Fever,Absorption problems,Cough,Digestion issues,Yes,Respiratory
+Duck,Fever,Nasal discharge,Diarrhea,Itching,Vomiting,Yes,Respiratory
+Turtle,Cough,Fever,Nasal discharge,Vomiting,Skin infections,Yes,Respiratory
+Dog,Itching,Nasal discharge,Vomiting,Teeth problems,Digestion issues,Yes,Respiratory
+Sheep,Absorption problems,Cough,Digestion issues,Vomiting,Weight loss,Yes,Respiratory
+Fish,Skin infections,Nasal discharge,Absorption problems,Teeth problems,Fever,Yes,Respiratory
+Hamster,Skin infections,Absorption problems,Diarrhea,Hair loss,Nasal discharge,Yes,Respiratory
+Chicken,Digestion issues,Vomiting,Fever,Sneezing,Itching,Yes,Respiratory
+Cow,Itching,Weight loss,Vomiting,Teeth problems,Diarrhea,Yes,Gastrointestinal
+Duck,Teeth problems,Hair loss,Absorption problems,Nasal discharge,Skin infections,Yes,Respiratory
+Horse,Teeth problems,Skin infections,Fever,Itching,Digestion issues,Yes,Digestive
+Horse,Itching,Cough,Teeth problems,Skin infections,Fever,Yes,Respiratory
+Lion,Nasal discharge,Absorption problems,Teeth problems,Hair loss,Sneezing,Yes,Respiratory
+Pig,Itching,Skin infections,Nasal discharge,Digestion issues,Teeth problems,Yes,Respiratory
+Goat,Digestion issues,Teeth problems,Sneezing,Fever,Absorption problems,Yes,Respiratory
+Rabbit,Hair loss,Absorption problems,Nasal discharge,Vomiting,Weight loss,Yes,Respiratory
+Lion,Skin infections,Vomiting,Nasal discharge,Teeth problems,Hair loss,Yes,Respiratory
+Elephant,Diarrhea,Cough,Absorption problems,Digestion issues,Teeth problems,Yes,Respiratory
+Lion,Digestion issues,Itching,Skin infections,Vomiting,Sneezing,Yes,Respiratory
+Dog,Teeth problems,Fever,Digestion issues,Diarrhea,Skin infections,Yes,Gastrointestinal
+Rabbit,Weight loss,Absorption problems,Vomiting,Cough,Sneezing,Yes,Respiratory
+Elephant,Diarrhea,Cough,Teeth problems,Vomiting,Nasal discharge,Yes,Respiratory
+Fish,Diarrhea,Vomiting,Teeth problems,Nasal discharge,Digestion issues,Yes,Respiratory
+Sheep,Skin infections,Sneezing,Hair loss,Cough,Vomiting,Yes,Respiratory
+Elephant,Sneezing,Hair loss,Diarrhea,Nasal discharge,Itching,Yes,Respiratory
+Tiger,Itching,Sneezing,Digestion issues,Skin infections,Teeth problems,Yes,Respiratory
+Chicken,Digestion issues,Sneezing,Itching,Hair loss,Fever,Yes,Respiratory
+Lion,Diarrhea,Vomiting,Skin infections,Nasal discharge,Teeth problems,Yes,Respiratory
+Hamster,Fever,Skin infections,Weight loss,Digestion issues,Hair loss,Yes,Gastrointestinal
+Cat,Hair loss,Absorption problems,Diarrhea,Sneezing,Itching,Yes,Respiratory
+Dog,Digestion issues,Teeth problems,Nasal discharge,Diarrhea,Absorption problems,Yes,Respiratory
+Parrot,Diarrhea,Absorption problems,Skin infections,Itching,Hair loss,Yes,Gastrointestinal
+Horse,Vomiting,Teeth problems,Sneezing,Cough,Digestion issues,Yes,Respiratory
+Guinea Pig,Weight loss,Diarrhea,Fever,Vomiting,Cough,Yes,Respiratory
+Monkey,Absorption problems,Digestion issues,Cough,Fever,Weight loss,Yes,Respiratory
+Cow,Skin infections,Fever,Absorption problems,Vomiting,Itching,Yes,Gastrointestinal
+Chicken,Vomiting,Cough,Fever,Diarrhea,Digestion issues,Yes,Respiratory
+Monkey,Hair loss,Vomiting,Absorption problems,Fever,Diarrhea,Yes,Gastrointestinal
+Dog,Diarrhea,Cough,Vomiting,Itching,Nasal discharge,Yes,Respiratory
+Rabbit,Absorption problems,Weight loss,Nasal discharge,Fever,Sneezing,Yes,Respiratory
+Elephant,Itching,Digestion issues,Diarrhea,Nasal discharge,Teeth problems,Yes,Respiratory
+Hamster,Cough,Teeth problems,Nasal discharge,Vomiting,Weight loss,Yes,Respiratory
+Hamster,Absorption problems,Skin infections,Diarrhea,Teeth problems,Cough,Yes,Respiratory
+Fish,Diarrhea,Vomiting,Cough,Skin infections,Weight loss,Yes,Respiratory
+Monkey,Absorption problems,Diarrhea,Fever,Itching,Hair loss,Yes,Gastrointestinal
+Cat,Diarrhea,Nasal discharge,Fever,Itching,Weight loss,Yes,Respiratory
+Duck,Digestion issues,Skin infections,Hair loss,Fever,Nasal discharge,Yes,Respiratory
+Duck,Absorption problems,Diarrhea,Vomiting,Teeth problems,Digestion issues,Yes,Gastrointestinal
+Parrot,Fever,Itching,Sneezing,Vomiting,Diarrhea,Yes,Respiratory
+Goat,Hair loss,Absorption problems,Weight loss,Diarrhea,Teeth problems,Yes,Gastrointestinal
+Hamster,Nasal discharge,Diarrhea,Cough,Sneezing,Skin infections,Yes,Respiratory
+Duck,Itching,Vomiting,Sneezing,Hair loss,Cough,Yes,Respiratory
+Rabbit,Absorption problems,Skin infections,Nasal discharge,Weight loss,Digestion issues,Yes,Respiratory
+Duck,Hair loss,Skin infections,Itching,Teeth problems,Vomiting,Yes,Gastrointestinal
+Tiger,Teeth problems,Absorption problems,Weight loss,Diarrhea,Sneezing,Yes,Respiratory
+Cow,Vomiting,Cough,Weight loss,Nasal discharge,Skin infections,Yes,Respiratory
+Turtle,Digestion issues,Sneezing,Teeth problems,Skin infections,Weight loss,Yes,Respiratory
+Guinea Pig,Nasal discharge,Vomiting,Digestion issues,Skin infections,Absorption problems,Yes,Respiratory
+Rabbit,Skin infections,Hair loss,Nasal discharge,Diarrhea,Itching,Yes,Respiratory
+Goat,Hair loss,Fever,Itching,Vomiting,Skin infections,Yes,Gastrointestinal
+Fish,Hair loss,Vomiting,Nasal discharge,Teeth problems,Diarrhea,Yes,Respiratory
+Pig,Skin infections,Digestion issues,Itching,Cough,Vomiting,Yes,Respiratory
+Monkey,Diarrhea,Absorption problems,Vomiting,Nasal discharge,Cough,Yes,Respiratory
+Pig,Skin infections,Teeth problems,Hair loss,Itching,Weight loss,Yes,Gastrointestinal
+Guinea Pig,Vomiting,Fever,Skin infections,Itching,Diarrhea,Yes,Gastrointestinal
+Fish,Hair loss,Vomiting,Absorption problems,Digestion issues,Cough,Yes,Respiratory
+Turtle,Skin infections,Absorption problems,Teeth problems,Fever,Digestion issues,Yes,Digestive
+Guinea Pig,Skin infections,Nasal discharge,Vomiting,Fever,Absorption problems,Yes,Respiratory
+Parrot,Vomiting,Hair loss,Diarrhea,Skin infections,Digestion issues,Yes,Gastrointestinal
+Dog,Nasal discharge,Absorption problems,Weight loss,Vomiting,Sneezing,Yes,Respiratory
+Tiger,Diarrhea,Teeth problems,Cough,Digestion issues,Absorption problems,Yes,Respiratory
+Cat,Teeth problems,Itching,Digestion issues,Hair loss,Skin infections,No,Digestive
+Sheep,Teeth problems,Itching,Absorption problems,Vomiting,Skin infections,No,Gastrointestinal
+Sheep,Vomiting,Diarrhea,Teeth problems,Digestion issues,Hair loss,No,Gastrointestinal
+Duck,Fever,Sneezing,Cough,Nasal discharge,Teeth problems,No,Respiratory
+Monkey,Skin infections,Digestion issues,Hair loss,Fever,Diarrhea,No,Gastrointestinal
+Hamster,Skin infections,Weight loss,Vomiting,Nasal discharge,Diarrhea,No,Respiratory
+Chicken,Vomiting,Fever,Diarrhea,Nasal discharge,Itching,No,Respiratory
+Tiger,Skin infections,Vomiting,Fever,Digestion issues,Sneezing,No,Respiratory
+Hamster,Itching,Fever,Absorption problems,Diarrhea,Digestion issues,No,Gastrointestinal
+Sheep,Hair loss,Skin infections,Sneezing,Teeth problems,Nasal discharge,No,Respiratory
+Goat,Nasal discharge,Sneezing,Digestion issues,Diarrhea,Absorption problems,Yes,Respiratory
+Hamster,Absorption problems,Digestion issues,Vomiting,Diarrhea,Nasal discharge,Yes,Respiratory
+Turtle,Weight loss,Skin infections,Diarrhea,Vomiting,Absorption problems,Yes,Gastrointestinal
+Tiger,Hair loss,Digestion issues,Diarrhea,Absorption problems,Teeth problems,Yes,Gastrointestinal
+Monkey,Skin infections,Fever,Diarrhea,Teeth problems,Weight loss,Yes,Gastrointestinal
+Tiger,Nasal discharge,Skin infections,Digestion issues,Cough,Absorption problems,,Respiratory

@@ -1,0 +1,1001 @@
+AnimalName,symptoms1,symptoms2,symptoms3,symptoms4,symptoms5,Type_of_Disease,,Dangerous
+Dog,Absorption problems,Diarrhea,Nasal discharge,Cough,Itching,Respiratory,,Yes
+Chicken,Absorption problems,Itching,Diarrhea,Hair loss,Weight loss,Gastrointestinal,,Yes
+Monkey,Itching,Teeth problems,Vomiting,Nasal discharge,Skin infections,Respiratory,,Yes
+Goat,Cough,Digestion issues,Diarrhea,Teeth problems,Itching,Respiratory,,No
+Turtle,Diarrhea,Nasal discharge,Teeth problems,Fever,Cough,Respiratory,,No
+Pig,Cough,Diarrhea,Itching,Nasal discharge,Sneezing,Respiratory,,No
+Chicken,Vomiting,Teeth problems,Weight loss,Absorption problems,Nasal discharge,Respiratory,,No
+Guinea Pig,Weight loss,Absorption problems,Cough,Nasal discharge,Hair loss,Respiratory,,No
+Parrot,Digestion issues,Hair loss,Sneezing,Absorption problems,Fever,Respiratory,,No
+Chicken,Vomiting,Hair loss,Skin infections,Nasal discharge,Cough,Respiratory,,No
+Elephant,Absorption problems,Weight loss,Sneezing,Diarrhea,Teeth problems,Respiratory,,No
+Cow,Sneezing,Nasal discharge,Digestion issues,Fever,Vomiting,Respiratory,,Yes
+Cat,Nasal discharge,Teeth problems,Cough,Weight loss,Vomiting,Respiratory,,Yes
+Horse,Fever,Absorption problems,Skin infections,Diarrhea,Weight loss,Gastrointestinal,,Yes
+Duck,Weight loss,Fever,Nasal discharge,Cough,Digestion issues,Respiratory,,Yes
+Cow,Absorption problems,Diarrhea,Sneezing,Vomiting,Digestion issues,Respiratory,,Yes
+Guinea Pig,Vomiting,Weight loss,Hair loss,Skin infections,Cough,Respiratory,,Yes
+Goat,Absorption problems,Sneezing,Diarrhea,Teeth problems,Itching,Respiratory,,Yes
+Cat,Hair loss,Teeth problems,Diarrhea,Nasal discharge,Fever,Respiratory,,Yes
+Lion,Diarrhea,Skin infections,Digestion issues,Weight loss,Teeth problems,Gastrointestinal,,Yes
+Hamster,Digestion issues,Nasal discharge,Weight loss,Vomiting,Cough,Respiratory,,Yes
+Chicken,Diarrhea,Nasal discharge,Absorption problems,Sneezing,Teeth problems,Respiratory,,Yes
+Sheep,Skin infections,Weight loss,Teeth problems,Cough,Fever,Respiratory,,Yes
+Elephant,Fever,Hair loss,Skin infections,Diarrhea,Digestion issues,Gastrointestinal,,Yes
+Tiger,Itching,Weight loss,Teeth problems,Diarrhea,Hair loss,Gastrointestinal,,Yes
+Monkey,Teeth problems,Vomiting,Skin infections,Diarrhea,Digestion issues,Gastrointestinal,,Yes
+Pig,Hair loss,Itching,Nasal discharge,Digestion issues,Weight loss,Respiratory,,Yes
+Lion,Diarrhea,Cough,Fever,Digestion issues,Absorption problems,Respiratory,,Yes
+Sheep,Weight loss,Sneezing,Skin infections,Teeth problems,Absorption problems,Respiratory,,Yes
+Guinea Pig,Nasal discharge,Hair loss,Itching,Fever,Absorption problems,Respiratory,,Yes
+Tiger,Diarrhea,Hair loss,Nasal discharge,Weight loss,Teeth problems,Respiratory,,Yes
+Goat,Absorption problems,Sneezing,Vomiting,Weight loss,Itching,Respiratory,,Yes
+Chicken,Absorption problems,Sneezing,Teeth problems,Diarrhea,Digestion issues,Respiratory,,Yes
+Parrot,Fever,Itching,Diarrhea,Skin infections,Weight loss,Gastrointestinal,,Yes
+Rabbit,Skin infections,Vomiting,Fever,Hair loss,Diarrhea,Gastrointestinal,,Yes
+Goat,Absorption problems,Digestion issues,Diarrhea,Nasal discharge,Vomiting,Respiratory,,Yes
+Cow,Teeth problems,Skin infections,Sneezing,Fever,Hair loss,Respiratory,,Yes
+Sheep,Digestion issues,Fever,Vomiting,Teeth problems,Itching,Gastrointestinal,,Yes
+Pig,Nasal discharge,Vomiting,Fever,Hair loss,Teeth problems,Respiratory,,Yes
+Sheep,Sneezing,Cough,Digestion issues,Diarrhea,Itching,Respiratory,,Yes
+Chicken,Absorption problems,Hair loss,Nasal discharge,Cough,Teeth problems,Respiratory,,Yes
+Pig,Weight loss,Fever,Sneezing,Skin infections,Itching,Respiratory,,Yes
+Elephant,Vomiting,Fever,Absorption problems,Cough,Digestion issues,Respiratory,,No
+Duck,Fever,Nasal discharge,Diarrhea,Itching,Vomiting,Respiratory,,No
+Turtle,Cough,Fever,Nasal discharge,Vomiting,Skin infections,Respiratory,,No
+Dog,Itching,Nasal discharge,Vomiting,Teeth problems,Digestion issues,Respiratory,,No
+Sheep,Absorption problems,Cough,Digestion issues,Vomiting,Weight loss,Respiratory,,No
+Fish,Skin infections,Nasal discharge,Absorption problems,Teeth problems,Fever,Respiratory,,No
+Hamster,Skin infections,Absorption problems,Diarrhea,Hair loss,Nasal discharge,Respiratory,,No
+Chicken,Digestion issues,Vomiting,Fever,Sneezing,Itching,Respiratory,,No
+Cow,Itching,Weight loss,Vomiting,Teeth problems,Diarrhea,Gastrointestinal,,No
+Duck,Teeth problems,Hair loss,Absorption problems,Nasal discharge,Skin infections,Respiratory,,No
+Horse,Teeth problems,Skin infections,Fever,Itching,Digestion issues,Digestive,,No
+Horse,Itching,Cough,Teeth problems,Skin infections,Fever,Respiratory,,No
+Lion,Nasal discharge,Absorption problems,Teeth problems,Hair loss,Sneezing,Respiratory,,No
+Pig,Itching,Skin infections,Nasal discharge,Digestion issues,Teeth problems,Respiratory,,No
+Goat,Digestion issues,Teeth problems,Sneezing,Fever,Absorption problems,Respiratory,,No
+Rabbit,Hair loss,Absorption problems,Nasal discharge,Vomiting,Weight loss,Respiratory,,No
+Lion,Skin infections,Vomiting,Nasal discharge,Teeth problems,Hair loss,Respiratory,,No
+Elephant,Diarrhea,Cough,Absorption problems,Digestion issues,Teeth problems,Respiratory,,No
+Lion,Digestion issues,Itching,Skin infections,Vomiting,Sneezing,Respiratory,,No
+Dog,Teeth problems,Fever,Digestion issues,Diarrhea,Skin infections,Gastrointestinal,,No
+Rabbit,Weight loss,Absorption problems,Vomiting,Cough,Sneezing,Respiratory,,No
+Elephant,Diarrhea,Cough,Teeth problems,Vomiting,Nasal discharge,Respiratory,,Yes
+Fish,Diarrhea,Vomiting,Teeth problems,Nasal discharge,Digestion issues,Respiratory,,Yes
+Sheep,Skin infections,Sneezing,Hair loss,Cough,Vomiting,Respiratory,,Yes
+Elephant,Sneezing,Hair loss,Diarrhea,Nasal discharge,Itching,Respiratory,,Yes
+Tiger,Itching,Sneezing,Digestion issues,Skin infections,Teeth problems,Respiratory,,Yes
+Chicken,Digestion issues,Sneezing,Itching,Hair loss,Fever,Respiratory,,Yes
+Lion,Diarrhea,Vomiting,Skin infections,Nasal discharge,Teeth problems,Respiratory,,Yes
+Hamster,Fever,Skin infections,Weight loss,Digestion issues,Hair loss,Gastrointestinal,,Yes
+Cat,Hair loss,Absorption problems,Diarrhea,Sneezing,Itching,Respiratory,,Yes
+Dog,Digestion issues,Teeth problems,Nasal discharge,Diarrhea,Absorption problems,Respiratory,,Yes
+Parrot,Diarrhea,Absorption problems,Skin infections,Itching,Hair loss,Gastrointestinal,,Yes
+Horse,Vomiting,Teeth problems,Sneezing,Cough,Digestion issues,Respiratory,,Yes
+Guinea Pig,Weight loss,Diarrhea,Fever,Vomiting,Cough,Respiratory,,Yes
+Monkey,Absorption problems,Digestion issues,Cough,Fever,Weight loss,Respiratory,,Yes
+Cow,Skin infections,Fever,Absorption problems,Vomiting,Itching,Gastrointestinal,,Yes
+Chicken,Vomiting,Cough,Fever,Diarrhea,Digestion issues,Respiratory,,Yes
+Monkey,Hair loss,Vomiting,Absorption problems,Fever,Diarrhea,Gastrointestinal,,Yes
+Dog,Diarrhea,Cough,Vomiting,Itching,Nasal discharge,Respiratory,,No
+Rabbit,Absorption problems,Weight loss,Nasal discharge,Fever,Sneezing,Respiratory,,No
+Elephant,Itching,Digestion issues,Diarrhea,Nasal discharge,Teeth problems,Respiratory,,No
+Hamster,Cough,Teeth problems,Nasal discharge,Vomiting,Weight loss,Respiratory,,No
+Hamster,Absorption problems,Skin infections,Diarrhea,Teeth problems,Cough,Respiratory,,No
+Fish,Diarrhea,Vomiting,Cough,Skin infections,Weight loss,Respiratory,,No
+Monkey,Absorption problems,Diarrhea,Fever,Itching,Hair loss,Gastrointestinal,,No
+Cat,Diarrhea,Nasal discharge,Fever,Itching,Weight loss,Respiratory,,No
+Duck,Digestion issues,Skin infections,Hair loss,Fever,Nasal discharge,Respiratory,,No
+Duck,Absorption problems,Diarrhea,Vomiting,Teeth problems,Digestion issues,Gastrointestinal,,No
+Parrot,Fever,Itching,Sneezing,Vomiting,Diarrhea,Respiratory,,No
+Goat,Hair loss,Absorption problems,Weight loss,Diarrhea,Teeth problems,Gastrointestinal,,No
+Hamster,Nasal discharge,Diarrhea,Cough,Sneezing,Skin infections,Respiratory,,No
+Duck,Itching,Vomiting,Sneezing,Hair loss,Cough,Respiratory,,No
+Rabbit,Absorption problems,Skin infections,Nasal discharge,Weight loss,Digestion issues,Respiratory,,No
+Duck,Hair loss,Skin infections,Itching,Teeth problems,Vomiting,Gastrointestinal,,No
+Tiger,Teeth problems,Absorption problems,Weight loss,Diarrhea,Sneezing,Respiratory,,No
+Cow,Vomiting,Cough,Weight loss,Nasal discharge,Skin infections,Respiratory,,No
+Turtle,Digestion issues,Sneezing,Teeth problems,Skin infections,Weight loss,Respiratory,,No
+Guinea Pig,Nasal discharge,Vomiting,Digestion issues,Skin infections,Absorption problems,Respiratory,,No
+Rabbit,Skin infections,Hair loss,Nasal discharge,Diarrhea,Itching,Respiratory,,No
+Goat,Hair loss,Fever,Itching,Vomiting,Skin infections,Gastrointestinal,,No
+Fish,Hair loss,Vomiting,Nasal discharge,Teeth problems,Diarrhea,Respiratory,,No
+Pig,Skin infections,Digestion issues,Itching,Cough,Vomiting,Respiratory,,No
+Monkey,Diarrhea,Absorption problems,Vomiting,Nasal discharge,Cough,Respiratory,,No
+Pig,Skin infections,Teeth problems,Hair loss,Itching,Weight loss,Gastrointestinal,,No
+Guinea Pig,Vomiting,Fever,Skin infections,Itching,Diarrhea,Gastrointestinal,,No
+Fish,Hair loss,Vomiting,Absorption problems,Digestion issues,Cough,Respiratory,,No
+Turtle,Skin infections,Absorption problems,Teeth problems,Fever,Digestion issues,Digestive,,No
+Guinea Pig,Skin infections,Nasal discharge,Vomiting,Fever,Absorption problems,Respiratory,,No
+Parrot,Vomiting,Hair loss,Diarrhea,Skin infections,Digestion issues,Gastrointestinal,,No
+Dog,Nasal discharge,Absorption problems,Weight loss,Vomiting,Sneezing,Respiratory,,Yes
+Tiger,Diarrhea,Teeth problems,Cough,Digestion issues,Absorption problems,Respiratory,,Yes
+Cat,Teeth problems,Itching,Digestion issues,Hair loss,Skin infections,Digestive,,Yes
+Sheep,Teeth problems,Itching,Absorption problems,Vomiting,Skin infections,Gastrointestinal,,Yes
+Sheep,Vomiting,Diarrhea,Teeth problems,Digestion issues,Hair loss,Gastrointestinal,,Yes
+Duck,Fever,Sneezing,Cough,Nasal discharge,Teeth problems,Respiratory,,Yes
+Monkey,Skin infections,Digestion issues,Hair loss,Fever,Diarrhea,Gastrointestinal,,Yes
+Hamster,Skin infections,Weight loss,Vomiting,Nasal discharge,Diarrhea,Respiratory,,Yes
+Chicken,Vomiting,Fever,Diarrhea,Nasal discharge,Itching,Respiratory,,Yes
+Tiger,Skin infections,Vomiting,Fever,Digestion issues,Sneezing,Respiratory,,Yes
+Hamster,Itching,Fever,Absorption problems,Diarrhea,Digestion issues,Gastrointestinal,,Yes
+Sheep,Hair loss,Skin infections,Sneezing,Teeth problems,Nasal discharge,Respiratory,,Yes
+Goat,Nasal discharge,Sneezing,Digestion issues,Diarrhea,Absorption problems,Respiratory,,Yes
+Hamster,Absorption problems,Digestion issues,Vomiting,Diarrhea,Nasal discharge,Respiratory,,Yes
+Turtle,Weight loss,Skin infections,Diarrhea,Vomiting,Absorption problems,Gastrointestinal,,Yes
+Tiger,Hair loss,Digestion issues,Diarrhea,Absorption problems,Teeth problems,Gastrointestinal,,Yes
+Monkey,Skin infections,Fever,Diarrhea,Teeth problems,Weight loss,Gastrointestinal,,Yes
+Tiger,Nasal discharge,Skin infections,Digestion issues,Cough,Absorption problems,Respiratory,,Yes
+Pig,Nasal discharge,Itching,Teeth problems,Cough,Absorption problems,Respiratory,,Yes
+Fish,Itching,Absorption problems,Nasal discharge,Digestion issues,Cough,Respiratory,,Yes
+Fish,Cough,Absorption problems,Hair loss,Nasal discharge,Digestion issues,Respiratory,,Yes
+Tiger,Itching,Fever,Absorption problems,Digestion issues,Vomiting,Gastrointestinal,,Yes
+Sheep,Hair loss,Digestion issues,Itching,Vomiting,Weight loss,Gastrointestinal,,Yes
+Rabbit,Teeth problems,Weight loss,Sneezing,Skin infections,Diarrhea,Respiratory,,Yes
+Guinea Pig,Skin infections,Fever,Hair loss,Teeth problems,Digestion issues,Digestive,,Yes
+Pig,Hair loss,Sneezing,Absorption problems,Teeth problems,Diarrhea,Respiratory,,Yes
+Pig,Teeth problems,Hair loss,Diarrhea,Weight loss,Fever,Gastrointestinal,,Yes
+Hamster,Diarrhea,Fever,Weight loss,Digestion issues,Hair loss,Gastrointestinal,,Yes
+Turtle,Weight loss,Nasal discharge,Fever,Diarrhea,Vomiting,Respiratory,,Yes
+Sheep,Fever,Itching,Cough,Vomiting,Digestion issues,Respiratory,,Yes
+Chicken,Skin infections,Sneezing,Weight loss,Hair loss,Teeth problems,Respiratory,,Yes
+Elephant,Diarrhea,Weight loss,Nasal discharge,Teeth problems,Sneezing,Respiratory,,Yes
+Turtle,Nasal discharge,Vomiting,Fever,Skin infections,Diarrhea,Respiratory,,Yes
+Lion,Diarrhea,Nasal discharge,Cough,Vomiting,Sneezing,Respiratory,,Yes
+Sheep,Vomiting,Hair loss,Nasal discharge,Cough,Weight loss,Respiratory,,Yes
+Tiger,Vomiting,Cough,Sneezing,Weight loss,Nasal discharge,Respiratory,,Yes
+Lion,Hair loss,Cough,Sneezing,Fever,Skin infections,Respiratory,,Yes
+Goat,Teeth problems,Absorption problems,Skin infections,Nasal discharge,Vomiting,Respiratory,,Yes
+Goat,Nasal discharge,Fever,Digestion issues,Teeth problems,Weight loss,Respiratory,,Yes
+Sheep,Absorption problems,Digestion issues,Cough,Teeth problems,Weight loss,Respiratory,,Yes
+Pig,Digestion issues,Itching,Fever,Hair loss,Skin infections,Digestive,,Yes
+Turtle,Nasal discharge,Itching,Sneezing,Fever,Weight loss,Respiratory,,Yes
+Rabbit,Cough,Vomiting,Nasal discharge,Fever,Skin infections,Respiratory,,Yes
+Monkey,Teeth problems,Itching,Absorption problems,Nasal discharge,Diarrhea,Respiratory,,Yes
+Cow,Skin infections,Nasal discharge,Sneezing,Teeth problems,Cough,Respiratory,,Yes
+Guinea Pig,Absorption problems,Weight loss,Sneezing,Diarrhea,Fever,Respiratory,,Yes
+Cow,Digestion issues,Nasal discharge,Hair loss,Fever,Skin infections,Respiratory,,Yes
+Turtle,Teeth problems,Vomiting,Skin infections,Weight loss,Hair loss,Gastrointestinal,,Yes
+Fish,Skin infections,Sneezing,Fever,Cough,Digestion issues,Respiratory,,Yes
+Sheep,Diarrhea,Nasal discharge,Fever,Cough,Absorption problems,Respiratory,,Yes
+Pig,Diarrhea,Sneezing,Fever,Nasal discharge,Skin infections,Respiratory,,Yes
+Hamster,Nasal discharge,Skin infections,Weight loss,Sneezing,Cough,Respiratory,,Yes
+Tiger,Hair loss,Nasal discharge,Cough,Skin infections,Sneezing,Respiratory,,Yes
+Duck,Sneezing,Digestion issues,Skin infections,Diarrhea,Weight loss,Respiratory,,Yes
+Monkey,Nasal discharge,Itching,Diarrhea,Absorption problems,Weight loss,Respiratory,,Yes
+Turtle,Skin infections,Absorption problems,Teeth problems,Diarrhea,Cough,Respiratory,,Yes
+Elephant,Diarrhea,Fever,Itching,Vomiting,Weight loss,Gastrointestinal,,Yes
+Lion,Teeth problems,Hair loss,Vomiting,Nasal discharge,Skin infections,Respiratory,,Yes
+Cow,Teeth problems,Digestion issues,Fever,Weight loss,Hair loss,Gastrointestinal,,Yes
+Duck,Itching,Cough,Skin infections,Hair loss,Digestion issues,Respiratory,,Yes
+Parrot,Nasal discharge,Itching,Diarrhea,Cough,Hair loss,Respiratory,,Yes
+Fish,Fever,Diarrhea,Itching,Nasal discharge,Hair loss,Respiratory,,Yes
+Horse,Diarrhea,Itching,Fever,Vomiting,Sneezing,Respiratory,,Yes
+Hamster,Cough,Teeth problems,Fever,Weight loss,Nasal discharge,Respiratory,,Yes
+Dog,Weight loss,Nasal discharge,Digestion issues,Fever,Vomiting,Respiratory,,Yes
+Chicken,Digestion issues,Teeth problems,Skin infections,Absorption problems,Hair loss,Digestive,,Yes
+Elephant,Weight loss,Vomiting,Skin infections,Digestion issues,Itching,Gastrointestinal,,Yes
+Chicken,Diarrhea,Weight loss,Cough,Digestion issues,Nasal discharge,Respiratory,,Yes
+Rabbit,Teeth problems,Weight loss,Vomiting,Sneezing,Hair loss,Respiratory,,Yes
+Pig,Nasal discharge,Vomiting,Diarrhea,Digestion issues,Sneezing,Respiratory,,Yes
+Sheep,Cough,Diarrhea,Absorption problems,Itching,Weight loss,Respiratory,,Yes
+Guinea Pig,Cough,Absorption problems,Vomiting,Itching,Teeth problems,Respiratory,,Yes
+Horse,Diarrhea,Digestion issues,Absorption problems,Nasal discharge,Fever,Respiratory,,Yes
+Monkey,Weight loss,Nasal discharge,Teeth problems,Sneezing,Itching,Respiratory,,No
+Dog,Fever,Diarrhea,Sneezing,Weight loss,Hair loss,Respiratory,,No
+Horse,Teeth problems,Sneezing,Hair loss,Nasal discharge,Skin infections,Respiratory,,No
+Horse,Hair loss,Diarrhea,Cough,Skin infections,Fever,Respiratory,,No
+Cat,Digestion issues,Sneezing,Teeth problems,Skin infections,Nasal discharge,Respiratory,,No
+Cat,Teeth problems,Sneezing,Skin infections,Fever,Weight loss,Respiratory,,No
+Sheep,Skin infections,Vomiting,Digestion issues,Nasal discharge,Weight loss,Respiratory,,No
+Cat,Itching,Diarrhea,Fever,Teeth problems,Sneezing,Respiratory,,No
+Turtle,Skin infections,Weight loss,Digestion issues,Nasal discharge,Vomiting,Respiratory,,No
+Fish,Skin infections,Absorption problems,Digestion issues,Fever,Sneezing,Respiratory,,No
+Tiger,Itching,Hair loss,Cough,Vomiting,Nasal discharge,Respiratory,,Yes
+Hamster,Sneezing,Fever,Itching,Teeth problems,Weight loss,Respiratory,,Yes
+Fish,Digestion issues,Vomiting,Hair loss,Absorption problems,Sneezing,Respiratory,,Yes
+Monkey,Teeth problems,Cough,Sneezing,Weight loss,Skin infections,Respiratory,,Yes
+Pig,Cough,Itching,Weight loss,Fever,Sneezing,Respiratory,,Yes
+Parrot,Skin infections,Teeth problems,Cough,Absorption problems,Itching,Respiratory,,Yes
+Fish,Sneezing,Fever,Absorption problems,Diarrhea,Cough,Respiratory,,Yes
+Duck,Sneezing,Nasal discharge,Diarrhea,Digestion issues,Weight loss,Respiratory,,Yes
+Guinea Pig,Nasal discharge,Itching,Weight loss,Absorption problems,Vomiting,Respiratory,,Yes
+Lion,Skin infections,Cough,Nasal discharge,Absorption problems,Diarrhea,Respiratory,,Yes
+Cow,Cough,Digestion issues,Hair loss,Teeth problems,Absorption problems,Respiratory,,Yes
+Tiger,Vomiting,Skin infections,Sneezing,Absorption problems,Itching,Respiratory,,Yes
+Cow,Digestion issues,Sneezing,Nasal discharge,Fever,Vomiting,Respiratory,,Yes
+Chicken,Digestion issues,Fever,Vomiting,Nasal discharge,Absorption problems,Respiratory,,Yes
+Goat,Skin infections,Cough,Sneezing,Absorption problems,Fever,Respiratory,,Yes
+Cat,Nasal discharge,Hair loss,Absorption problems,Digestion issues,Fever,Respiratory,,Yes
+Chicken,Hair loss,Digestion issues,Cough,Sneezing,Itching,Respiratory,,Yes
+Hamster,Weight loss,Skin infections,Cough,Diarrhea,Teeth problems,Respiratory,,Yes
+Chicken,Skin infections,Vomiting,Teeth problems,Hair loss,Fever,Gastrointestinal,,Yes
+Sheep,Fever,Nasal discharge,Sneezing,Skin infections,Absorption problems,Respiratory,,Yes
+Tiger,Digestion issues,Hair loss,Fever,Weight loss,Absorption problems,Gastrointestinal,,Yes
+Tiger,Hair loss,Cough,Vomiting,Skin infections,Weight loss,Respiratory,,Yes
+Sheep,Itching,Fever,Hair loss,Nasal discharge,Digestion issues,Respiratory,,Yes
+Turtle,Vomiting,Weight loss,Skin infections,Sneezing,Hair loss,Respiratory,,Yes
+Goat,Sneezing,Weight loss,Nasal discharge,Diarrhea,Itching,Respiratory,,Yes
+Elephant,Skin infections,Cough,Sneezing,Absorption problems,Itching,Respiratory,,Yes
+Monkey,Skin infections,Fever,Sneezing,Weight loss,Absorption problems,Respiratory,,Yes
+Monkey,Sneezing,Teeth problems,Itching,Skin infections,Nasal discharge,Respiratory,,Yes
+Tiger,Sneezing,Skin infections,Digestion issues,Cough,Teeth problems,Respiratory,,Yes
+Monkey,Hair loss,Teeth problems,Skin infections,Nasal discharge,Fever,Respiratory,,Yes
+Sheep,Fever,Digestion issues,Absorption problems,Skin infections,Vomiting,Gastrointestinal,,Yes
+Goat,Absorption problems,Weight loss,Diarrhea,Fever,Vomiting,Gastrointestinal,,Yes
+Duck,Diarrhea,Sneezing,Teeth problems,Nasal discharge,Hair loss,Respiratory,,Yes
+Dog,Diarrhea,Vomiting,Nasal discharge,Sneezing,Fever,Respiratory,,Yes
+Turtle,Digestion issues,Diarrhea,Nasal discharge,Sneezing,Skin infections,Respiratory,,Yes
+Fish,Fever,Itching,Sneezing,Hair loss,Skin infections,Respiratory,,Yes
+Goat,Skin infections,Cough,Itching,Weight loss,Fever,Respiratory,,Yes
+Duck,Weight loss,Fever,Diarrhea,Cough,Teeth problems,Respiratory,,Yes
+Horse,Weight loss,Fever,Vomiting,Diarrhea,Digestion issues,Gastrointestinal,,Yes
+Fish,Sneezing,Itching,Digestion issues,Skin infections,Weight loss,Respiratory,,Yes
+Fish,Digestion issues,Skin infections,Sneezing,Teeth problems,Cough,Respiratory,,Yes
+Tiger,Itching,Nasal discharge,Cough,Hair loss,Fever,Respiratory,,Yes
+Duck,Itching,Diarrhea,Nasal discharge,Vomiting,Fever,Respiratory,,Yes
+Hamster,Sneezing,Skin infections,Nasal discharge,Absorption problems,Itching,Respiratory,,Yes
+Hamster,Digestion issues,Skin infections,Vomiting,Sneezing,Fever,Respiratory,,Yes
+Dog,Diarrhea,Itching,Hair loss,Absorption problems,Fever,Gastrointestinal,,Yes
+Cow,Hair loss,Cough,Itching,Digestion issues,Sneezing,Respiratory,,Yes
+Rabbit,Digestion issues,Skin infections,Itching,Absorption problems,Cough,Respiratory,,Yes
+Chicken,Teeth problems,Vomiting,Itching,Skin infections,Diarrhea,Gastrointestinal,,Yes
+Sheep,Itching,Weight loss,Absorption problems,Teeth problems,Cough,Respiratory,,Yes
+Rabbit,Sneezing,Weight loss,Digestion issues,Absorption problems,Diarrhea,Respiratory,,Yes
+Monkey,Skin infections,Cough,Teeth problems,Sneezing,Digestion issues,Respiratory,,Yes
+Cat,Teeth problems,Vomiting,Diarrhea,Nasal discharge,Absorption problems,Respiratory,,Yes
+Turtle,Sneezing,Diarrhea,Digestion issues,Skin infections,Itching,Respiratory,,Yes
+Tiger,Cough,Nasal discharge,Vomiting,Sneezing,Weight loss,Respiratory,,Yes
+Rabbit,Skin infections,Teeth problems,Nasal discharge,Digestion issues,Fever,Respiratory,,Yes
+Cow,Teeth problems,Sneezing,Digestion issues,Itching,Weight loss,Respiratory,,Yes
+Fish,Nasal discharge,Teeth problems,Cough,Absorption problems,Diarrhea,Respiratory,,Yes
+Lion,Vomiting,Skin infections,Fever,Cough,Teeth problems,Respiratory,,Yes
+Cat,Fever,Hair loss,Sneezing,Absorption problems,Teeth problems,Respiratory,,Yes
+Dog,Teeth problems,Itching,Digestion issues,Fever,Nasal discharge,Respiratory,,Yes
+Tiger,Sneezing,Diarrhea,Hair loss,Itching,Skin infections,Respiratory,,Yes
+Cat,Hair loss,Weight loss,Vomiting,Skin infections,Fever,Gastrointestinal,,Yes
+Horse,Vomiting,Skin infections,Diarrhea,Absorption problems,Sneezing,Respiratory,,Yes
+Turtle,Hair loss,Diarrhea,Vomiting,Cough,Sneezing,Respiratory,,Yes
+Dog,Fever,Nasal discharge,Digestion issues,Diarrhea,Sneezing,Respiratory,,Yes
+Cat,Fever,Nasal discharge,Cough,Hair loss,Digestion issues,Respiratory,,No
+Pig,Absorption problems,Fever,Nasal discharge,Weight loss,Hair loss,Respiratory,,No
+Sheep,Diarrhea,Itching,Absorption problems,Sneezing,Vomiting,Respiratory,,No
+Monkey,Cough,Sneezing,Weight loss,Hair loss,Teeth problems,Respiratory,,No
+Monkey,Vomiting,Itching,Hair loss,Nasal discharge,Weight loss,Respiratory,,No
+Guinea Pig,Weight loss,Cough,Sneezing,Diarrhea,Digestion issues,Respiratory,,No
+Parrot,Digestion issues,Hair loss,Itching,Cough,Skin infections,Respiratory,,No
+Sheep,Weight loss,Skin infections,Hair loss,Vomiting,Sneezing,Respiratory,,No
+Duck,Teeth problems,Fever,Nasal discharge,Hair loss,Vomiting,Respiratory,,No
+Cat,Weight loss,Hair loss,Cough,Nasal discharge,Teeth problems,Respiratory,,No
+Horse,Fever,Vomiting,Hair loss,Digestion issues,Absorption problems,Gastrointestinal,,Yes
+Elephant,Itching,Vomiting,Hair loss,Weight loss,Cough,Respiratory,,Yes
+Fish,Teeth problems,Fever,Itching,Cough,Diarrhea,Respiratory,,Yes
+Tiger,Absorption problems,Itching,Fever,Vomiting,Sneezing,Respiratory,,Yes
+Lion,Skin infections,Teeth problems,Hair loss,Cough,Nasal discharge,Respiratory,,Yes
+Parrot,Skin infections,Weight loss,Nasal discharge,Itching,Digestion issues,Respiratory,,Yes
+Hamster,Itching,Fever,Vomiting,Cough,Absorption problems,Respiratory,,Yes
+Tiger,Weight loss,Cough,Nasal discharge,Teeth problems,Fever,Respiratory,,Yes
+Pig,Digestion issues,Nasal discharge,Skin infections,Teeth problems,Vomiting,Respiratory,,Yes
+Elephant,Nasal discharge,Absorption problems,Skin infections,Diarrhea,Teeth problems,Respiratory,,Yes
+Parrot,Digestion issues,Weight loss,Sneezing,Teeth problems,Skin infections,Respiratory,,Yes
+Lion,Vomiting,Skin infections,Sneezing,Nasal discharge,Fever,Respiratory,,Yes
+Lion,Fever,Hair loss,Digestion issues,Teeth problems,Diarrhea,Gastrointestinal,,Yes
+Parrot,Nasal discharge,Teeth problems,Fever,Digestion issues,Hair loss,Respiratory,,Yes
+Duck,Hair loss,Skin infections,Itching,Nasal discharge,Absorption problems,Respiratory,,Yes
+Sheep,Diarrhea,Digestion issues,Vomiting,Sneezing,Cough,Respiratory,,No
+Chicken,Sneezing,Cough,Absorption problems,Fever,Weight loss,Respiratory,,No
+Tiger,Digestion issues,Cough,Nasal discharge,Skin infections,Sneezing,Respiratory,,No
+Chicken,Vomiting,Fever,Skin infections,Nasal discharge,Digestion issues,Respiratory,,No
+Duck,Hair loss,Digestion issues,Sneezing,Vomiting,Fever,Respiratory,,No
+Dog,Fever,Digestion issues,Itching,Weight loss,Nasal discharge,Respiratory,,No
+Fish,Sneezing,Skin infections,Nasal discharge,Teeth problems,Cough,Respiratory,,No
+Goat,Nasal discharge,Itching,Diarrhea,Hair loss,Absorption problems,Respiratory,,No
+Horse,Teeth problems,Absorption problems,Sneezing,Nasal discharge,Diarrhea,Respiratory,,No
+Elephant,Digestion issues,Hair loss,Teeth problems,Nasal discharge,Skin infections,Respiratory,,No
+Horse,Absorption problems,Digestion issues,Itching,Fever,Vomiting,Gastrointestinal,,No
+Guinea Pig,Digestion issues,Sneezing,Fever,Nasal discharge,Itching,Respiratory,,No
+Parrot,Teeth problems,Absorption problems,Itching,Fever,Hair loss,Digestive,,No
+Sheep,Absorption problems,Vomiting,Sneezing,Skin infections,Digestion issues,Respiratory,,No
+Dog,Sneezing,Skin infections,Fever,Cough,Teeth problems,Respiratory,,No
+Sheep,Absorption problems,Vomiting,Fever,Diarrhea,Digestion issues,Gastrointestinal,,No
+Lion,Itching,Hair loss,Fever,Digestion issues,Nasal discharge,Respiratory,,No
+Rabbit,Nasal discharge,Vomiting,Hair loss,Teeth problems,Fever,Respiratory,,No
+Lion,Nasal discharge,Absorption problems,Diarrhea,Itching,Cough,Respiratory,,No
+Duck,Cough,Vomiting,Diarrhea,Weight loss,Fever,Respiratory,,No
+Rabbit,Digestion issues,Absorption problems,Itching,Hair loss,Weight loss,Gastrointestinal,,Yes
+Guinea Pig,Sneezing,Hair loss,Skin infections,Teeth problems,Vomiting,Respiratory,,Yes
+Lion,Hair loss,Fever,Digestion issues,Weight loss,Teeth problems,Gastrointestinal,,Yes
+Sheep,Absorption problems,Sneezing,Digestion issues,Nasal discharge,Fever,Respiratory,,Yes
+Parrot,Weight loss,Absorption problems,Cough,Hair loss,Fever,Respiratory,,Yes
+Guinea Pig,Sneezing,Nasal discharge,Skin infections,Fever,Vomiting,Respiratory,,Yes
+Tiger,Weight loss,Absorption problems,Vomiting,Skin infections,Nasal discharge,Respiratory,,Yes
+Goat,Nasal discharge,Teeth problems,Skin infections,Itching,Fever,Respiratory,,Yes
+Hamster,Diarrhea,Absorption problems,Vomiting,Digestion issues,Hair loss,Gastrointestinal,,Yes
+Pig,Nasal discharge,Cough,Vomiting,Itching,Sneezing,Respiratory,,Yes
+Parrot,Teeth problems,Itching,Diarrhea,Digestion issues,Hair loss,Gastrointestinal,,Yes
+Monkey,Weight loss,Digestion issues,Itching,Absorption problems,Diarrhea,Gastrointestinal,,Yes
+Cow,Cough,Weight loss,Digestion issues,Skin infections,Vomiting,Respiratory,,Yes
+Hamster,Cough,Skin infections,Sneezing,Itching,Digestion issues,Respiratory,,Yes
+Tiger,Absorption problems,Fever,Nasal discharge,Diarrhea,Vomiting,Respiratory,,Yes
+Cat,Teeth problems,Vomiting,Nasal discharge,Fever,Diarrhea,Respiratory,,Yes
+Fish,Diarrhea,Vomiting,Absorption problems,Sneezing,Cough,Respiratory,,Yes
+Lion,Cough,Vomiting,Fever,Skin infections,Diarrhea,Respiratory,,Yes
+Guinea Pig,Weight loss,Teeth problems,Digestion issues,Nasal discharge,Diarrhea,Respiratory,,Yes
+Parrot,Teeth problems,Itching,Hair loss,Vomiting,Absorption problems,Gastrointestinal,,Yes
+Fish,Absorption problems,Weight loss,Fever,Itching,Digestion issues,Gastrointestinal,,Yes
+Elephant,Itching,Sneezing,Digestion issues,Nasal discharge,Skin infections,Respiratory,,Yes
+Parrot,Sneezing,Skin infections,Hair loss,Weight loss,Absorption problems,Respiratory,,Yes
+Parrot,Weight loss,Skin infections,Digestion issues,Hair loss,Absorption problems,Gastrointestinal,,Yes
+Elephant,Absorption problems,Itching,Nasal discharge,Digestion issues,Weight loss,Respiratory,,Yes
+Fish,Nasal discharge,Weight loss,Diarrhea,Vomiting,Cough,Respiratory,,Yes
+Elephant,Weight loss,Cough,Itching,Teeth problems,Digestion issues,Respiratory,,Yes
+Guinea Pig,Teeth problems,Fever,Skin infections,Itching,Diarrhea,Gastrointestinal,,Yes
+Rabbit,Diarrhea,Sneezing,Hair loss,Digestion issues,Cough,Respiratory,,Yes
+Hamster,Diarrhea,Fever,Hair loss,Skin infections,Cough,Respiratory,,Yes
+Parrot,Hair loss,Itching,Vomiting,Diarrhea,Cough,Respiratory,,Yes
+Cow,Nasal discharge,Itching,Teeth problems,Weight loss,Diarrhea,Respiratory,,Yes
+Turtle,Nasal discharge,Fever,Cough,Vomiting,Hair loss,Respiratory,,Yes
+Hamster,Digestion issues,Skin infections,Teeth problems,Cough,Vomiting,Respiratory,,Yes
+Horse,Cough,Vomiting,Sneezing,Fever,Diarrhea,Respiratory,,Yes
+Parrot,Fever,Itching,Sneezing,Cough,Digestion issues,Respiratory,,Yes
+Horse,Diarrhea,Nasal discharge,Itching,Cough,Absorption problems,Respiratory,,Yes
+Lion,Hair loss,Diarrhea,Sneezing,Cough,Fever,Respiratory,,Yes
+Hamster,Sneezing,Skin infections,Itching,Diarrhea,Cough,Respiratory,,Yes
+Lion,Hair loss,Sneezing,Digestion issues,Absorption problems,Nasal discharge,Respiratory,,Yes
+Pig,Weight loss,Teeth problems,Digestion issues,Diarrhea,Absorption problems,Gastrointestinal,,Yes
+Fish,Sneezing,Fever,Cough,Weight loss,Absorption problems,Respiratory,,No
+Cat,Vomiting,Diarrhea,Teeth problems,Nasal discharge,Absorption problems,Respiratory,,No
+Lion,Teeth problems,Diarrhea,Absorption problems,Fever,Itching,Gastrointestinal,,No
+Chicken,Cough,Absorption problems,Digestion issues,Sneezing,Weight loss,Respiratory,,No
+Elephant,Nasal discharge,Sneezing,Absorption problems,Itching,Teeth problems,Respiratory,,No
+Goat,Fever,Diarrhea,Cough,Skin infections,Itching,Respiratory,,No
+Elephant,Skin infections,Fever,Nasal discharge,Absorption problems,Digestion issues,Respiratory,,No
+Goat,Absorption problems,Nasal discharge,Cough,Digestion issues,Diarrhea,Respiratory,,No
+Fish,Diarrhea,Weight loss,Digestion issues,Cough,Sneezing,Respiratory,,No
+Parrot,Weight loss,Absorption problems,Skin infections,Vomiting,Sneezing,Respiratory,,No
+Cow,Vomiting,Diarrhea,Skin infections,Teeth problems,Itching,Gastrointestinal,,No
+Lion,Weight loss,Sneezing,Itching,Teeth problems,Vomiting,Respiratory,,No
+Horse,Teeth problems,Nasal discharge,Fever,Digestion issues,Weight loss,Respiratory,,No
+Chicken,Hair loss,Cough,Absorption problems,Sneezing,Diarrhea,Respiratory,,No
+Chicken,Sneezing,Absorption problems,Skin infections,Vomiting,Digestion issues,Respiratory,,No
+Chicken,Nasal discharge,Diarrhea,Digestion issues,Sneezing,Teeth problems,Respiratory,,No
+Guinea Pig,Digestion issues,Nasal discharge,Sneezing,Weight loss,Teeth problems,Respiratory,,No
+Lion,Nasal discharge,Vomiting,Absorption problems,Cough,Hair loss,Respiratory,,No
+Elephant,Sneezing,Vomiting,Weight loss,Diarrhea,Nasal discharge,Respiratory,,No
+Horse,Absorption problems,Diarrhea,Cough,Nasal discharge,Fever,Respiratory,,No
+Hamster,Vomiting,Fever,Sneezing,Diarrhea,Skin infections,Respiratory,,No
+Tiger,Hair loss,Absorption problems,Nasal discharge,Sneezing,Digestion issues,Respiratory,,No
+Cow,Hair loss,Nasal discharge,Skin infections,Diarrhea,Vomiting,Respiratory,,No
+Monkey,Cough,Absorption problems,Hair loss,Teeth problems,Nasal discharge,Respiratory,,No
+Cat,Vomiting,Itching,Teeth problems,Sneezing,Fever,Respiratory,,No
+Parrot,Fever,Hair loss,Weight loss,Diarrhea,Digestion issues,Gastrointestinal,,No
+Chicken,Nasal discharge,Vomiting,Sneezing,Cough,Skin infections,Respiratory,,No
+Pig,Skin infections,Teeth problems,Vomiting,Nasal discharge,Sneezing,Respiratory,,No
+Cow,Fever,Sneezing,Hair loss,Absorption problems,Teeth problems,Respiratory,,No
+Goat,Teeth problems,Weight loss,Skin infections,Sneezing,Absorption problems,Respiratory,,No
+Fish,Digestion issues,Cough,Nasal discharge,Skin infections,Sneezing,Respiratory,,No
+Dog,Digestion issues,Vomiting,Itching,Sneezing,Hair loss,Respiratory,,No
+Guinea Pig,Diarrhea,Digestion issues,Teeth problems,Weight loss,Hair loss,Gastrointestinal,,No
+Rabbit,Nasal discharge,Diarrhea,Skin infections,Weight loss,Vomiting,Respiratory,,No
+Elephant,Skin infections,Nasal discharge,Teeth problems,Vomiting,Absorption problems,Respiratory,,No
+Fish,Itching,Hair loss,Vomiting,Weight loss,Skin infections,Gastrointestinal,,No
+Turtle,Cough,Absorption problems,Digestion issues,Skin infections,Sneezing,Respiratory,,No
+Fish,Itching,Cough,Diarrhea,Absorption problems,Vomiting,Respiratory,,No
+Parrot,Weight loss,Fever,Absorption problems,Nasal discharge,Itching,Respiratory,,No
+Tiger,Digestion issues,Cough,Skin infections,Diarrhea,Weight loss,Respiratory,,No
+Duck,Itching,Diarrhea,Fever,Digestion issues,Skin infections,Gastrointestinal,,No
+Horse,Fever,Diarrhea,Absorption problems,Cough,Teeth problems,Respiratory,,No
+Sheep,Absorption problems,Diarrhea,Fever,Cough,Teeth problems,Respiratory,,No
+Dog,Absorption problems,Sneezing,Hair loss,Skin infections,Teeth problems,Respiratory,,No
+Chicken,Fever,Itching,Weight loss,Digestion issues,Hair loss,Gastrointestinal,,No
+Horse,Itching,Absorption problems,Diarrhea,Weight loss,Skin infections,Gastrointestinal,,No
+Pig,Weight loss,Teeth problems,Hair loss,Diarrhea,Skin infections,Gastrointestinal,,No
+Turtle,Weight loss,Vomiting,Hair loss,Diarrhea,Itching,Gastrointestinal,,No
+Chicken,Cough,Skin infections,Itching,Fever,Vomiting,Respiratory,,No
+Parrot,Hair loss,Diarrhea,Itching,Fever,Cough,Respiratory,,No
+Cat,Hair loss,Fever,Itching,Absorption problems,Sneezing,Respiratory,,No
+Horse,Sneezing,Skin infections,Hair loss,Diarrhea,Itching,Respiratory,,No
+Cow,Hair loss,Nasal discharge,Fever,Itching,Diarrhea,Respiratory,,No
+Pig,Weight loss,Sneezing,Vomiting,Absorption problems,Cough,Respiratory,,No
+Monkey,Hair loss,Teeth problems,Diarrhea,Weight loss,Sneezing,Respiratory,,No
+Guinea Pig,Fever,Teeth problems,Nasal discharge,Absorption problems,Sneezing,Respiratory,,No
+Hamster,Vomiting,Cough,Skin infections,Diarrhea,Absorption problems,Respiratory,,No
+Cow,Diarrhea,Hair loss,Itching,Weight loss,Digestion issues,Gastrointestinal,,No
+Parrot,Diarrhea,Itching,Cough,Absorption problems,Fever,Respiratory,,No
+Lion,Vomiting,Itching,Diarrhea,Digestion issues,Teeth problems,Gastrointestinal,,No
+Chicken,Cough,Weight loss,Diarrhea,Teeth problems,Fever,Respiratory,,No
+Duck,Itching,Absorption problems,Teeth problems,Nasal discharge,Sneezing,Respiratory,,No
+Elephant,Fever,Teeth problems,Hair loss,Absorption problems,Nasal discharge,Respiratory,,No
+Pig,Fever,Skin infections,Nasal discharge,Diarrhea,Cough,Respiratory,,No
+Cow,Absorption problems,Hair loss,Cough,Nasal discharge,Diarrhea,Respiratory,,No
+Guinea Pig,Vomiting,Fever,Skin infections,Absorption problems,Nasal discharge,Respiratory,,No
+Fish,Cough,Fever,Absorption problems,Weight loss,Hair loss,Respiratory,,No
+Hamster,Vomiting,Absorption problems,Sneezing,Itching,Skin infections,Respiratory,,No
+Fish,Fever,Weight loss,Vomiting,Nasal discharge,Skin infections,Respiratory,,No
+Horse,Digestion issues,Absorption problems,Diarrhea,Itching,Nasal discharge,Respiratory,,No
+Sheep,Weight loss,Skin infections,Hair loss,Fever,Cough,Respiratory,,No
+Cow,Itching,Cough,Diarrhea,Vomiting,Fever,Respiratory,,No
+Chicken,Diarrhea,Skin infections,Vomiting,Sneezing,Nasal discharge,Respiratory,,No
+Cat,Skin infections,Cough,Teeth problems,Absorption problems,Weight loss,Respiratory,,No
+Pig,Teeth problems,Vomiting,Nasal discharge,Itching,Weight loss,Respiratory,,No
+Dog,Teeth problems,Skin infections,Cough,Digestion issues,Weight loss,Respiratory,,No
+Guinea Pig,Skin infections,Vomiting,Itching,Nasal discharge,Digestion issues,Respiratory,,No
+Cow,Absorption problems,Skin infections,Weight loss,Diarrhea,Nasal discharge,Respiratory,,No
+Horse,Itching,Weight loss,Skin infections,Diarrhea,Nasal discharge,Respiratory,,No
+Elephant,Hair loss,Sneezing,Diarrhea,Vomiting,Fever,Respiratory,,No
+Tiger,Fever,Cough,Diarrhea,Nasal discharge,Hair loss,Respiratory,,No
+Goat,Teeth problems,Sneezing,Diarrhea,Skin infections,Digestion issues,Respiratory,,No
+Monkey,Digestion issues,Nasal discharge,Teeth problems,Hair loss,Cough,Respiratory,,No
+Guinea Pig,Vomiting,Itching,Cough,Teeth problems,Diarrhea,Respiratory,,No
+Rabbit,Skin infections,Itching,Weight loss,Hair loss,Nasal discharge,Respiratory,,No
+Lion,Teeth problems,Itching,Diarrhea,Fever,Digestion issues,Gastrointestinal,,No
+Horse,Diarrhea,Digestion issues,Nasal discharge,Sneezing,Itching,Respiratory,,No
+Horse,Itching,Hair loss,Diarrhea,Weight loss,Skin infections,Gastrointestinal,,No
+Cow,Nasal discharge,Diarrhea,Cough,Absorption problems,Weight loss,Respiratory,,No
+Rabbit,Nasal discharge,Sneezing,Vomiting,Itching,Hair loss,Respiratory,,No
+Fish,Fever,Nasal discharge,Weight loss,Digestion issues,Cough,Respiratory,,No
+Lion,Absorption problems,Diarrhea,Teeth problems,Digestion issues,Sneezing,Respiratory,,No
+Chicken,Skin infections,Itching,Absorption problems,Fever,Sneezing,Respiratory,,No
+Dog,Sneezing,Vomiting,Itching,Fever,Digestion issues,Respiratory,,No
+Hamster,Cough,Diarrhea,Itching,Nasal discharge,Digestion issues,Respiratory,,No
+Horse,Nasal discharge,Sneezing,Skin infections,Hair loss,Absorption problems,Respiratory,,Yes
+Monkey,Hair loss,Weight loss,Absorption problems,Itching,Nasal discharge,Respiratory,,Yes
+Lion,Cough,Sneezing,Teeth problems,Fever,Itching,Respiratory,,Yes
+Chicken,Itching,Cough,Sneezing,Digestion issues,Absorption problems,Respiratory,,Yes
+Parrot,Itching,Skin infections,Digestion issues,Fever,Diarrhea,Gastrointestinal,,Yes
+Sheep,Absorption problems,Teeth problems,Diarrhea,Weight loss,Hair loss,Gastrointestinal,,Yes
+Rabbit,Nasal discharge,Digestion issues,Skin infections,Itching,Weight loss,Respiratory,,Yes
+Lion,Sneezing,Diarrhea,Digestion issues,Fever,Itching,Respiratory,,Yes
+Dog,Sneezing,Absorption problems,Skin infections,Vomiting,Hair loss,Respiratory,,Yes
+Duck,Nasal discharge,Weight loss,Hair loss,Diarrhea,Itching,Respiratory,,Yes
+Cat,Cough,Weight loss,Skin infections,Teeth problems,Nasal discharge,Respiratory,,Yes
+Sheep,Fever,Digestion issues,Vomiting,Nasal discharge,Sneezing,Respiratory,,Yes
+Chicken,Fever,Nasal discharge,Digestion issues,Itching,Skin infections,Respiratory,,Yes
+Monkey,Absorption problems,Teeth problems,Hair loss,Weight loss,Diarrhea,Gastrointestinal,,Yes
+Turtle,Fever,Teeth problems,Absorption problems,Vomiting,Sneezing,Respiratory,,Yes
+Cow,Teeth problems,Cough,Hair loss,Fever,Sneezing,Respiratory,,Yes
+Hamster,Teeth problems,Skin infections,Nasal discharge,Diarrhea,Absorption problems,Respiratory,,Yes
+Tiger,Sneezing,Diarrhea,Teeth problems,Cough,Absorption problems,Respiratory,,Yes
+Rabbit,Skin infections,Teeth problems,Nasal discharge,Fever,Hair loss,Respiratory,,Yes
+Sheep,Diarrhea,Vomiting,Itching,Fever,Cough,Respiratory,,Yes
+Tiger,Diarrhea,Nasal discharge,Digestion issues,Hair loss,Teeth problems,Respiratory,,Yes
+Guinea Pig,Weight loss,Absorption problems,Vomiting,Digestion issues,Cough,Respiratory,,Yes
+Parrot,Teeth problems,Diarrhea,Fever,Weight loss,Hair loss,Gastrointestinal,,Yes
+Tiger,Teeth problems,Sneezing,Itching,Cough,Nasal discharge,Respiratory,,Yes
+Cow,Cough,Diarrhea,Absorption problems,Digestion issues,Weight loss,Respiratory,,Yes
+Turtle,Sneezing,Weight loss,Fever,Itching,Cough,Respiratory,,Yes
+Tiger,Weight loss,Fever,Teeth problems,Nasal discharge,Absorption problems,Respiratory,,Yes
+Pig,Nasal discharge,Weight loss,Teeth problems,Vomiting,Itching,Respiratory,,Yes
+Cow,Cough,Fever,Sneezing,Itching,Vomiting,Respiratory,,Yes
+Dog,Absorption problems,Digestion issues,Vomiting,Weight loss,Fever,Gastrointestinal,,Yes
+Parrot,Weight loss,Hair loss,Fever,Teeth problems,Skin infections,Gastrointestinal,,No
+Cat,Fever,Itching,Nasal discharge,Sneezing,Digestion issues,Respiratory,,No
+Chicken,Sneezing,Vomiting,Cough,Diarrhea,Itching,Respiratory,,No
+Rabbit,Absorption problems,Weight loss,Nasal discharge,Vomiting,Teeth problems,Respiratory,,No
+Rabbit,Nasal discharge,Absorption problems,Sneezing,Vomiting,Weight loss,Respiratory,,No
+Pig,Cough,Weight loss,Digestion issues,Hair loss,Teeth problems,Respiratory,,No
+Hamster,Diarrhea,Nasal discharge,Hair loss,Itching,Sneezing,Respiratory,,No
+Lion,Cough,Sneezing,Digestion issues,Diarrhea,Hair loss,Respiratory,,No
+Dog,Fever,Cough,Weight loss,Digestion issues,Hair loss,Respiratory,,No
+Sheep,Itching,Weight loss,Cough,Digestion issues,Nasal discharge,Respiratory,,No
+Duck,Nasal discharge,Digestion issues,Hair loss,Cough,Sneezing,Respiratory,,No
+Parrot,Nasal discharge,Hair loss,Absorption problems,Digestion issues,Sneezing,Respiratory,,No
+Guinea Pig,Diarrhea,Teeth problems,Cough,Absorption problems,Hair loss,Respiratory,,No
+Chicken,Sneezing,Vomiting,Digestion issues,Absorption problems,Cough,Respiratory,,No
+Goat,Weight loss,Nasal discharge,Itching,Digestion issues,Cough,Respiratory,,No
+Lion,Hair loss,Sneezing,Digestion issues,Diarrhea,Itching,Respiratory,,No
+Pig,Nasal discharge,Weight loss,Hair loss,Vomiting,Diarrhea,Respiratory,,No
+Guinea Pig,Sneezing,Diarrhea,Skin infections,Hair loss,Vomiting,Respiratory,,No
+Rabbit,Absorption problems,Diarrhea,Fever,Itching,Nasal discharge,Respiratory,,No
+Rabbit,Itching,Diarrhea,Vomiting,Teeth problems,Cough,Respiratory,,No
+Chicken,Fever,Itching,Sneezing,Teeth problems,Hair loss,Respiratory,,No
+Goat,Nasal discharge,Digestion issues,Weight loss,Sneezing,Cough,Respiratory,,No
+Cow,Teeth problems,Fever,Nasal discharge,Cough,Itching,Respiratory,,No
+Dog,Digestion issues,Teeth problems,Weight loss,Fever,Sneezing,Respiratory,,No
+Cow,Skin infections,Diarrhea,Teeth problems,Digestion issues,Absorption problems,Gastrointestinal,,No
+Monkey,Vomiting,Digestion issues,Hair loss,Itching,Weight loss,Gastrointestinal,,No
+Elephant,Absorption problems,Cough,Weight loss,Diarrhea,Nasal discharge,Respiratory,,No
+Sheep,Vomiting,Skin infections,Absorption problems,Teeth problems,Fever,Gastrointestinal,,No
+Monkey,Diarrhea,Cough,Nasal discharge,Weight loss,Skin infections,Respiratory,,No
+Monkey,Teeth problems,Itching,Skin infections,Weight loss,Absorption problems,Gastrointestinal,,No
+Sheep,Vomiting,Absorption problems,Nasal discharge,Itching,Cough,Respiratory,,No
+Chicken,Cough,Digestion issues,Hair loss,Sneezing,Weight loss,Respiratory,,No
+Parrot,Vomiting,Nasal discharge,Absorption problems,Digestion issues,Weight loss,Respiratory,,No
+Guinea Pig,Digestion issues,Fever,Diarrhea,Skin infections,Weight loss,Gastrointestinal,,No
+Turtle,Digestion issues,Weight loss,Diarrhea,Teeth problems,Hair loss,Gastrointestinal,,No
+Elephant,Sneezing,Teeth problems,Absorption problems,Vomiting,Fever,Respiratory,,No
+Monkey,Vomiting,Teeth problems,Itching,Hair loss,Nasal discharge,Respiratory,,No
+Lion,Digestion issues,Weight loss,Hair loss,Fever,Diarrhea,Gastrointestinal,,No
+Pig,Fever,Teeth problems,Vomiting,Sneezing,Skin infections,Respiratory,,No
+Chicken,Fever,Itching,Teeth problems,Skin infections,Weight loss,Gastrointestinal,,No
+Monkey,Cough,Vomiting,Sneezing,Digestion issues,Fever,Respiratory,,No
+Chicken,Cough,Skin infections,Fever,Diarrhea,Digestion issues,Respiratory,,No
+Chicken,Digestion issues,Absorption problems,Weight loss,Skin infections,Sneezing,Respiratory,,No
+Tiger,Sneezing,Vomiting,Absorption problems,Fever,Skin infections,Respiratory,,No
+Hamster,Itching,Absorption problems,Weight loss,Sneezing,Cough,Respiratory,,No
+Guinea Pig,Fever,Hair loss,Vomiting,Sneezing,Nasal discharge,Respiratory,,No
+Duck,Itching,Vomiting,Diarrhea,Fever,Hair loss,Gastrointestinal,,No
+Turtle,Cough,Digestion issues,Diarrhea,Vomiting,Itching,Respiratory,,No
+Horse,Weight loss,Teeth problems,Itching,Skin infections,Diarrhea,Gastrointestinal,,No
+Duck,Hair loss,Digestion issues,Weight loss,Vomiting,Fever,Gastrointestinal,,No
+Sheep,Weight loss,Hair loss,Absorption problems,Itching,Nasal discharge,Respiratory,,No
+Guinea Pig,Skin infections,Teeth problems,Sneezing,Absorption problems,Hair loss,Respiratory,,No
+Lion,Sneezing,Cough,Itching,Skin infections,Vomiting,Respiratory,,No
+Tiger,Absorption problems,Sneezing,Fever,Weight loss,Vomiting,Respiratory,,No
+Rabbit,Teeth problems,Cough,Diarrhea,Absorption problems,Digestion issues,Respiratory,,No
+Elephant,Weight loss,Digestion issues,Teeth problems,Sneezing,Hair loss,Respiratory,,No
+Rabbit,Digestion issues,Skin infections,Absorption problems,Cough,Weight loss,Respiratory,,No
+Pig,Digestion issues,Nasal discharge,Teeth problems,Vomiting,Sneezing,Respiratory,,No
+Chicken,Nasal discharge,Skin infections,Digestion issues,Hair loss,Fever,Respiratory,,No
+Hamster,Teeth problems,Nasal discharge,Cough,Diarrhea,Vomiting,Respiratory,,No
+Guinea Pig,Cough,Sneezing,Weight loss,Teeth problems,Diarrhea,Respiratory,,No
+Goat,Nasal discharge,Diarrhea,Cough,Digestion issues,Hair loss,Respiratory,,No
+Sheep,Skin infections,Absorption problems,Teeth problems,Nasal discharge,Hair loss,Respiratory,,No
+Guinea Pig,Vomiting,Digestion issues,Sneezing,Cough,Skin infections,Respiratory,,No
+Hamster,Vomiting,Itching,Sneezing,Nasal discharge,Hair loss,Respiratory,,No
+Cow,Skin infections,Fever,Digestion issues,Nasal discharge,Absorption problems,Respiratory,,No
+Parrot,Weight loss,Hair loss,Fever,Absorption problems,Sneezing,Respiratory,,No
+Pig,Fever,Diarrhea,Nasal discharge,Weight loss,Cough,Respiratory,,No
+Turtle,Digestion issues,Diarrhea,Vomiting,Nasal discharge,Itching,Respiratory,,No
+Dog,Sneezing,Skin infections,Cough,Vomiting,Weight loss,Respiratory,,No
+Parrot,Teeth problems,Sneezing,Vomiting,Fever,Diarrhea,Respiratory,,No
+Elephant,Teeth problems,Cough,Digestion issues,Fever,Sneezing,Respiratory,,No
+Monkey,Fever,Digestion issues,Hair loss,Nasal discharge,Vomiting,Respiratory,,No
+Pig,Diarrhea,Absorption problems,Weight loss,Itching,Fever,Gastrointestinal,,No
+Guinea Pig,Itching,Cough,Vomiting,Absorption problems,Sneezing,Respiratory,,No
+Cow,Itching,Nasal discharge,Digestion issues,Hair loss,Diarrhea,Respiratory,,No
+Parrot,Skin infections,Absorption problems,Itching,Digestion issues,Cough,Respiratory,,No
+Duck,Nasal discharge,Diarrhea,Vomiting,Weight loss,Sneezing,Respiratory,,No
+Cow,Hair loss,Diarrhea,Absorption problems,Sneezing,Teeth problems,Respiratory,,No
+Turtle,Fever,Skin infections,Cough,Hair loss,Itching,Respiratory,,No
+Hamster,Fever,Weight loss,Digestion issues,Skin infections,Hair loss,Gastrointestinal,,No
+Tiger,Skin infections,Hair loss,Digestion issues,Teeth problems,Absorption problems,Digestive,,No
+Dog,Teeth problems,Fever,Itching,Hair loss,Absorption problems,Digestive,,No
+Horse,Nasal discharge,Weight loss,Sneezing,Cough,Teeth problems,Respiratory,,No
+Tiger,Cough,Fever,Itching,Weight loss,Vomiting,Respiratory,,No
+Lion,Vomiting,Absorption problems,Teeth problems,Hair loss,Itching,Gastrointestinal,,No
+Cat,Itching,Vomiting,Fever,Digestion issues,Teeth problems,Gastrointestinal,,No
+Parrot,Skin infections,Itching,Weight loss,Absorption problems,Teeth problems,Gastrointestinal,,No
+Turtle,Vomiting,Skin infections,Absorption problems,Teeth problems,Diarrhea,Gastrointestinal,,No
+Lion,Teeth problems,Cough,Itching,Fever,Sneezing,Respiratory,,No
+Lion,Nasal discharge,Itching,Fever,Teeth problems,Diarrhea,Respiratory,,No
+Dog,Nasal discharge,Weight loss,Hair loss,Cough,Skin infections,Respiratory,,No
+Duck,Vomiting,Itching,Teeth problems,Hair loss,Sneezing,Respiratory,,No
+Elephant,Skin infections,Teeth problems,Fever,Nasal discharge,Absorption problems,Respiratory,,No
+Guinea Pig,Digestion issues,Vomiting,Teeth problems,Sneezing,Cough,Respiratory,,No
+Horse,Sneezing,Skin infections,Teeth problems,Vomiting,Itching,Respiratory,,No
+Cat,Skin infections,Sneezing,Diarrhea,Nasal discharge,Cough,Respiratory,,No
+Monkey,Teeth problems,Nasal discharge,Skin infections,Absorption problems,Fever,Respiratory,,No
+Dog,Nasal discharge,Itching,Sneezing,Fever,Digestion issues,Respiratory,,No
+Rabbit,Sneezing,Itching,Teeth problems,Skin infections,Vomiting,Respiratory,,No
+Fish,Nasal discharge,Digestion issues,Fever,Itching,Cough,Respiratory,,No
+Guinea Pig,Absorption problems,Hair loss,Skin infections,Vomiting,Weight loss,Gastrointestinal,,No
+Lion,Nasal discharge,Cough,Sneezing,Itching,Vomiting,Respiratory,,No
+Turtle,Digestion issues,Diarrhea,Vomiting,Itching,Hair loss,Gastrointestinal,,No
+Dog,Teeth problems,Digestion issues,Diarrhea,Weight loss,Vomiting,Gastrointestinal,,No
+Hamster,Skin infections,Sneezing,Teeth problems,Cough,Weight loss,Respiratory,,No
+Horse,Teeth problems,Weight loss,Fever,Nasal discharge,Absorption problems,Respiratory,,No
+Dog,Sneezing,Itching,Fever,Hair loss,Weight loss,Respiratory,,No
+Turtle,Weight loss,Fever,Nasal discharge,Absorption problems,Digestion issues,Respiratory,,No
+Turtle,Cough,Nasal discharge,Weight loss,Hair loss,Itching,Respiratory,,No
+Goat,Teeth problems,Skin infections,Fever,Weight loss,Nasal discharge,Respiratory,,No
+Sheep,Diarrhea,Itching,Fever,Skin infections,Cough,Respiratory,,No
+Duck,Digestion issues,Teeth problems,Hair loss,Nasal discharge,Itching,Respiratory,,No
+Guinea Pig,Vomiting,Cough,Diarrhea,Weight loss,Absorption problems,Respiratory,,No
+Lion,Teeth problems,Digestion issues,Sneezing,Absorption problems,Weight loss,Respiratory,,No
+Tiger,Vomiting,Digestion issues,Weight loss,Fever,Sneezing,Respiratory,,No
+Rabbit,Nasal discharge,Cough,Vomiting,Digestion issues,Fever,Respiratory,,No
+Rabbit,Digestion issues,Fever,Itching,Skin infections,Cough,Respiratory,,No
+Lion,Hair loss,Cough,Digestion issues,Weight loss,Itching,Respiratory,,No
+Sheep,Absorption problems,Fever,Itching,Teeth problems,Cough,Respiratory,,No
+Fish,Vomiting,Teeth problems,Cough,Absorption problems,Weight loss,Respiratory,,No
+Tiger,Sneezing,Vomiting,Fever,Teeth problems,Weight loss,Respiratory,,No
+Hamster,Skin infections,Sneezing,Itching,Digestion issues,Absorption problems,Respiratory,,No
+Guinea Pig,Cough,Absorption problems,Sneezing,Digestion issues,Vomiting,Respiratory,,No
+Duck,Absorption problems,Diarrhea,Nasal discharge,Skin infections,Weight loss,Respiratory,,No
+Elephant,Digestion issues,Fever,Absorption problems,Nasal discharge,Hair loss,Respiratory,,No
+Horse,Teeth problems,Fever,Skin infections,Hair loss,Absorption problems,Digestive,,No
+Sheep,Itching,Teeth problems,Nasal discharge,Skin infections,Digestion issues,Respiratory,,No
+Cat,Vomiting,Digestion issues,Hair loss,Nasal discharge,Absorption problems,Respiratory,,No
+Rabbit,Digestion issues,Hair loss,Fever,Weight loss,Nasal discharge,Respiratory,,No
+Elephant,Nasal discharge,Vomiting,Skin infections,Fever,Weight loss,Respiratory,,No
+Lion,Vomiting,Diarrhea,Nasal discharge,Fever,Sneezing,Respiratory,,No
+Lion,Hair loss,Skin infections,Diarrhea,Itching,Cough,Respiratory,,No
+Elephant,Sneezing,Hair loss,Nasal discharge,Fever,Itching,Respiratory,,No
+Turtle,Sneezing,Vomiting,Hair loss,Absorption problems,Cough,Respiratory,,No
+Horse,Cough,Nasal discharge,Itching,Teeth problems,Fever,Respiratory,,No
+Goat,Sneezing,Itching,Teeth problems,Skin infections,Digestion issues,Respiratory,,No
+Fish,Diarrhea,Weight loss,Sneezing,Nasal discharge,Vomiting,Respiratory,,Yes
+Hamster,Teeth problems,Hair loss,Diarrhea,Weight loss,Nasal discharge,Respiratory,,Yes
+Tiger,Weight loss,Nasal discharge,Sneezing,Vomiting,Digestion issues,Respiratory,,No
+Horse,Sneezing,Digestion issues,Hair loss,Absorption problems,Itching,Respiratory,,No
+Lion,Weight loss,Hair loss,Digestion issues,Sneezing,Nasal discharge,Respiratory,,No
+Goat,Teeth problems,Fever,Nasal discharge,Skin infections,Digestion issues,Respiratory,,No
+Tiger,Itching,Nasal discharge,Absorption problems,Cough,Vomiting,Respiratory,,No
+Duck,Vomiting,Skin infections,Nasal discharge,Teeth problems,Itching,Respiratory,,No
+Chicken,Skin infections,Nasal discharge,Hair loss,Absorption problems,Digestion issues,Respiratory,,No
+Turtle,Teeth problems,Vomiting,Hair loss,Nasal discharge,Fever,Respiratory,,No
+Goat,Teeth problems,Nasal discharge,Digestion issues,Skin infections,Sneezing,Respiratory,,No
+Cow,Digestion issues,Fever,Itching,Nasal discharge,Hair loss,Respiratory,,No
+Monkey,Itching,Weight loss,Vomiting,Absorption problems,Hair loss,Gastrointestinal,,Yes
+Cat,Teeth problems,Skin infections,Nasal discharge,Hair loss,Cough,Respiratory,,Yes
+Hamster,Vomiting,Digestion issues,Diarrhea,Hair loss,Nasal discharge,Respiratory,,Yes
+Dog,Digestion issues,Hair loss,Nasal discharge,Fever,Vomiting,Respiratory,,Yes
+Goat,Sneezing,Hair loss,Weight loss,Teeth problems,Cough,Respiratory,,Yes
+Sheep,Skin infections,Diarrhea,Itching,Teeth problems,Cough,Respiratory,,Yes
+Cow,Digestion issues,Fever,Cough,Nasal discharge,Weight loss,Respiratory,,Yes
+Horse,Teeth problems,Fever,Nasal discharge,Absorption problems,Cough,Respiratory,,Yes
+Sheep,Itching,Nasal discharge,Absorption problems,Sneezing,Hair loss,Respiratory,,Yes
+Pig,Weight loss,Absorption problems,Hair loss,Diarrhea,Cough,Respiratory,,Yes
+Guinea Pig,Cough,Hair loss,Itching,Vomiting,Diarrhea,Respiratory,,Yes
+Cow,Diarrhea,Teeth problems,Weight loss,Skin infections,Absorption problems,Gastrointestinal,,Yes
+Goat,Skin infections,Cough,Fever,Hair loss,Weight loss,Respiratory,,Yes
+Sheep,Weight loss,Vomiting,Hair loss,Cough,Fever,Respiratory,,Yes
+Duck,Hair loss,Vomiting,Diarrhea,Itching,Cough,Respiratory,,Yes
+Goat,Skin infections,Nasal discharge,Hair loss,Teeth problems,Digestion issues,Respiratory,,Yes
+Sheep,Hair loss,Weight loss,Absorption problems,Vomiting,Diarrhea,Gastrointestinal,,Yes
+Goat,Digestion issues,Absorption problems,Cough,Diarrhea,Hair loss,Respiratory,,Yes
+Fish,Sneezing,Skin infections,Weight loss,Absorption problems,Diarrhea,Respiratory,,Yes
+Hamster,Absorption problems,Digestion issues,Nasal discharge,Sneezing,Fever,Respiratory,,Yes
+Goat,Absorption problems,Hair loss,Cough,Nasal discharge,Fever,Respiratory,,Yes
+Cow,Skin infections,Absorption problems,Sneezing,Nasal discharge,Cough,Respiratory,,Yes
+Duck,Teeth problems,Digestion issues,Sneezing,Diarrhea,Absorption problems,Respiratory,,Yes
+Parrot,Nasal discharge,Weight loss,Absorption problems,Skin infections,Digestion issues,Respiratory,,No
+Guinea Pig,Digestion issues,Nasal discharge,Diarrhea,Skin infections,Hair loss,Respiratory,,No
+Pig,Sneezing,Skin infections,Weight loss,Diarrhea,Hair loss,Respiratory,,No
+Dog,Absorption problems,Nasal discharge,Weight loss,Fever,Skin infections,Respiratory,,No
+Elephant,Fever,Teeth problems,Diarrhea,Digestion issues,Nasal discharge,Respiratory,,No
+Elephant,Itching,Skin infections,Hair loss,Nasal discharge,Weight loss,Respiratory,,No
+Turtle,Vomiting,Weight loss,Fever,Skin infections,Nasal discharge,Respiratory,,No
+Hamster,Cough,Sneezing,Diarrhea,Teeth problems,Weight loss,Respiratory,,No
+Dog,Sneezing,Weight loss,Cough,Itching,Vomiting,Respiratory,,No
+Horse,Hair loss,Itching,Digestion issues,Fever,Skin infections,Digestive,,No
+Goat,Cough,Hair loss,Fever,Digestion issues,Weight loss,Respiratory,,No
+Horse,Weight loss,Vomiting,Diarrhea,Fever,Skin infections,Gastrointestinal,,No
+Goat,Teeth problems,Fever,Skin infections,Diarrhea,Hair loss,Gastrointestinal,,No
+Dog,Sneezing,Diarrhea,Fever,Skin infections,Absorption problems,Respiratory,,No
+Fish,Hair loss,Weight loss,Fever,Vomiting,Diarrhea,Gastrointestinal,,No
+Fish,Cough,Itching,Teeth problems,Weight loss,Nasal discharge,Respiratory,,No
+Turtle,Nasal discharge,Weight loss,Teeth problems,Sneezing,Diarrhea,Respiratory,,No
+Cow,Vomiting,Diarrhea,Absorption problems,Cough,Skin infections,Respiratory,,No
+Dog,Fever,Hair loss,Cough,Skin infections,Sneezing,Respiratory,,No
+Guinea Pig,Teeth problems,Sneezing,Absorption problems,Hair loss,Diarrhea,Respiratory,,No
+Horse,Fever,Teeth problems,Diarrhea,Vomiting,Absorption problems,Gastrointestinal,,No
+Monkey,Fever,Digestion issues,Diarrhea,Itching,Teeth problems,Gastrointestinal,,No
+Cow,Cough,Weight loss,Diarrhea,Skin infections,Vomiting,Respiratory,,No
+Guinea Pig,Skin infections,Diarrhea,Sneezing,Fever,Hair loss,Respiratory,,No
+Dog,Hair loss,Sneezing,Absorption problems,Vomiting,Fever,Respiratory,,No
+Goat,Skin infections,Weight loss,Vomiting,Sneezing,Nasal discharge,Respiratory,,No
+Sheep,Nasal discharge,Digestion issues,Weight loss,Vomiting,Hair loss,Respiratory,,No
+Cow,Hair loss,Cough,Itching,Diarrhea,Fever,Respiratory,,No
+Duck,Absorption problems,Itching,Skin infections,Weight loss,Hair loss,Gastrointestinal,,No
+Horse,Sneezing,Diarrhea,Nasal discharge,Itching,Vomiting,Respiratory,,No
+Goat,Cough,Fever,Teeth problems,Weight loss,Nasal discharge,Respiratory,,No
+Goat,Fever,Cough,Skin infections,Vomiting,Absorption problems,Respiratory,,No
+Duck,Diarrhea,Sneezing,Cough,Fever,Itching,Respiratory,,No
+Rabbit,Absorption problems,Itching,Cough,Hair loss,Diarrhea,Respiratory,,No
+Lion,Sneezing,Diarrhea,Itching,Skin infections,Hair loss,Respiratory,,No
+Cat,Digestion issues,Sneezing,Skin infections,Vomiting,Diarrhea,Respiratory,,No
+Monkey,Skin infections,Diarrhea,Absorption problems,Vomiting,Hair loss,Gastrointestinal,,No
+Lion,Nasal discharge,Absorption problems,Sneezing,Diarrhea,Itching,Respiratory,,No
+Sheep,Hair loss,Digestion issues,Vomiting,Sneezing,Cough,Respiratory,,No
+Dog,Sneezing,Vomiting,Digestion issues,Hair loss,Fever,Respiratory,,No
+Dog,Nasal discharge,Absorption problems,Fever,Skin infections,Weight loss,Respiratory,,No
+Chicken,Vomiting,Skin infections,Fever,Weight loss,Diarrhea,Gastrointestinal,,No
+Goat,Sneezing,Vomiting,Digestion issues,Teeth problems,Fever,Respiratory,,No
+Pig,Weight loss,Sneezing,Digestion issues,Nasal discharge,Vomiting,Respiratory,,No
+Hamster,Sneezing,Hair loss,Absorption problems,Vomiting,Cough,Respiratory,,No
+Pig,Absorption problems,Vomiting,Fever,Digestion issues,Nasal discharge,Respiratory,,No
+Lion,Weight loss,Fever,Diarrhea,Itching,Digestion issues,Gastrointestinal,,No
+Goat,Weight loss,Hair loss,Itching,Fever,Skin infections,Gastrointestinal,,No
+Tiger,Weight loss,Skin infections,Fever,Digestion issues,Vomiting,Gastrointestinal,,No
+Chicken,Vomiting,Sneezing,Skin infections,Nasal discharge,Teeth problems,Respiratory,,No
+Goat,Nasal discharge,Hair loss,Cough,Absorption problems,Itching,Respiratory,,No
+Elephant,Cough,Diarrhea,Fever,Itching,Absorption problems,Respiratory,,No
+Hamster,Weight loss,Fever,Absorption problems,Itching,Diarrhea,Gastrointestinal,,No
+Lion,Sneezing,Skin infections,Weight loss,Hair loss,Itching,Respiratory,,Yes
+Cow,Teeth problems,Fever,Absorption problems,Diarrhea,Digestion issues,Gastrointestinal,,Yes
+Goat,Diarrhea,Hair loss,Absorption problems,Teeth problems,Nasal discharge,Respiratory,,Yes
+Fish,Absorption problems,Diarrhea,Cough,Teeth problems,Digestion issues,Respiratory,,Yes
+Dog,Cough,Vomiting,Hair loss,Itching,Digestion issues,Respiratory,,Yes
+Fish,Fever,Vomiting,Cough,Skin infections,Hair loss,Respiratory,,Yes
+Rabbit,Sneezing,Cough,Diarrhea,Fever,Digestion issues,Respiratory,,Yes
+Dog,Absorption problems,Itching,Vomiting,Sneezing,Nasal discharge,Respiratory,,Yes
+Horse,Diarrhea,Digestion issues,Cough,Fever,Absorption problems,Respiratory,,Yes
+Tiger,Diarrhea,Hair loss,Skin infections,Vomiting,Fever,Gastrointestinal,,Yes
+Monkey,Hair loss,Nasal discharge,Fever,Digestion issues,Skin infections,Respiratory,,Yes
+Dog,Skin infections,Cough,Sneezing,Diarrhea,Weight loss,Respiratory,,Yes
+Duck,Cough,Skin infections,Teeth problems,Fever,Diarrhea,Respiratory,,Yes
+Monkey,Nasal discharge,Weight loss,Fever,Absorption problems,Skin infections,Respiratory,,Yes
+Elephant,Vomiting,Weight loss,Fever,Cough,Teeth problems,Respiratory,,Yes
+Cat,Cough,Nasal discharge,Vomiting,Digestion issues,Sneezing,Respiratory,,Yes
+Tiger,Cough,Fever,Absorption problems,Itching,Teeth problems,Respiratory,,Yes
+Guinea Pig,Vomiting,Absorption problems,Sneezing,Weight loss,Teeth problems,Respiratory,,Yes
+Tiger,Fever,Cough,Weight loss,Vomiting,Diarrhea,Respiratory,,Yes
+Sheep,Diarrhea,Fever,Vomiting,Hair loss,Skin infections,Gastrointestinal,,Yes
+Lion,Digestion issues,Weight loss,Skin infections,Absorption problems,Diarrhea,Gastrointestinal,,Yes
+Lion,Hair loss,Digestion issues,Itching,Weight loss,Diarrhea,Gastrointestinal,,Yes
+Rabbit,Nasal discharge,Weight loss,Teeth problems,Skin infections,Sneezing,Respiratory,,Yes
+Pig,Weight loss,Sneezing,Absorption problems,Cough,Hair loss,Respiratory,,Yes
+Cow,Cough,Weight loss,Absorption problems,Fever,Nasal discharge,Respiratory,,Yes
+Sheep,Weight loss,Skin infections,Absorption problems,Nasal discharge,Diarrhea,Respiratory,,Yes
+Chicken,Weight loss,Sneezing,Fever,Teeth problems,Absorption problems,Respiratory,,Yes
+Chicken,Hair loss,Itching,Diarrhea,Absorption problems,Teeth problems,Gastrointestinal,,Yes
+Parrot,Itching,Skin infections,Cough,Hair loss,Nasal discharge,Respiratory,,Yes
+Sheep,Hair loss,Absorption problems,Nasal discharge,Digestion issues,Fever,Respiratory,,Yes
+Cat,Weight loss,Teeth problems,Skin infections,Cough,Nasal discharge,Respiratory,,Yes
+Dog,Diarrhea,Itching,Hair loss,Fever,Teeth problems,Gastrointestinal,,Yes
+Tiger,Absorption problems,Cough,Weight loss,Vomiting,Digestion issues,Respiratory,,Yes
+Fish,Sneezing,Digestion issues,Itching,Vomiting,Absorption problems,Respiratory,,Yes
+Rabbit,Absorption problems,Cough,Nasal discharge,Teeth problems,Digestion issues,Respiratory,,Yes
+Cow,Digestion issues,Vomiting,Teeth problems,Fever,Diarrhea,Gastrointestinal,,Yes
+Pig,Absorption problems,Digestion issues,Diarrhea,Nasal discharge,Teeth problems,Respiratory,,Yes
+Elephant,Digestion issues,Weight loss,Nasal discharge,Teeth problems,Cough,Respiratory,,Yes
+Cat,Fever,Cough,Sneezing,Itching,Skin infections,Respiratory,,Yes
+Monkey,Cough,Nasal discharge,Digestion issues,Skin infections,Teeth problems,Respiratory,,Yes
+Duck,Vomiting,Nasal discharge,Itching,Cough,Sneezing,Respiratory,,Yes
+Lion,Cough,Skin infections,Diarrhea,Digestion issues,Fever,Respiratory,,Yes
+Pig,Vomiting,Diarrhea,Fever,Teeth problems,Sneezing,Respiratory,,Yes
+Cat,Weight loss,Absorption problems,Cough,Sneezing,Vomiting,Respiratory,,Yes
+Pig,Cough,Sneezing,Weight loss,Absorption problems,Skin infections,Respiratory,,Yes
+Hamster,Teeth problems,Fever,Itching,Absorption problems,Vomiting,Gastrointestinal,,Yes
+Tiger,Itching,Sneezing,Hair loss,Weight loss,Absorption problems,Respiratory,,Yes
+Pig,Fever,Digestion issues,Nasal discharge,Hair loss,Vomiting,Respiratory,,Yes
+Monkey,Absorption problems,Cough,Hair loss,Digestion issues,Nasal discharge,Respiratory,,Yes
+Fish,Vomiting,Cough,Hair loss,Weight loss,Digestion issues,Respiratory,,Yes
+Rabbit,Teeth problems,Digestion issues,Cough,Itching,Skin infections,Respiratory,,Yes
+Pig,Diarrhea,Fever,Cough,Sneezing,Nasal discharge,Respiratory,,Yes
+Duck,Skin infections,Itching,Diarrhea,Sneezing,Vomiting,Respiratory,,Yes
+Sheep,Weight loss,Absorption problems,Digestion issues,Teeth problems,Sneezing,Respiratory,,Yes
+Fish,Absorption problems,Nasal discharge,Vomiting,Digestion issues,Teeth problems,Respiratory,,Yes
+Horse,Fever,Teeth problems,Skin infections,Diarrhea,Weight loss,Gastrointestinal,,Yes
+Guinea Pig,Digestion issues,Hair loss,Itching,Skin infections,Weight loss,Gastrointestinal,,Yes
+Tiger,Skin infections,Teeth problems,Weight loss,Cough,Itching,Respiratory,,Yes
+Horse,Cough,Itching,Teeth problems,Fever,Sneezing,Respiratory,,Yes
+Hamster,Vomiting,Fever,Teeth problems,Hair loss,Diarrhea,Gastrointestinal,,Yes
+Parrot,Diarrhea,Teeth problems,Weight loss,Hair loss,Skin infections,Gastrointestinal,,Yes
+Cat,Cough,Itching,Nasal discharge,Absorption problems,Weight loss,Respiratory,,Yes
+Parrot,Fever,Cough,Teeth problems,Weight loss,Skin infections,Respiratory,,Yes
+Cow,Vomiting,Cough,Sneezing,Absorption problems,Digestion issues,Respiratory,,Yes
+Sheep,Absorption problems,Nasal discharge,Weight loss,Skin infections,Itching,Respiratory,,Yes
+Cow,Digestion issues,Teeth problems,Hair loss,Fever,Sneezing,Respiratory,,Yes
+Chicken,Digestion issues,Cough,Skin infections,Teeth problems,Nasal discharge,Respiratory,,Yes
+Fish,Fever,Digestion issues,Cough,Sneezing,Teeth problems,Respiratory,,Yes
+Duck,Weight loss,Sneezing,Itching,Nasal discharge,Teeth problems,Respiratory,,Yes
+Duck,Absorption problems,Cough,Digestion issues,Vomiting,Skin infections,Respiratory,,Yes
+Fish,Diarrhea,Absorption problems,Sneezing,Nasal discharge,Teeth problems,Respiratory,,Yes
+Monkey,Absorption problems,Hair loss,Cough,Weight loss,Itching,Respiratory,,Yes
+Turtle,Itching,Hair loss,Diarrhea,Cough,Teeth problems,Respiratory,,Yes
+Turtle,Cough,Diarrhea,Sneezing,Nasal discharge,Skin infections,Respiratory,,Yes
+Elephant,Digestion issues,Absorption problems,Teeth problems,Weight loss,Fever,Gastrointestinal,,Yes
+Tiger,Diarrhea,Nasal discharge,Itching,Vomiting,Sneezing,Respiratory,,Yes
+Horse,Absorption problems,Itching,Teeth problems,Nasal discharge,Weight loss,Respiratory,,Yes
+Hamster,Diarrhea,Fever,Itching,Vomiting,Cough,Respiratory,,Yes
+Fish,Teeth problems,Absorption problems,Cough,Fever,Weight loss,Respiratory,,Yes
+Parrot,Diarrhea,Skin infections,Cough,Nasal discharge,Itching,Respiratory,,Yes
+Cow,Cough,Itching,Digestion issues,Fever,Teeth problems,Respiratory,,Yes
+Parrot,Absorption problems,Digestion issues,Skin infections,Nasal discharge,Fever,Respiratory,,Yes
+Hamster,Hair loss,Cough,Absorption problems,Skin infections,Weight loss,Respiratory,,Yes
+Hamster,Skin infections,Fever,Nasal discharge,Itching,Weight loss,Respiratory,,Yes
+Hamster,Cough,Nasal discharge,Hair loss,Itching,Absorption problems,Respiratory,,Yes
+Chicken,Hair loss,Absorption problems,Diarrhea,Digestion issues,Nasal discharge,Respiratory,,Yes
+Elephant,Digestion issues,Nasal discharge,Skin infections,Absorption problems,Hair loss,Respiratory,,Yes
+Chicken,Vomiting,Digestion issues,Hair loss,Absorption problems,Skin infections,Gastrointestinal,,Yes
+Duck,Itching,Vomiting,Weight loss,Nasal discharge,Diarrhea,Respiratory,,Yes
+Lion,Itching,Skin infections,Nasal discharge,Vomiting,Hair loss,Respiratory,,Yes
+Guinea Pig,Vomiting,Nasal discharge,Hair loss,Absorption problems,Digestion issues,Respiratory,,Yes
+Turtle,Weight loss,Digestion issues,Absorption problems,Itching,Teeth problems,Gastrointestinal,,Yes
+Chicken,Fever,Itching,Vomiting,Nasal discharge,Absorption problems,Respiratory,,Yes
+Duck,Itching,Nasal discharge,Teeth problems,Sneezing,Cough,Respiratory,,Yes
+Hamster,Diarrhea,Sneezing,Vomiting,Digestion issues,Absorption problems,Respiratory,,Yes
+Elephant,Sneezing,Teeth problems,Hair loss,Vomiting,Itching,Respiratory,,Yes
+Pig,Diarrhea,Sneezing,Hair loss,Fever,Vomiting,Respiratory,,Yes
+Rabbit,Nasal discharge,Weight loss,Cough,Skin infections,Teeth problems,Respiratory,,Yes
+Duck,Cough,Hair loss,Teeth problems,Nasal discharge,Itching,Respiratory,,Yes
+Dog,Digestion issues,Absorption problems,Diarrhea,Sneezing,Nasal discharge,Respiratory,,Yes
+Goat,Weight loss,Vomiting,Diarrhea,Hair loss,Cough,Respiratory,,Yes
+Cat,Skin infections,Weight loss,Vomiting,Teeth problems,Hair loss,Gastrointestinal,,Yes
+Cat,Absorption problems,Fever,Skin infections,Hair loss,Sneezing,Respiratory,,Yes
+Parrot,Sneezing,Weight loss,Teeth problems,Hair loss,Nasal discharge,Respiratory,,Yes
+Monkey,Absorption problems,Nasal discharge,Skin infections,Weight loss,Itching,Respiratory,,Yes
+Cow,Weight loss,Sneezing,Itching,Teeth problems,Hair loss,Respiratory,,Yes
+Pig,Nasal discharge,Sneezing,Diarrhea,Cough,Hair loss,Respiratory,,Yes
+Dog,Digestion issues,Diarrhea,Hair loss,Skin infections,Fever,Gastrointestinal,,Yes
+Cat,Hair loss,Cough,Sneezing,Itching,Diarrhea,Respiratory,,Yes
+Duck,Hair loss,Itching,Vomiting,Teeth problems,Diarrhea,Gastrointestinal,,Yes
+Dog,Sneezing,Itching,Absorption problems,Skin infections,Weight loss,Respiratory,,Yes
+Cat,Nasal discharge,Teeth problems,Cough,Diarrhea,Weight loss,Respiratory,,Yes
+Hamster,Cough,Itching,Digestion issues,Teeth problems,Skin infections,Respiratory,,Yes
+Chicken,Absorption problems,Fever,Skin infections,Sneezing,Diarrhea,Respiratory,,Yes
+Sheep,Hair loss,Digestion issues,Nasal discharge,Skin infections,Fever,Respiratory,,Yes
+Cat,Skin infections,Teeth problems,Itching,Sneezing,Weight loss,Respiratory,,Yes
+Parrot,Diarrhea,Digestion issues,Skin infections,Absorption problems,Nasal discharge,Respiratory,,Yes
+Horse,Teeth problems,Digestion issues,Diarrhea,Cough,Vomiting,Respiratory,,Yes
+Dog,Nasal discharge,Vomiting,Itching,Diarrhea,Fever,Respiratory,,Yes
+Guinea Pig,Skin infections,Sneezing,Digestion issues,Diarrhea,Vomiting,Respiratory,,Yes
+Tiger,Digestion issues,Teeth problems,Weight loss,Fever,Hair loss,Gastrointestinal,,Yes
+Turtle,Sneezing,Nasal discharge,Teeth problems,Fever,Itching,Respiratory,,Yes
+Elephant,Weight loss,Teeth problems,Absorption problems,Cough,Fever,Respiratory,,Yes
+Dog,Digestion issues,Fever,Diarrhea,Sneezing,Nasal discharge,Respiratory,,Yes
+Sheep,Weight loss,Teeth problems,Cough,Sneezing,Digestion issues,Respiratory,,Yes
+Rabbit,Hair loss,Nasal discharge,Absorption problems,Teeth problems,Vomiting,Respiratory,,Yes
+Turtle,Itching,Nasal discharge,Vomiting,Absorption problems,Digestion issues,Respiratory,,Yes
+Horse,Hair loss,Teeth problems,Absorption problems,Cough,Digestion issues,Respiratory,,Yes
+Pig,Itching,Absorption problems,Weight loss,Teeth problems,Hair loss,Gastrointestinal,,Yes
+Dog,Vomiting,Cough,Sneezing,Nasal discharge,Weight loss,Respiratory,,Yes
+Turtle,Itching,Weight loss,Fever,Vomiting,Hair loss,Gastrointestinal,,Yes
+Turtle,Fever,Skin infections,Absorption problems,Weight loss,Teeth problems,Gastrointestinal,,Yes
+Tiger,Hair loss,Absorption problems,Sneezing,Digestion issues,Diarrhea,Respiratory,,Yes
+Elephant,Nasal discharge,Fever,Hair loss,Teeth problems,Weight loss,Respiratory,,Yes
+Hamster,Vomiting,Sneezing,Absorption problems,Teeth problems,Diarrhea,Respiratory,,Yes
+Dog,Digestion issues,Cough,Fever,Diarrhea,Absorption problems,Respiratory,,Yes
+Cow,Cough,Vomiting,Weight loss,Absorption problems,Fever,Respiratory,,Yes
+Tiger,Absorption problems,Teeth problems,Fever,Cough,Nasal discharge,Respiratory,,Yes
+Tiger,Digestion issues,Teeth problems,Absorption problems,Itching,Vomiting,Gastrointestinal,,Yes
+Monkey,Absorption problems,Cough,Digestion issues,Fever,Itching,Respiratory,,Yes
+Chicken,Fever,Teeth problems,Absorption problems,Cough,Weight loss,Respiratory,,Yes
+Sheep,Itching,Diarrhea,Fever,Absorption problems,Nasal discharge,Respiratory,,Yes
+Sheep,Hair loss,Diarrhea,Sneezing,Vomiting,Nasal discharge,Respiratory,,Yes
+Elephant,Skin infections,Diarrhea,Cough,Hair loss,Fever,Respiratory,,Yes
+Parrot,Skin infections,Nasal discharge,Itching,Absorption problems,Sneezing,Respiratory,,Yes
+Cat,Digestion issues,Diarrhea,Absorption problems,Sneezing,Cough,Respiratory,,Yes
+Tiger,Sneezing,Teeth problems,Weight loss,Hair loss,Cough,Respiratory,,Yes
+Rabbit,Skin infections,Cough,Diarrhea,Vomiting,Itching,Respiratory,,Yes
+Horse,Vomiting,Digestion issues,Weight loss,Cough,Absorption problems,Respiratory,,Yes
+Rabbit,Digestion issues,Diarrhea,Nasal discharge,Teeth problems,Weight loss,Respiratory,,Yes
+Tiger,Teeth problems,Weight loss,Hair loss,Cough,Digestion issues,Respiratory,,Yes
+Goat,Fever,Itching,Vomiting,Cough,Absorption problems,Respiratory,,Yes
+Tiger,Skin infections,Nasal discharge,Teeth problems,Sneezing,Cough,Respiratory,,Yes
+Hamster,Hair loss,Nasal discharge,Cough,Teeth problems,Vomiting,Respiratory,,Yes
+Duck,Absorption problems,Skin infections,Weight loss,Digestion issues,Diarrhea,Gastrointestinal,,Yes
+Lion,Teeth problems,Diarrhea,Sneezing,Cough,Absorption problems,Respiratory,,Yes
+Cow,Absorption problems,Itching,Digestion issues,Skin infections,Cough,Respiratory,,Yes
+Guinea Pig,Itching,Weight loss,Vomiting,Nasal discharge,Absorption problems,Respiratory,,Yes
+Chicken,Vomiting,Diarrhea,Hair loss,Sneezing,Teeth problems,Respiratory,,Yes
+Lion,Sneezing,Hair loss,Skin infections,Digestion issues,Weight loss,Respiratory,,Yes
+Horse,Digestion issues,Absorption problems,Skin infections,Hair loss,Diarrhea,Gastrointestinal,,Yes
+Cat,Absorption problems,Skin infections,Itching,Hair loss,Diarrhea,Gastrointestinal,,Yes
+Cat,Hair loss,Absorption problems,Sneezing,Fever,Nasal discharge,Respiratory,,Yes
+Horse,Sneezing,Digestion issues,Weight loss,Vomiting,Teeth problems,Respiratory,,Yes
+Hamster,Weight loss,Nasal discharge,Skin infections,Hair loss,Absorption problems,Respiratory,,Yes
+Horse,Skin infections,Absorption problems,Weight loss,Nasal discharge,Cough,Respiratory,,Yes
+Tiger,Sneezing,Nasal discharge,Diarrhea,Digestion issues,Hair loss,Respiratory,,Yes
+Dog,Skin infections,Cough,Itching,Digestion issues,Weight loss,Respiratory,,Yes
+Lion,Itching,Fever,Sneezing,Vomiting,Diarrhea,Respiratory,,Yes
+Horse,Absorption problems,Nasal discharge,Skin infections,Fever,Sneezing,Respiratory,,Yes
+Parrot,Skin infections,Nasal discharge,Digestion issues,Sneezing,Teeth problems,Respiratory,,Yes
+Monkey,Teeth problems,Hair loss,Weight loss,Cough,Fever,Respiratory,,Yes
+Duck,Skin infections,Digestion issues,Vomiting,Cough,Fever,Respiratory,,Yes
+Cat,Skin infections,Diarrhea,Weight loss,Absorption problems,Digestion issues,Gastrointestinal,,Yes
+Cow,Diarrhea,Vomiting,Skin infections,Fever,Sneezing,Respiratory,,Yes
+Cat,Itching,Diarrhea,Sneezing,Weight loss,Skin infections,Respiratory,,No
+Horse,Nasal discharge,Fever,Hair loss,Cough,Diarrhea,Respiratory,,No
+Guinea Pig,Cough,Nasal discharge,Skin infections,Digestion issues,Fever,Respiratory,,No
+Duck,Teeth problems,Hair loss,Itching,Skin infections,Sneezing,Respiratory,,No
+Cow,Digestion issues,Cough,Teeth problems,Absorption problems,Nasal discharge,Respiratory,,No
+Goat,Diarrhea,Vomiting,Teeth problems,Fever,Digestion issues,Gastrointestinal,,No
+Monkey,Itching,Hair loss,Sneezing,Digestion issues,Absorption problems,Respiratory,,No
+Cat,Itching,Skin infections,Digestion issues,Hair loss,Nasal discharge,Respiratory,,No
+Guinea Pig,Absorption problems,Vomiting,Digestion issues,Skin infections,Itching,Gastrointestinal,,No
+Chicken,Skin infections,Teeth problems,Absorption problems,Weight loss,Vomiting,Gastrointestinal,,No
+Turtle,Absorption problems,Fever,Skin infections,Diarrhea,Hair loss,Gastrointestinal,,No
+Horse,Absorption problems,Digestion issues,Cough,Fever,Teeth problems,Respiratory,,No
+Fish,Absorption problems,Weight loss,Diarrhea,Hair loss,Cough,Respiratory,,No
+Dog,Skin infections,Hair loss,Absorption problems,Nasal discharge,Weight loss,Respiratory,,No
+Duck,Teeth problems,Cough,Vomiting,Absorption problems,Fever,Respiratory,,No
+Turtle,Sneezing,Itching,Digestion issues,Nasal discharge,Fever,Respiratory,,No
+Hamster,Sneezing,Hair loss,Itching,Diarrhea,Nasal discharge,Respiratory,,No
+Dog,Weight loss,Teeth problems,Diarrhea,Absorption problems,Itching,Gastrointestinal,,No
+Rabbit,Itching,Cough,Skin infections,Diarrhea,Vomiting,Respiratory,,No
+Duck,Teeth problems,Nasal discharge,Cough,Itching,Hair loss,Respiratory,,No
+Pig,Absorption problems,Sneezing,Itching,Skin infections,Fever,Respiratory,,No
+Cow,Teeth problems,Skin infections,Diarrhea,Cough,Nasal discharge,Respiratory,,No
+Hamster,Teeth problems,Skin infections,Fever,Nasal discharge,Cough,Respiratory,,No
+Dog,Absorption problems,Weight loss,Fever,Diarrhea,Teeth problems,Gastrointestinal,,No
+Lion,Diarrhea,Itching,Skin infections,Weight loss,Nasal discharge,Respiratory,,No
+Guinea Pig,Diarrhea,Cough,Nasal discharge,Teeth problems,Fever,Respiratory,,No
+Duck,Vomiting,Sneezing,Fever,Hair loss,Diarrhea,Respiratory,,No
+Monkey,Vomiting,Digestion issues,Cough,Nasal discharge,Diarrhea,Respiratory,,No
+Monkey,Digestion issues,Nasal discharge,Fever,Diarrhea,Itching,Respiratory,,No
+Hamster,Weight loss,Itching,Fever,Teeth problems,Sneezing,Respiratory,,No
+Hamster,Absorption problems,Cough,Hair loss,Teeth problems,Digestion issues,Respiratory,,No
+Turtle,Weight loss,Cough,Fever,Diarrhea,Absorption problems,Respiratory,,No
+Cat,Digestion issues,Skin infections,Hair loss,Weight loss,Diarrhea,Gastrointestinal,,No
+Cat,Fever,Teeth problems,Nasal discharge,Absorption problems,Digestion issues,Respiratory,,No
+Hamster,Hair loss,Diarrhea,Weight loss,Digestion issues,Sneezing,Respiratory,,No
+Cat,Sneezing,Cough,Fever,Diarrhea,Skin infections,Respiratory,,No
+Turtle,Fever,Itching,Nasal discharge,Hair loss,Cough,Respiratory,,No
+Guinea Pig,Itching,Diarrhea,Nasal discharge,Absorption problems,Hair loss,Respiratory,,No
+Sheep,Skin infections,Cough,Nasal discharge,Sneezing,Vomiting,Respiratory,,No
+Chicken,Sneezing,Diarrhea,Hair loss,Vomiting,Absorption problems,Respiratory,,No
+Cat,Itching,Fever,Teeth problems,Absorption problems,Nasal discharge,Respiratory,,No
+Guinea Pig,Diarrhea,Hair loss,Sneezing,Skin infections,Teeth problems,Respiratory,,No
+Cow,Absorption problems,Fever,Diarrhea,Teeth problems,Itching,Gastrointestinal,,No
+Horse,Nasal discharge,Vomiting,Digestion issues,Fever,Weight loss,Respiratory,,No
+Sheep,Absorption problems,Vomiting,Sneezing,Cough,Fever,Respiratory,,No
+Turtle,Teeth problems,Absorption problems,Vomiting,Cough,Weight loss,Respiratory,,No
+Horse,Sneezing,Absorption problems,Cough,Fever,Weight loss,Respiratory,,No
+Guinea Pig,Vomiting,Skin infections,Absorption problems,Sneezing,Nasal discharge,Respiratory,,No
+Cow,Nasal discharge,Fever,Diarrhea,Itching,Teeth problems,Respiratory,,No
+Elephant,Skin infections,Weight loss,Sneezing,Itching,Absorption problems,Respiratory,,No
+Horse,Vomiting,Hair loss,Sneezing,Weight loss,Nasal discharge,Respiratory,,No
+Elephant,Digestion issues,Weight loss,Nasal discharge,Cough,Teeth problems,Respiratory,,No
+Duck,Diarrhea,Absorption problems,Cough,Digestion issues,Itching,Respiratory,,No
+Monkey,Vomiting,Hair loss,Digestion issues,Cough,Nasal discharge,Respiratory,,No
+Monkey,Weight loss,Nasal discharge,Fever,Teeth problems,Digestion issues,Respiratory,,No
+Dog,Digestion issues,Teeth problems,Sneezing,Absorption problems,Skin infections,Respiratory,,No
+Cow,Digestion issues,Nasal discharge,Teeth problems,Vomiting,Cough,Respiratory,,No
+Fish,Cough,Skin infections,Diarrhea,Nasal discharge,Itching,Respiratory,,No
+Rabbit,Skin infections,Hair loss,Vomiting,Digestion issues,Cough,Respiratory,,No
+Pig,Itching,Fever,Nasal discharge,Digestion issues,Diarrhea,Respiratory,,No
+Rabbit,Diarrhea,Itching,Sneezing,Skin infections,Cough,Respiratory,,No
+Elephant,Absorption problems,Nasal discharge,Cough,Itching,Teeth problems,Respiratory,,No
+Guinea Pig,Hair loss,Vomiting,Sneezing,Cough,Skin infections,Respiratory,,No
+Monkey,Weight loss,Hair loss,Diarrhea,Fever,Vomiting,Gastrointestinal,,No
+Lion,Cough,Itching,Nasal discharge,Absorption problems,Digestion issues,Respiratory,,No
+Cat,Skin infections,Absorption problems,Fever,Weight loss,Sneezing,Respiratory,,No
+Pig,Itching,Fever,Teeth problems,Sneezing,Diarrhea,Respiratory,,No
+Elephant,Teeth problems,Nasal discharge,Itching,Sneezing,Weight loss,Respiratory,,No
+Fish,Digestion issues,Hair loss,Itching,Diarrhea,Absorption problems,Gastrointestinal,,No
+Tiger,Hair loss,Digestion issues,Fever,Nasal discharge,Sneezing,Respiratory,,No
+Guinea Pig,Diarrhea,Weight loss,Vomiting,Digestion issues,Cough,Respiratory,,No
+Cat,Skin infections,Itching,Vomiting,Sneezing,Absorption problems,Respiratory,,No
+Fish,Digestion issues,Fever,Skin infections,Sneezing,Itching,Respiratory,,No
+Hamster,Fever,Itching,Teeth problems,Digestion issues,Skin infections,Digestive,,Yes
+Horse,Digestion issues,Fever,Weight loss,Vomiting,Cough,Respiratory,,Yes
+Pig,Digestion issues,Skin infections,Cough,Diarrhea,Absorption problems,Respiratory,,Yes
+Goat,Itching,Fever,Hair loss,Teeth problems,Nasal discharge,Respiratory,,Yes
+Guinea Pig,Absorption problems,Weight loss,Fever,Diarrhea,Cough,Respiratory,,Yes
+Guinea Pig,Vomiting,Itching,Fever,Absorption problems,Hair loss,Gastrointestinal,,Yes
+Turtle,Nasal discharge,Itching,Fever,Skin infections,Absorption problems,Respiratory,,Yes
+Goat,Absorption problems,Cough,Nasal discharge,Skin infections,Weight loss,Respiratory,,Yes
+Turtle,Sneezing,Nasal discharge,Digestion issues,Fever,Weight loss,Respiratory,,Yes
+Guinea Pig,Weight loss,Digestion issues,Fever,Teeth problems,Absorption problems,Gastrointestinal,,Yes
+Goat,Nasal discharge,Cough,Fever,Sneezing,Diarrhea,Respiratory,,Yes
+Chicken,Absorption problems,Diarrhea,Hair loss,Teeth problems,Fever,Gastrointestinal,,Yes
+Tiger,Digestion issues,Absorption problems,Itching,Vomiting,Hair loss,Gastrointestinal,,Yes
+Goat,Itching,Sneezing,Cough,Absorption problems,Fever,Respiratory,,Yes
+Guinea Pig,Teeth problems,Digestion issues,Cough,Diarrhea,Weight loss,Respiratory,,Yes
+Guinea Pig,Cough,Digestion issues,Itching,Vomiting,Absorption problems,Respiratory,,Yes
+Chicken,Digestion issues,Teeth problems,Sneezing,Skin infections,Weight loss,Respiratory,,Yes
+Dog,Hair loss,Skin infections,Weight loss,Nasal discharge,Sneezing,Respiratory,,Yes
+Fish,Digestion issues,Diarrhea,Fever,Weight loss,Hair loss,Gastrointestinal,,Yes
+Chicken,Weight loss,Absorption problems,Cough,Itching,Fever,Respiratory,,Yes
+Horse,Sneezing,Weight loss,Absorption problems,Teeth problems,Hair loss,Respiratory,,Yes
+Sheep,Absorption problems,Weight loss,Itching,Vomiting,Digestion issues,Gastrointestinal,,Yes
+Lion,Teeth problems,Digestion issues,Vomiting,Weight loss,Nasal discharge,Respiratory,,Yes
+Dog,Digestion issues,Sneezing,Teeth problems,Cough,Hair loss,Respiratory,,Yes
+Horse,Cough,Vomiting,Teeth problems,Itching,Fever,Respiratory,,Yes
+Horse,Cough,Sneezing,Fever,Skin infections,Digestion issues,Respiratory,,Yes
+Fish,Diarrhea,Sneezing,Vomiting,Skin infections,Teeth problems,Respiratory,,Yes
+Dog,Sneezing,Diarrhea,Vomiting,Absorption problems,Teeth problems,Respiratory,,Yes
+Lion,Diarrhea,Itching,Sneezing,Vomiting,Absorption problems,Respiratory,,Yes
+Guinea Pig,Fever,Vomiting,Teeth problems,Weight loss,Cough,Respiratory,,Yes
+Pig,Itching,Nasal discharge,Absorption problems,Vomiting,Sneezing,Respiratory,,Yes
+Dog,Absorption problems,Skin infections,Digestion issues,Vomiting,Diarrhea,Gastrointestinal,,Yes
+Pig,Sneezing,Cough,Fever,Teeth problems,Digestion issues,Respiratory,,Yes
+Cow,Cough,Sneezing,Vomiting,Skin infections,Diarrhea,Respiratory,,Yes
+Elephant,Hair loss,Cough,Vomiting,Weight loss,Diarrhea,Respiratory,,Yes
+Chicken,Fever,Hair loss,Digestion issues,Teeth problems,Itching,Digestive,,Yes
+Goat,Skin infections,Vomiting,Diarrhea,Cough,Absorption problems,Respiratory,,No
+Hamster,Weight loss,Digestion issues,Absorption problems,Sneezing,Vomiting,Respiratory,,No
+Rabbit,Teeth problems,Nasal discharge,Itching,Hair loss,Absorption problems,Respiratory,,No
+Rabbit,Itching,Fever,Teeth problems,Digestion issues,Absorption problems,Digestive,,No
+Rabbit,Cough,Vomiting,Sneezing,Absorption problems,Hair loss,Respiratory,,No
+Guinea Pig,Skin infections,Itching,Cough,Absorption problems,Weight loss,Respiratory,,No
+Duck,Absorption problems,Itching,Sneezing,Diarrhea,Digestion issues,Respiratory,,No
+Sheep,Skin infections,Absorption problems,Diarrhea,Cough,Vomiting,Respiratory,,No
+Tiger,Hair loss,Fever,Nasal discharge,Weight loss,Itching,Respiratory,,No
+Guinea Pig,Weight loss,Absorption problems,Teeth problems,Diarrhea,Vomiting,Gastrointestinal,,No
+Goat,Fever,Diarrhea,Sneezing,Cough,Teeth problems,Respiratory,,No
+Elephant,Vomiting,Skin infections,Itching,Fever,Weight loss,Gastrointestinal,,Yes
+Turtle,Hair loss,Fever,Teeth problems,Weight loss,Digestion issues,Gastrointestinal,,Yes
+Monkey,Sneezing,Digestion issues,Vomiting,Weight loss,Fever,Respiratory,,Yes
+Rabbit,Sneezing,Skin infections,Weight loss,Diarrhea,Vomiting,Respiratory,,Yes
+Fish,Itching,Skin infections,Teeth problems,Nasal discharge,Hair loss,Respiratory,,Yes
+Horse,Digestion issues,Fever,Hair loss,Vomiting,Sneezing,Respiratory,,Yes
+Duck,Diarrhea,Skin infections,Digestion issues,Itching,Absorption problems,Gastrointestinal,,Yes
+Parrot,Nasal discharge,Teeth problems,Hair loss,Fever,Cough,Respiratory,,Yes
+Cat,Teeth problems,Absorption problems,Skin infections,Diarrhea,Digestion issues,Gastrointestinal,,Yes
